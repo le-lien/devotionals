@@ -1,0 +1,14 @@
+  "05-22": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Matthew 27:32–54',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'No need to wonder what you have to do to get God’s acceptance. Jesus purchased your acceptance on the cross.\nThe cross of Jesus Christ took the “acceptance with God” issue off the table for every one of his blood-purchased children. Now, you just can’t get any better news than that! On the cross, the worst thing that could ever happen became the best thing that could ever happen. Let me explain.\nThe cruelest aspect of the suffering of Christ was not the human mockery, the slaps and thorns, the whip, or the nails. No, the most horrible moment for Jesus on the cross is recorded in Matthew 27:45–46: “Now from the sixth hour there was darkness over all the land until the ninth hour. And about the ninth hour Jesus cried out with a loud voice, saying, ‘Eli, Eli, lema sabachthani?’ that is, ‘My God, my God, why have you forsaken me?’” Those words of utter grief echo back through the centuries to another horrible moment. It was the moment when the sinful rebellion of Adam and Eve separated them from the God who had created them to know, enjoy, and commune with him forever. It was a moment of horror when God drove them out of the garden and far away from his presence. The deepest need of all humanity from that point on was that somehow, some way communion with God would be restored. But thousands of years went by, each year being stained with the reality of that separation. There was no way people could be what they were meant to be and do what they had been intended to do while they were separated from God.\nSo Jesus was willing to come and live the life we could not live and die the death that we deserved, but that’s not all he was willing to do. He willingly endured the Father’s rejection so that we would know his acceptance. What could be more horrible than this separation between the Father and the Son? Yet, this unthinkably awful separation, by sovereign grace, met our deepest need. In Christ’s rejection came our acceptance. In Christ’s moment of horror we were given eternal hope. Because he was willing to endure the terrible pain of the Father’s rejection, you and I will never, ever again see the back of God’s head.\nYour acceptance before God has been purchased and doesn’t need to be purchased again. As God’s child, there is nothing that you can do to get more of\nGod’s acceptance and there is nothing you can do that would cause him to take your acceptance away. Your acceptance with God is just as secure on your very worst day as it is on your very best day, because it was purchased once and for all by your suffering Savior, the Lord Jesus Christ.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

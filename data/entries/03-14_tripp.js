@@ -1,0 +1,14 @@
+  "03-14": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Hebrews 10:19–25',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Corporate worship is designed to once again clear up our confusion as to what is truly important in life.\nHere’s what we all need to understand. This side of eternity, it’s very hard for us to keep what God says is important as important in our hearts. For all of us, things rise to levels of importance far beyond their true importance and begin to command the thoughts, motives, desires, choices, and allegiance of our hearts.\nAs human beings made in the likeness of God, we don’t live by instinct. No, we are value-oriented, goal-oriented, purpose-oriented, and importance-oriented beings. We are always living in the quest for something. We are always in pursuit of some vision, some desire, or some dream. Every day we all name things as important, and when we do, we work to have those things in our lives.\nYou could argue that everything we do and say is our attempt to get what is important to us from the situations, relationships, and locations in which we live.\nWhat I am describing is a huge spiritual battle that is fought on the turf of your heart. You see, whatever important thing rules your heart also shapes your words and behavior. The fact of the matter is that we all lose sight of what is truly important. Winning an argument becomes too important for us. A beautiful house rises in importance beyond its true worth. Getting that next promotion becomes too important. Having a comfortable and predictable life takes on too much value. Being liked by other people becomes more important to us than the favor of God. Physical beauty and pleasure take on too much value in our hearts.\nA cool car, a great steak, nice clothes, or the last bowl of cereal from the box rises in value far beyond its true significance. We all need to be reminded again and again of what God has declared are the most important things in life.\nSo in grace, God has designed us to regularly gather together and remember the things that are worth living for. Corporate worship reminds us of his power, glory, and grace. It reminds us of the depth of our spiritual needs. It reminds us of the eternity that is to come. It reminds us of salvation past, present, and future.\nAnd as it reminds us of these things, it clears up our values confusion once again, rescuing us from our wandering and often-fickle hearts, and pointing us to the One who rightly commands our allegiance and in grace gives us every\nimportant thing that we would ever need.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

@@ -1,0 +1,14 @@
+  "10-14": {
+    "title": 'THE KEY TO THE MISSIONARY',
+    "note": '',
+    "passage": '',
+    "dailyVerse": {
+      "ref": 'The basis of missionary appeals is the authority of Jesus Christ, not the needs of the heathen. We are apt to look upon Our Lord as One Who assists us in our enterprises for God. Our Lord puts Himself as the absolute sovereign supreme Lord over His disciples. He does not say the heathen will be lost if we do not go; He simply says - “Go ye therefore and teach all nations.” Go on the revelation of My sovereignty; teach and preach out of a living experience of Me.',
+      "text": 'All power is given unto Me in heaven and in earth. Go ye therefore, and teach all nations.”  Matthew 28:18-20'
+    },
+    "body": '“Then the eleven disciples went . . unto a mountain where Jesus had\nappointed them.” v. 16. If I want to know the universal sovereignty of Christ, I must know Him for myself, and how to get alone with Him; I must take time to worship the Being Whose Name I bear. “Come unto Me” - that is the place to meet Jesus. Are you weary and heavy laden? How many missionaries are! We banish those marvellous words of the universal Sovereign of the world to the threshold of an after-meeting; they are the words of Jesus to His disciples.\n“Go ye therefore… .” Go simply means live. Acts 1:8 is the description of how to go. Jesus did not say - Go into Jerusalem and Judea and Samaria, but, “Ye shall be witnesses unto Me” in all these places. He undertakes to establish the goings.\n“If ye abide in Me, and My words abide in you… ” - that is the way to keep going in our personal lives. Where we are placed is a matter of indifference; God engineers the goings.\n“None of these things move me, neither count I my life dear unto myself …” That is how to keep going till we’re gone. ',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

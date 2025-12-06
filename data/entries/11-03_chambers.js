@@ -1,0 +1,14 @@
+  "11-03": {
+    "title": 'A BOND-SLAVE OF JESUS',
+    "note": '',
+    "passage": '',
+    "dailyVerse": {
+      "ref": 'These words mean the breaking of my independence with my own hand and surrendering to the supremacy of the Lord Jesus. No one can do this for me, I must do it myself. God may bring me up to the point three hundred and sixty-five times a year, but He cannot put me through it. It means breaking the husk of my individual independence of God, and the emancipating of my personality into oneness with Himself, not for my own ideas, but for absolute loyalty to Jesus. There is no possibility of dispute when once I am there.',
+      "text": 'I am crucified with Christ; nevertheless I live; yet not I, but Christ liveth in me.”  Galatians 2:20'
+    },
+    "body": 'Very few of us know anything about loyalty to Christ - “For My sake.”  It is that which makes the iron saint.\nHas that break come? All the rest is pious fraud. The one point to decide is - Will I give up, will I surrender to Jesus Christ, and make no conditions whatever as to how the break comes? I must be broken from my self-realization, and immediately that point is reached, the reality of the supernatural identification takes place at once, and the witness of the Spirit of God is unmistakable - “I have been crucified with Christ.”\nThe passion of Christianity is that I deliberately sign away my own rights and become a bond-slave of Jesus Christ. Until I do that, I do not begin to be a saint.\nOne student a year who hears God’s call would be sufficient for God to have called this College into existence. This College as an organization is not worth anything, it is not academic; it is for nothing else but for God to help Himself to lives. Is He going to help Himself to us, or are we taken up with our conception of what we are going to be? ',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

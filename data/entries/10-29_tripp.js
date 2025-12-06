@@ -1,0 +1,14 @@
+  "10-29": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: 1 Corinthians 1:18–31',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'If you trust only when you understand, you’ll live with lots of doubt. God’s wisdom is bigger than anything your mind can conceive.\nIt’s humbling to admit, but important nonetheless. You will never reach true, sturdy, and lasting peace and rest of heart by means of understanding. “Why?”\nyou may ask. Because there will always be things in your life that you do not understand. God reveals in his Word all the things that you need to know, but he does not tell you all the things that could be known. He reveals his plan for all his people in his Word, but he does not tell you his individualized sovereign plan for you. You and I simply are not able to contain in our limited brains all of God’s plans for us and all of the reasons for those plans.\nNow, here’s the rub: God created you to be a rational human being. He designed you to think, that is, to strive to make sense out of your life and your world. That is not a bad thing in itself. In fact, it is a very good thing. Your ability to think, interpret, examine, define, explain, and understand is meant to drive you to God. Your mentality is meant to lead you to him and to enable you to understand his revelation to you. So biblical faith is not irrational, but you must face this: it will take you beyond your ability to reason. You and I never could have started at the fall of Adam and Eve and used reason to predict the coming of Jesus and his death on the cross. Old Testament believers knew that God was going to deal with sin and give new life to his people because God told them that this was what he was going to do. But they did not know that the death of the Son of God would be the means by which this would happen.\nIn the same way, as we stand between the “already” and the “not yet,” we can be assured of all that God has told us in his Word, but we can also be sure that there is much that he has not told us about what is to come, personally and collectively. So there will be mysteries and surprises in our lives. If you and I suspend belief at every encounter with mystery, we will spend large portions of our lives not believing. If we question God’s goodness and love every time he acts in a way that is unexpected, we will end up concluding that he is not good.\nIf we refuse to rest when we don’t understand, we will end up living lives of distress.\nSo where is peace and rest of heart to be found? You rest in the fact that in his Word God has told you all the things you absolutely need to know, and then you rest in the complete perfection of his wisdom and character. You rest not because you know, but because the One who knows it all is the definition of what is wise and what is good.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

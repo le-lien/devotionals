@@ -1,0 +1,14 @@
+  "09-27": {
+    "title": 'Abundant Life',
+    "note": 'I have come that they may have life, and that they may have it more abundantly.',
+    "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/JHN.10.NKJV?parallel=151">John 10:1–18</a>',
+    "dailyVerse": {
+      "ref": 'John 10:10',
+      "text": 'I have come that they may have life, and that they may have it more abundantly.'
+    },
+    "body": 'od has a plan for us in this life of the Spirit, this abundant life. Jesus came so that we might have life. Satan comes to steal G and kill and destroy (John 10:10), but God has abundance for us—full measure, pressed down, shaken together, overflowing, abundant measure (Luke 6:38). This abundance is God filling us with His own personality and presence, making us salt and light and giving us a revelation of Himself. It is God with us in all circumstances, afflictions, persecutions, and trials, girding us with truth. Christ the Initiative, the Triune God, is in control, and our every thought, word, and action must be in line with Him, with no weakness or failure. Our lives are  “hidden with Christ in God”  (Col. 3:3).   When He who is our life is manifested, we will also  “appear with Him in glory”  (v. 4).\n\nFor we know that if our earthly house, this tent, is destroyed, we have a building from God, a house not made with hands, eternal in the heavens.…For we who are in this tent groan, being burdened, not because we want to be unclothed, but further clothed, that mortality may be swallowed up by life. Now He who has prepared us for this very thing is God, who also has given us the Spirit as a guarantee. (2 Cor. 5:1, 4–5) God‘s Word is a tremendous word, a productive word. It produces what it is—power. It produces Godlikeness. We get to heaven through Christ, the Word of God; we have peace through the blood of His cross. Redemption is ours through the knowledge of the Word. I am saved because God‘s Word says so: “If you confess with your mouth the Lord Jesus and believe in your heart that God has raised Him from the dead, you will be saved”  (Rom. 10:9).\n\nIf I am baptized with the Holy Spirit, it is because Jesus said, “You shall receive power when the Holy Spirit has come upon you” (Acts 1:8). We must all have one thought—to be filled with the Ho-ly Spirit, to be filled with God.\n\nThe Holy Spirit has a royal plan, a heavenly plan. He came to unveil the King, to show the character of God, to unveil the precious blood of Jesus. Because I have the Holy Spirit within me, I see Jesus clothed for humanity. He was moved by the Spirit, led by the Spirit. We read of some who heard the Word of God but did not benefit from it because faith was lacking in them (Heb. 4:2). We must have a living faith in God‘s Word, a faith that is quickened by the Spirit.',
+    "dailyPrayer": {
+      "title": 'Thought for today',
+      "text": 'Our God is a God of might, light, and revelation, preparing us for heaven.'
+    }
+}

@@ -1,0 +1,14 @@
+  "02-03": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: 2 Peter 1:3–11',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'God’s grace not only provides you with what you need, but also transforms you into what he in wisdom created you to be.\nWhat is it that you need most? No, it’s not that girl or that new car that you’ve had your eyes on. It’s not that promotion you’ve worked so hard for or that vacation you’ve dreamed of. No, it’s not the perseverance to lose the weight you know you need to lose or the discipline to climb your way out of debt. It’s not a closer circle of friends or a solid church to attend. It’s not freedom from physical sickness or restoration to your estranged family. It’s not freedom from addiction, fear, depression, or worry. All of these things are very important in their own way, but they don’t represent your biggest need. There is one thing that every human being desperately needs, whether he knows it or not. This needs gets to the heart of who you are and the heart of what God designed you to be and to do.\nYour biggest need (and mine) is a fully restored relationship with God. We were created to live in worshipful community with him. Our lives were meant to be shaped by love for him. We were hardwired to live for his glory. If you are still living in a broken relationship to him, you are missing the primary purpose for your existence. So God in grace made a way, through the life, death, and resurrection of his Son, for that essential relationship to be fully restored.\nThrough him, we are once again given access to the Father. Through him, we are restored to God’s family.\nBut God does even more than this. As great as is the miracle that sinners, by grace, can be restored to God, he knows that there is something else that must be addressed. Sin not only left us separate from God, it left us damaged too. The damage of sin extends to every aspect of our personhood. So God not only meets our deepest need; he commits himself to the long-term process of personal heart and life transformation. He is not satisfied that we have been restored to him; he now works so that we will become like him. Paul says it this way: “For those whom he foreknew he also predestined to be conformed to the image of his Son”\n(Rom. 8:29).\nSo God has welcomed you into his arms, but he’s not satisfied. He will not leave his work of redemption until every heart of every one of his children has\nbeen fully transformed by his powerful grace. Now that we are with him by grace, he works by the very same grace so that we will be like him.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

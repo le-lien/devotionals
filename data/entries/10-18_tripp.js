@@ -1,0 +1,14 @@
+  "10-18": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Luke 12:22–34',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Don’t give way to discouragement, feelings of futility, or waves of fear, because the Father has graciously chosen to give you the kingdom!\nThere are so many reasons to be discouraged in this fallen world, it’s a wonder that anyone is happy. It’s discouraging to watch your marriage turn cold and distant. It’s disheartening to be betrayed by a dear friend. It’s disappointing to lose the job you worked at with such commitment. It’s depressing to face a sickness that you’re not sure you’ll ever lick. It’s hard to face the rebellion and rejection of one of your children. It’s discouraging to hear so often about corruption in politics and government. It’s disheartening to have to be concerned about crime and injustice. It’s tough to deal with the weaknesses of old age. It’s hard to be mocked and rejected for your faith. It’s sad to see your church become more a place of controversy than gospel healing. It can seem as if everything in your life is in the process of decaying or in danger of going bad. People die, dreams die, flowers die, and marriages, churches, jobs, and friendships go bad. If you look around, this old world that God created isn’t doing very well. In many ways, it’s a hard, discouraging place to live. The downward spiral of the fallen world can get to you. It seems that everything is impermanent or in the process of falling apart.\nBut that’s not all that is discouraging. It often seems as if you’re powerless to make much of a change. You do everything you can to restore your marriage, but it just seems stuck. You know you don’t have the power to change other people and you have limited power to change situations. It so often seems that you’re a witness to or affected by things you have little ability to alter.\nSo where is encouragement to be found? It’s found in grace, as depicted by these beautiful words: “Fear not, little flock, for it is your Father’s good pleasure to give you the kingdom” (Luke 12:32). With these words, everything changes.\nThese words tell you that it’s not you against a world gone bad. Yes, you are a citizen of this world and you are touched by its brokenness, but as you are, you must remind yourself that you are the citizen of another kingdom. Your King rules over everything that would discourage and disappoint you, and he rules for your good and his glory. What is out of your control is under his rule. What you\ndon’t understand is under his careful administration. But there is more. While everything around you seems impermanent, this kingdom will have no end.\nLong after the kingdoms of this world have been destroyed, you will reign with your King in his kingdom forever and ever and ever.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

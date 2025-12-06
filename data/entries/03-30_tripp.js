@@ -1,0 +1,14 @@
+  "03-30": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Galatians 6:1–10',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'If you are God’s child, you’re either giving in to sin or giving way to the operation of rescuing grace, but your heart’s never neutral.\nOne of the beautiful results of God’s redeeming grace in your life and mine is that the hearts of stone have been taken out of us and replaced with hearts of flesh. Think of the word picture here. If I had a stone in my hands and I pressed it with all of my might, what do you think would happen? Well, if you could see the size of my arms, you would immediately know the answer to the question. I could press that stone with all of the strength that I have and nothing whatsoever would happen. Stone is not malleable. It exists in a fixed shape. Before your conversion, you had that kind of heart. It was resistant to change. But that is not true any longer. Grace has given you a fleshy heart, one that is moldable by transforming grace.\nNow, this means that when you sin, desiring, thinking, saying, or doing what is wrong in God’s eyes, your conscience bothers you. What we’re talking about here is the convicting ministry of the Holy Spirit. When your conscience bothers you, you have only two choices. You can gladly confess that what you’ve done is sin and place yourself once again under the justifying mercies of Christ, or you can erect some system of self-justification that makes what God says is wrong acceptable to your conscience. We are all so good at doing this. We are good at pointing to something or someone who justifies what we have done. We are all very good at systems of self-atonement that essentially argue for our righteousness.\nWhat is deadly about this is that when you convince yourself that you are righteous, you quit seeking the grace that is your only hope in life or death. “If we say we have no sin, we deceive ourselves, and the truth is not in us. If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness” (1 John 1:8–9).\nThe fact of the matter is that none of us are grace graduates, including the man who is writing this devotion. We are all in daily and desperate need of forgiving, rescuing, transforming, and delivering grace. When you resist humble acknowledgment of your sin, you resist the ever-present Redeemer who is\nmaking that sin known to you. He does this not to humiliate or punish you, but because he loves you so much that he will not turn from his work of grace in your heart until that work has accomplished all that Jesus died to give you. There is little room for neutrality here. Today you will resist grace or you will humbly run to grace. May the latter be your choice.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

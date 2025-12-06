@@ -1,0 +1,14 @@
+  "10-05": {
+    "title": 'THE BIAS OF DEGENERATION',
+    "note": '',
+    "passage": '',
+    "dailyVerse": {
+      "ref": 'Romans 5:12',
+      "text": 'Wherefore as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned.'
+    },
+    "body": 'The Bible does not say that God punished the human race for one man’s sin; but that the disposition of sin, viz., my claim to my right to myself, entered into the human race by one man, and that another Man took on Him the sin of the human race and put it away (Heb.\n9:26) - an infinitely profounder revelation. The disposition of sin is not immorality and wrong-doing, but the disposition of self-realization - I am my own god. This disposition may work out in decorous morality or in indecorous immorality, but it has the one basis, my claim to my right to myself. When Our Lord faced men with all the forces of evil in them, and men who were clean living and\nmoral and up right, He did not pay any attention to the moral degradation of the one or to the moral attainment of the other; He looked at something we do not see, viz., the disposition.\nSin is a thing I am born with and I cannot touch it; God touches sin in Redemption. In the Cross of Jesus Christ God redeemed the whole human race from the possibility of damnation through the heredity of sin. God nowhere holds a man responsible for having the heredity of sin. The condemnation is not that I am born with a heredity of sin, but if when I realize Jesus Christ came to deliver me from it, I refuse to let Him do so, from that moment I begin to get the seal of damnation. “And this is the judgment” (the critical moment),\n“that the light is come into the world, and men loved the darkness rather than the light.” ',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

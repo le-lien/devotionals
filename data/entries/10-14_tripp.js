@@ -1,0 +1,14 @@
+  "10-14": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Lamentations 3:22–27',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'The battles of sanctification are many, but God’s mercies are new morning after morning after morning.\nThe battle for your heart still goes on. Temptations exist all around you. The enemy lurks as a roaring lion. Falsehood battles with truth. The people of God live as an often misunderstood minority. Sickness and suffering enter your door.\nYou need to grow in grace. In weakness, you give way to what you should resist.\nYou are sinned against by others. Hopes, dreams, and plans fail. You experience corruption and injustice. There are times when you are tempted to wonder if it’s all worth it. But in all this, God is still at work, molding you into the likeness of his Son. It is, in many ways, a multifaceted life of hardship—the hardships of life in this fallen world intersecting with the restorative hardships of grace.\nMaybe you’re reading and thinking, “Boy, Paul, this has been very encouraging so far.” Well, let me ask you to reflect on something that is incredibly encouraging in the midst of the hardships that will not end until we are on the other side. It is captured by these words: “The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness” (Lam. 3:22–23).\nConsider what this passage says about who you are and what you have been given as a child of God. God’s steadfast, faithful, and never-failing love has been placed on you even though you never could have done anything to earn or deserve it. But there’s more to say about this love. It never ceases. God will never give up on you. He will never walk away in disgust. He will never regret that he placed his love on you. He will love you just as much on your worst day as he does on your best day. This gift of love is yours forever.\nBut the passage says more. It announces that as God’s child, you have been blessed with eternal mercies that are new every morning. Consider what this means. There are fresh mercies for you today, formfitted for all the things you will face, both those that you know about and may worry about, and those that you don’t know about yet. God’s mercy isn’t generic. It is personal grace, situational care, and concrete help. It meets you right where you are and gives you just what you need. You get it as you need it and are given as much as you\nneed. You don’t have to wonder about the supply of God’s mercy. It flows from a renewable font of grace that will never end. Yes, life this side of forever can be hard, but you’re not alone; you’ve been given sturdy love and new morning mercies—just what you need right here, right now.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

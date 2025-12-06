@@ -1,0 +1,14 @@
+  "02-07": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Romans 3:9–20',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Corporate worship is designed to humble you by pointing out the depth of your need and enthrall you by pointing to the glory of God’s provision.\nWe all do it in our own way. Seldom does a day go by without our doing it again. We even do it in the middle of worship services. But it is a dangerous thing to do. It doesn’t lead us anywhere good. We don’t like it when other people do it, but we fail to recognize how much we do it ourselves. We all work to convince ourselves that we are better off than we are. We all want to believe that we not that sinful after all. We compare ourselves to those who seem more sinful than us. We rewrite our history to make ourselves look better than we really are. We evaluate ourselves by looking into mirrors other than the one truly accurate mirror, the mirror of the Word of God. We list our good deeds to ourselves. We argue to ourselves and to others that what looked like sin was not sin at all. It is all a function of the delusional self-righteousness of sin. It involves daily acts of self-atonement. It is us working to convince ourselves that we really don’t need the amazing grace of a faithful, loving Savior. At street level, we all tend to back away from the radical message that we all say we believe. It is a shocking denial of sin and a minimizing of the grace that is a sinner’s only hope.\nGod knew that this would be our tendency. He is fully aware of the self-righteousness that still lives inside all of us. God knew that we would convince ourselves that we are okay when we’re not okay. So he designed a means for us to be confronted again and again with the depth of our sin and the expansive glory of his provision in the person and work of the Lamb, the Savior, the Redeemer—the Lord Jesus Christ. He ordained that we gather again and again in services of corporate worship and be confronted with our true identity as both sinners and children of grace. You see, when you understand the free gift of God’s provision of grace, you aren’t afraid to admit to the depth of your sin, and it is only when you have admitted the disaster of your sin that you are excited about the grace of Christ Jesus. Corporate worship really does confront us with the fact that we are worse off than we thought and that God’s grace is more amazing than we ever could have imagined. We will continue to need that\nreminder until our sin is no more and we are with him and like him forever.\nCorporate worship is not a thankless duty for the religiously committed. No, it’s another gift of mercy from a God of glorious grace (see Heb. 10:23–25).',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>About · My Devotional Journal</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="journal-header">
+    <div class="container header-container">
+      <div class="top-row">
+        <a class="logo" href="index.html">My Devotional Journal</a>
+        <nav class="site-nav-links">
+          <a href="about.html" class="active">About</a>
+          <a href="contact.html">Contact</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main class="container static-page">
+    <section class="static-section">
+      <h1>About</h1>
+      <p>
+        This is my personal devotional journal. I use it to read daily devotionals,
+        highlight passages, write inline comments, and keep notes and prayers.
+      </p>
+      <p>
+        Everything is stored locally in my browser for privacy. I can export/import my
+        notes and comments as a JSON file.
+      </p>
+      <p>
+        Going forward I may add more sources and a richer study workflow.
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© <span id="year"></span> My Devotional Journal.</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+  "08-30": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Ephesians 3:7–8',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Grace smashes your pride, but it gives you more reason for confidence than you have ever had before.\nIt is a statement of complete assurance and confidence, spoken by a man whose pride had just been smashed.\nNebuchadnezzar was the arrogant king of the conquering nation of Babylon.\nHe not only had devastated Judah and taken its people as his captive servants, but he had taken implements from the temple to be used as tools of idol worship, which he commanded everyone in his kingdom to render or face death. The extent of his pride is captured by these words: “Is not this great Babylon, which I have built by my mighty power as a royal residence and for the glory of my majesty?” (Dan. 4:30). But while the words were still in his mouth, he was dramatically humiliated by the One who alone has true glory and majesty. By the power of God, Nebuchadnezzar was “driven from among men and ate grass like an ox, and his body was wet with the dew of heaven till his hair grew as long as eagles’ feathers, and his nails were like birds’ claws” (v. 33).\nThe pride of the king had been destroyed by the finger of God. We don’t know for sure how long Nebuchadnezzar was in that humiliated, animalistic state, but we do know that when he rose out of it and his senses returned, his choking arrogance had been replaced with confidence. Are you confused at the distinction? Well, read these words and compare them to what Nebuchadnezzar had said before:\nAt the same time my reason returned to me, and for the glory of my kingdom, my majesty and splendor returned to me. My counselors and my lords sought me, and I was established in my kingdom, and still more greatness was added to me. Now I, Nebuchadnezzar, praise and extol and honor the king of heaven, for all his works are right and his ways are just; and those who walk in pride he is able to humble. (Dan. 4:36–37)\nNebuchadnezzar was confident in the position and power he had been given, but the old pride had been broken. You can see this in the fact that what he once took credit for building, he now praised God for establishing. Nebuchadnezzar did not minimize or deny the power and splendor of his reign, but he did not say as he once would have said, “This is from me, about me, and for me.” You see,\npride takes credit for what it could not achieve on its own, while confidence stands strong because it recognizes the power and presence of One greater. Only divine grace can lead you from one to the other.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

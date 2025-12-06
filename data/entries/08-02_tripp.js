@@ -1,0 +1,14 @@
+  "08-02": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Ezekiel 34:11–16',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Yes, you’re weak, you’re often foolish, and you tend to want your own way, but God’s redeeming grace is greater.\nPerhaps Isaiah 53:6 is the most accurate diagnostic passage in the Bible: “All we like sheep have gone astray; we have turned—every one—to his own way; and the LORD has laid on him the iniquity of us all.”\nNow, what you have to see first is that this passage is divided into two parts, diagnosis and cure. You simply will not be interested in the cure if you haven’t accepted the diagnosis, and you have to know that the cure is only as effective as the accuracy of the diagnosis.\nThe diagnosis: All have gone astray, each turning to his own way.\nThe first thing that should hit you in this diagnosis is that it is all-inclusive.\nThere are no exceptions. It is an accurate description of the heart and life of every person who has ever lived. You and I must forsake our attempts to convince ourselves and others that we are exceptions. Whatever this passage is describing is something we all do. What is it? Well, in some way, we all wander away from the Creator’s plan for us. We all find ways to step outside of his boundaries We all do things that he does not want us to do and fail to do what he has called us to do. In fact, we all, in word, thought, or deed, in moments of foolishness, weakness, or self-interest, wander away every day.\nThe passage says we’re like sheep. That’s an important element of this diagnosis; sheep wander because they’re sheep. It is their nature to do so. So our wandering-away problem is deeper than moments of bad choice and behavior.\nOur problem is a matter of nature. There is something inside us, something with which we were born, that causes us to wander away from the good and wise will of the Great Shepherd, and the Bible names it—sin. Sin is a matter of our nature before it is ever played out in our behavior. And what does that sin do to us? It causes us to make life all about us, to want little more than our own way, and to live like little self-sovereigns.\nWhat is the solution for people like us? Well, systems of behavior reformation won’t work for us because our problem is deeper than behavior.\nSystems of self-help won’t work because we are our own biggest problem. There\nis only one place to run for help. There is only one place to find a cure. It is only ever found in God’s redeeming grace. The grace that placed our iniquity on the Savior, so that we could be both forgiven and delivered, is more powerful than our sinful natures. Our cure is not a system; it is a person, and his name is Jesus!\nRun to him, he really is all that you need.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

@@ -1,0 +1,14 @@
+  "01-18": {
+    "title": 'A Divine Faith',
+    "note": 'Have faith in God.',
+    "passage": 'Scripture reading: Psalm 9',
+    "dailyVerse": {
+      "ref": 'Mark 11:22',
+      "text": 'Have faith in God.'
+    },
+    "body": 'here is a great difference between our faith and the faith of Jesus. Our faith comes to an end. Most people have come to T the place where they have said, "Lord, I have gone so far; now I can go no further. I have used all the faith I have, and I just have to stop now and pray for more faith."\n\nThank God that we have the faith we do, but there is another faith. I remember one day being in northern England and visiting some sick people. I was taken to a house where a young woman was lying on her bed. Her reason had gone, and many things were manifested there that were satanic, and I knew it.\n\nShe was only a young woman, a beautiful child. Then the husband, a young man, came in with a baby, and he leaned over to kiss his wife. The moment he did, she threw herself onto the other side of the bed, just as a lunatic would do, with no consciousness of the presence of her husband. That was very heartbreaking. Then he took the baby and pressed the baby‘s lips to the mother. Again, she responded wildly. I said to a sister who was attending her, "Have you had anyone to help?"\n\n"Oh," she said, "we have had everything."\n\nBut I said, "Have you no spiritual help?"\n\nHer husband stormed out and said, "Help? You think that we believe God after we have had seven weeks of no sleep and of ma-niac conditions? You are mistaken. You have come to the wrong house."\n\nThat brought me to a place of compassion that something had to be done for this woman. Then with my faith, I began to penetrate the heavens with my prayers. I never saw anyone get anything from God who prayed with an earthly focus. If you receive anything from God, you will have to pray into heaven, for the answers are all there.\n\nAs I saw in the presence of God the limitations of my faith, there came another faith, a faith that could not be denied, a faith that took the promise, a faith that believed God‘s Word. And I 37\n\ncame from that presence back again to earth, but I was not the same man under the same conditions that had confronted me before. In the name of Jesus, I was a man with a faith that could shake hell.\n\nI said, "Come out of her in the name of Jesus!" She rolled over, fell asleep, and wakened in fourteen hours, perfectly sane and perfectly whole. Oh, there is faith, but Jesus wants to bring us all into a place in line with God where we cease to be, and His faith takes over. God must have the right of way, of thought and of purpose. God must have control.',
+    "dailyPrayer": {
+      "title": 'Thought for today',
+      "text": 'You cannot know God by nature; you get to know Him by an open door of grace. The way to God is the way of faith; there isn‘t any other way.'
+    }
+}

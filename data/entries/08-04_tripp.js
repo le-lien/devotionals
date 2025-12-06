@@ -1,0 +1,14 @@
+  "08-04": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Psalm 86',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'When nothing else or no one else in your life remains and is faithful, you can rest assured that God will be both.\nI love the honesty of the Bible. I love that faith in God doesn’t require you and me to play monkey games with reality. I love that the Bible’s description of life in this fallen world is accurate and familiar. Psalm 90 is one of the most honest and descriptive psalms. How’s this for honesty? “The years of our life are seventy, or even by reason of strength eighty; yet their span is but toil and trouble; they are soon gone, and we fly away” (v. 10). Here’s what the psalmist is saying: “Your life will be short and will be marked by difficulty.” Not very good news is it? But it’s true. You live in a fallen world that itself groans, waiting for redemption. You live with flawed people who think, say, and do wrong things. You live in a place where corruption, immorality, injustice, pollution, and disease still live and do their ugly work. You live in an environment that does not function according to God’s original design. Every day is marked by little troubles, and big trouble will enter your door as well.\nIn all this, you are tempted to feel alone, forsaken, poor, and unable. In all this, you are tempted to wonder whether God exists, let alone if he hears or cares. In your trouble, some people around you are insensitive and unloving.\nThey find your troubles to be too much of a burden. And the people who are sensitive and loving have little power to erase your trouble. This is why the beginning of this psalm of trouble is so important. This honest psalm doesn’t begin with trouble; it begins with the most important declaration that anyone who faces trouble could ever hear: “Lord, you have been our dwelling place in all generations. Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God”\n(vv. 1–2).\nIf you are God’s child, you are not alone. Glorious grace has connected you to the One whose power and love don’t shift with the times. Grace has connected you and me to the One who is the ultimate dwelling place, the ultimate place to which we can run. This means that I am never left just to my own resources. I am never left to figure out and deal with life on my own. As God’s child, I must\nnever see myself as poor or forsaken. I must never buy into the lie that I have no recourse or hope. I must never think that my life is ruled by my difficulty. I must never give way to despondency or despair. Grace has opened the door of hope and refuge to me by connecting me to One who is eternal and who rules all the circumstances and relationships that would cause me to feel alone.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

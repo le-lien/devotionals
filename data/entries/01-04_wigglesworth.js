@@ -1,0 +1,14 @@
+  "01-04": {
+    "title": 'Opportunity for Action',
+    "note": 'Whatever you do, do all to the glory of God.',
+    "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/PRO.15.NKJV?parallel=151">Proverbs 15:28–16:9</a>',
+    "dailyVerse": {
+      "ref": '1 Corinthians 10:31',
+      "text": 'Whatever you do, do all to the glory of God.'
+    },
+    "body": 'In a ship one day, some people said to me, "We are going to have a program. Would you be a participant in the enter-O tainment?"\n\nI replied, "Come in a quarter of an hour, and I will tell you."\n\nThey came round again and said, "Are you ready?"\n\n"Yes," I told them, "I have got a clear witness that I have to be in the entertainment."\n\nSo they said to me, "What can you do?"\n\n"I can sing," I offered.\n\nThey said, "Where would you like to be scheduled in the entertainment? We are going to have a dance."\n\nI said, "Put me down just before the dance."\n\nI went to the entertainment, and when I saw the clergymen trying to please the people, it turned me to prayer. My turn came, and I went up to the piano with my "Redemption Songs." When the lady saw the music, she said, "I cannot play this kind of music."\n\nI said, "Be at peace, young lady. I have music and words inside." So I sang:\n\nIf I could only tell Him as I know Him.\n\nMy Redeemer who has brightened all my way;\n\nIf I could tell how precious is His presence, I am sure that you would make Him yours today.\n\nCould I tell it, Could I tell it,\n\nHow the sunshine of His presence lights my way.\n\nI would tell it, I would tell it,\n\nAnd I‘m sure that you would make Him yours today. I sang the song, and when I finished, the people said, "You have spoiled the dance." Well, I was there for that purpose, to spoil the dance. From the least to the greatest, they were weeping. They never had a dance, but they had a prayer meeting. Six young men were saved by the power of God in my cabin.\n\nA preacher came to me afterwards and said, "How dare you sing that?" "Why," I said, "how dare I not sing it?" It was my opportunity. He was going to India, and when he got there, he wrote in his periodical and mailed it to England. He said, "I did not seem to have any chance to preach the Gospel, but there was a plumber on board who seemed to have plenty of opportunities to preach to everybody. He said things that continue to stick with me. He told me that the book of Acts was written only because the apostles acted."\n\nYou see, I was in the drama of acting in the name of Jesus. And so that opened the door and provided me a place that I could speak all the time. The door was open in every way. Glory to God!',
+    "dailyPrayer": {
+      "title": 'Thought for today',
+      "text": 'You are in the right position when you allow the glory of the new life to cause you to act. Live in the Acts of the Apostles, and every day you will see some miracle worked by the power of the living God.'
+    }
+}

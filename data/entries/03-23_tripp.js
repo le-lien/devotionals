@@ -1,0 +1,14 @@
+  "03-23": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Jeremiah 32:16–27',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Because God rules all the places where you live, he is able to deliver his promises to you in the very circumstances where they are needed.\nI don’t know whether you have ever thought of this before, but God’s promises are only as good as the extent of his sovereignty. He can deliver what you need only in the places where he rules. If his rule is not firm and unchanging, his promises are not either. I think that many of us fail to make this connection, and when we do, we allow ourselves to celebrate his promises while subtly resisting his rule. He is your sovereign Savior. If he were not sovereign, you would have no guarantee that he could exercise the authority necessary to be your Savior.\nThink for a moment about the flow of biblical history. Think of the many generations of people that existed between the fall of Adam and Eve and the birth of Jesus Christ. Think of the myriad situations and locations in that span of time. Think of all the human governments that rose and fell. Think of all the decisions, great and small, that people made. Think of the constant life-and-death cycle of the physical creation. Now consider this—in order for Jesus to be born as was promised, to live as was necessary, and to die and rise on our behalf as he said he would, God had to exercise absolute rule over the forces of nature and complete control over the events of human history so that, at just the right moment, Jesus would be born, live, die, and rise again for our redemption.\nWithout the rule of the Almighty, there would’ve been no prophets predicting the birth of the Messiah, no angels announcing it to the shepherds, and no Mary wondering about the babe in the manger. There would’ve been no miracles in Palestine. There would’ve been no perfectly obedient Son of Man.\nThere would’ve been no unjust trial and cruel cross. There would’ve been no disciples to pass the life-giving gospel down to us, no Scripture, no church, and no hope of eternal life.\nIf you are going to reach for the life-giving promises of the gospel, you must also celebrate the absolute rule of the One who, because of his rule, is able to deliver those promises to you. Hope is not found just in the beauty of those promises, but in the incalculable power and authority of the One who has made them. There is no hope in the promises of one who has little power over the\nsituations and locations where they must be delivered. But you can have hope because your Lord has complete rule over all the places where you will need his promises to become your reality.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

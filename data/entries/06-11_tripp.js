@@ -1,0 +1,14 @@
+  "06-11": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Mark 7:1–23',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'No amount of guilt or shame can do what grace is able to do—make us people who delight in the Father’s will.\nYou will never understand your struggle with sin unless you grasp that, at its very bottom, sin is a heart problem. It’s not first a problem of bad behavior, although it always goes there. It’s not first an external temptation problem, although it causes us to give in to temptation’s draw. It’s not first a location or situation problem, although it expresses itself there. Sin is a matter of the heart.\nLet me explain what this means.\nThe Bible uses many terms for the inner, spiritual, thoughtful, desiring, motivational you, but all those terms are gathered together and summarized by one big collective term: heart. It is one of the most often used terms in the Bible.\nIn fact, I am persuaded that you cannot understand the transforming message of the Bible unless you understand this term. Here’s a definition to carry with you as you read your Bible: the heart is the causal core of your personhood. It’s the seat of your thoughts, emotions, desires, and motivations. It is the worship center of your self. The heart is the reason you do the things you do and say the things you say. You and I literally live out of our hearts.\nSin lives in our hearts, and because it does, it corrupts our thoughts, desires, choices, and motivations. We were created to be servants of God, but sin makes us lovers of self. We were made to worship the Creator, but sin causes us to worship the creation. We were designed to live for God’s glory, but sin causes us to make life all about our own glory. And unless these things change in our hearts, our behavior won’t change at all, or if it does change, it won’t change for very long. No amount of commitment to self-reformation will change your heart.\nNo amount of work to alter bad habits will change your heart. No amount of beating yourself up with guilt and shame will change your heart. No running from certain situations, locations, and relationships has the power to change your heart. You can’t run from sin because you cannot run from you. The most outrageous acts of penance in the world are powerless to do what needs to be done—radically transform your heart.\nSo you and I are left with only one final option. It is the only choice that\nmakes sense; everything else is insanity. And we need to do this again and again until we don’t need to do it anymore. We need to run to the grace of Jesus. Run for forgiveness. Run for power. Run for transformation. Run for deliverance.\nRun! Run! Run! Don’t ever stop running to grace until Jesus has taken you home to a place where you need to run no more.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

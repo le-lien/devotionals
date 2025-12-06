@@ -1,0 +1,14 @@
+  "02-04": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Psalm 42',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Every day you preach to yourself some kind of gospel—a false “I can’t do this” gospel or the true “I have all I need in Christ” gospel.\nI find myself saying it over and over again. When I do, people often laugh, but I’m really quite serious. No one is more influential in your life than you are because no one talks to you more than you do. It’s a fact that you and I are in an endless conversation with ourselves. Most of us have learned that it’s best not to move our lips because people will think we’re crazy, but we never stop talking to ourselves. In this inner discussion, we’re always talking about God, life, others, and ourselves, and the things we say to ourselves are very important because they are formative of the things we desire, choose, say, and do. What have you been saying to you? What have you been saying to you about yourself?\nWhat have you been saying to you about God? What have you been saying to you about life, meaning and purpose, right and wrong, true and false, and good and bad?\nIn Psalm 42, we are invited to eavesdrop on a man’s private preaching. Yes, you read it right; like us, the psalmist was always preaching some kind of gospel to himself. We either preach to ourselves a gospel of aloneness, poverty, and inability or the true gospel of God’s presence, power, and constant provision.\nYou are preaching to yourself a gospel that produces fear and timidity or one that propels you with courage and hope. You are preaching to yourself of a God who is distant, passive, and uncaring or of a God who is near, caring, and active.\nYou are always preaching to yourself a gospel that causes you to rest in his wisdom or a gospel that produces a bit of panic because it seems as if there are no answers to be found.\nToday, when it feels as if no one understands, what gospel will you preach to you? As you face physical sickness, the loss of a job, or the disloyalty of a friend, what message will you bring to you? When you are tempted to give way to despondency or fear, what will you say to you? When life seems hard and unfair, what gospel will you preach to you? When parenting or your marriage seems difficult and overwhelming, what will you share with you? When your dreams elude your grasp, what will you say to you? When you face a disease that\nyou thought you’d never face, what gospel will you preach to you?\nIt really is true—no one talks to you more than you do. So God in his grace has given you his Word so that you may preach to yourself what is true in those moments when the only one talking to you is you.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

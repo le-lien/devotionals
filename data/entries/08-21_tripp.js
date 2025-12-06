@@ -1,0 +1,14 @@
+  "08-21": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Luke 1:67–79',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'You’re not called to work for God’s acceptance; you’re called to trust the One who completed that work on your behalf.\nWe keep trying it, even though we’ve been told again and again that it’s impossible. It causes us to be either delusionally proud or irrationally fearful. It causes us to hide in guilt and shame, fearing the only One who can help us. In fear, we work for what we have already been given. In weakening hope, we seek what we already have. In redemptive delusion, some of us boast about what we did not earn or achieve on our own. In our misunderstanding, we envy what we think others have and we wish we could achieve what they have accomplished.\nWe spend our lives feeling not only that we haven’t measured up, but also that we’ll never measure up. We wonder what God really thinks of us, and the thought of his presence produces more fear than comfort in our hearts. It all gets to the very heart of the message of the gospel.\nJesus lived the perfect life you and I never, ever could have lived, and now his righteousness is credited to our account. He died the death that we should have died. His death satisfied the Father’s anger with our sin. He rose again, conquering sin and death so that we would know life eternal too. All of this was done so that the chasm between us and God would be bridged, so that we would be fully and eternally accepted into his family, never again to face his rejection, never again to pay the penalty for our sins, and free from having to measure up to his standard in order to garner his love. What needed to be done, Jesus did.\nThe work is complete.\nNow, having said that, it is true that you have been called to work. You have been called to give yourself to the work of God’s kingdom and to daily obey the commands of the King. You’ve been called to recognize that your life is no longer your own because you were bought with a price. But the work you do is never to be done in order to earn something. The work you’re called to do is to be done in celebration of something. You don’t work to earn God’s favor; rather, your work is a hymn of thanks for the favor that Christ achieved on your behalf.\nYou don’t have to wonder if you’ve worked enough. You don’t have to fear that you’ll mess up and get booted out of the family. You don’t have to fear seeing\nthe back of God’s head. You don’t have to be haunted by the question of whether you’ve done enough for long enough. The bridge of impossibility has been walked by Christ. The job is done. Your relationship with God is eternally secure. Now, in thankfulness, go out and do his work.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

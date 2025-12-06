@@ -1,0 +1,14 @@
+  "06-30": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Psalm 121',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'If the righteousness of Christ allows me to stand before a holy God utterly unafraid, why should I be haunted by what you think of me?\nSo many people live with a great big gap right smack dab in the middle of their gospel, and they don’t know it. I did for years. Most Christians have a basic understanding of salvation past, that is, the grace of forgiveness that they have received because of the broken body and shed blood of the Lamb, the Lord Jesus Christ. And most Christians tend to look forward with anticipation toward salvation future, that is, the grace of an endless eternity of complete peace and harmony lived in the presence of the forever glory and grace of the triune God.\nBut, sadly, many, many Christians have little understanding of salvation present, that is, the benefits of the work of Jesus Christ right here, right now. It is vitally important that we understand the nowism of the gospel of the Lord Jesus Christ.\nJesus didn’t die just for your past and your future. He really did shed his blood for your here and now too. He died for the tough conversation that you need to have with your spouse, your rebellious teenager, or your friend. He died for your struggle to work for that angry, constantly dissatisfied boss. He died for the tensions in your broken and dysfunctional extended family. He died for the sexual temptation that seems to get the better of you. He died for the materialism that seems to kidnap you. He died for your fear of the opinions of others. He died for the torment of your anxiety and the darkness of your depression. He died so that you would have everything you need to live as he intended between the “already” of your conversion and the “not yet” of your resurrection.\nWhen you begin to understand the wonderful new identity and provision that is yours as his child, it really does change the way you think and the way you live. If he has granted you his full and complete acceptance, even on your worst day, then why should you seek to get your inner peace from the acceptance of a flawed human being? His present grace frees us from so much of the fear and control that distorts our relationships. If he is with you, providing in his presence and grace whatever you need to do what he has called you to do, why should you fear what’s around the corner?\nWhen you begin to understand what you have been given in his right here,\nright now grace, you quit asking people, places, and things to be your savior.\nBecause you know what he thinks of you, you are free to worry less about what the person next to you thinks. That’s a freedom many of us could use!',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

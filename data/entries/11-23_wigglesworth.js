@@ -1,0 +1,14 @@
+  "11-23": {
+    "title": 'Hindrances to Discernment',
+    "note": 'Therefore we must give the more earnest heed to the things we have heard, lest we drift away.',
+    "passage": 'Scripture reading: Hebrews 2',
+    "dailyVerse": {
+      "ref": 'Hebrews 2:1',
+      "text": 'Therefore we must give the more earnest heed to the things we have heard, lest we drift away.'
+    },
+    "body": 'You will never be able to discern or deal with evil powers as long as there is anything in you that the Devil can touch. Before Satan can bring his evil spirits, there has to be an open door. Hear what the Scriptures say: “The wicked one does not touch him”  (1 John 5:18), and “The LORD shall preserve you from all evil; He shall preserve your soul”  (Ps. 121:7). How does Satan get an opening? When the believer ceases to seek holiness, purity, righteousness, truth; when he ceases to pray, stops reading the Word, and gives way to carnal appetites. Then it is that Satan comes. So often sickness comes as a result of disobedience. David said, “Before I was afflicted I went astray”  (Ps. 119:67). You will never be able to reach out your hand to destroy the power of Satan as long as there is the vestige of human desire or attainment in you. It is in the death of the death that you are in the life of the life. Don‘t fool yourself; don‘t mislead yourself. Never think that God overlooks sins. Sins have to be dealt with, and the only way God ever deals with sin is to absolutely destroy its power. You can be made so clean that the Devil comes and finds nothing in you. (See John 14:30.) And then you have power by the power of God over the powers of Satan. Discernment is not mind or eye. Discernment is an intuition. Your heart knows exactly what you are dealing with, and you are dealing with it because of your heart purity against evil and uncleanness.\n\nGod continues to purify me. I can safely say that unless the power of the Spirit purges me through and through, I cannot help you. First of all, before I can give any life to you, the life must be in me. And remember that the Scriptures are very clear: death works in us so that life may work in you. (See 2 Corinthians 4:12.) Now, the death that is working is all carnal, evil, sensual. Don‘t forget the remarkable thing in the Scriptures that leads   us to this; there are sixty-six evil things listed in the Bible, such as murder, covetousness, evil propensities. But I am here to say by the power of God that one fruit will destroy every evil thing. “Seek first the kingdom of God and His righteousness, and all these things shall be added to you”  (Matt. 6:33).',
+    "dailyPrayer": {
+      "title": 'Thought for today',
+      "text": 'You are only able to do what God desires for you to do as you have come into the depths of death to self, so that the supernatural life of Christ is abounding in you to destroy the powers of evil.'
+    }
+}

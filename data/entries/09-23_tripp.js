@@ -1,0 +1,14 @@
+  "09-23": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: 2 Peter 3:8–9',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'God’s care comes in many forms. In his patience,\nGod cares enough to give ample time for his\ngrace to do its transforming work.\nWhen was the last time you reflected on the amazing patience of your heavenly Father? When was the last time you thanked him for his willingness to wait? Do you know that without God’s incredibly patient heart, you and I would have no hope? God’s patience is what gives time for his grace to do its work.\nWhen I read through the Old Testament, I am blown away by the extent of God’s patience. I have often thought that if I were on the joystick, given the degree of my impatience, Adam and Eve would’ve fallen in the morning, and Jesus would’ve come in the afternoon and then died and risen again that evening.\nBut God’s ways are not like my ways. Year laps upon year, decade upon decade, century upon century until literally thousands of years pass before Jesus comes to deal with the disaster of the fall. Yet Scripture says that Jesus comes at just the right moment (Rom. 5:6). This means that for all those years, God is preparing the world for the coming of the Savior.\nI am also impressed by God’s patience with Israel. We are hit with this when we read through the prophets. God doesn’t just send one prophet to give one warning. No, in an amazing display of divine patience, he sends prophet after prophet, giving his children opportunity after opportunity to respond to his mercy.\nI am also convicted by the patience of Jesus with his disciples. They never seem to get it quite right. Even as he is ascending, they are asking the wrong questions. But Jesus doesn’t give up on them. He doesn’t tell them that he has had it and that he is going to go out and pick new disciples. He gives time for his grace to transform this group of arrogant and confused men.\nHow can you and I not be grateful for God’s patience with us? He doesn’t demand of us instant maturity. He doesn’t require that we get it right quickly. He doesn’t teach us a lesson just once. He comes to us in situation after situation, each controlled by his sovereign grace, each designed to be a tool of transformation, and he works on the same things again and again. I don’t like to\nhave to repeat myself. I tend to want the people around me to understand quickly. I am grieved that my heart is still not like that of my Savior.\nSo God’s care cannot be detached from his patience. It is his tender willingness to wait that allows his powerful grace to finish its transforming work. Thank God today for that patience. It is your hope. And as you are thanking him, pray that he will make you more like him—willing to give time for his mercy to do its work.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

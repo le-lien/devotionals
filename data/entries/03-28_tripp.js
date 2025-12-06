@@ -1,0 +1,14 @@
+  "03-28": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Deuteronomy 6–8',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'You were hardwired for love, so everything you decide, desire, think, say, and do is an expression of love for someone or something.\nThe counsel of John is clear and just as important today as when he penned the words:\nDo not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him. For all that is in the world—the desires of the flesh and the desires of the eyes and pride of life—is not from the Father but is from the world. And the world is passing away along with its desires, but whoever does the will of God abides forever. (1 John 2:15–17) You are a lover; we all are. We love. It’s what human beings do every moment of every day, in every location, and in every situation. You are never not loving. It’s in the very fiber of your being. It’s the way God carefully constructed you. Why did he hardwire you to love? Why is this such an essential part of who you are? God created you with this capacity so that you would have what you need to live in a deeply loving, heart-controlling, motivation-producing, worship-initiating, joy-stimulating relationship with him. Your capacity to love was created for him. Your desire to love was meant to draw you to him. Your heart was designed to long for love, and that longing was meant to find its final and complete fulfillment in him.\nHere is the tragedy. Sin causes us all, in some way, to turn our backs on the love of God and give the principal love of our hearts to someone or something else. We seek to have our hearts fulfilled by love for something other than God.\nWe love the creation more than the Creator. We love other people more than we love God. We love ourselves so much that we have little energy left to love the One who is love. We run from thing to thing, hoping our hearts will be content in love. We’re all spiritually promiscuous, running from lover to lover, giving the loyalty of our hearts to things other than God. We’re all spiritual adulterers, giving away what by the design of creation belongs to God and God alone. The Bible is the story of a love drama that looked as if it would end in tragedy—but then Jesus came.\nYou see, God, who is love, sent the Son of his love to make the ultimate\nsacrifice of love so that we would become people who love him as we have never loved him before. In love, he showers us with love that does not quit even on our most unloving day. And by grace, he transforms our hearts so that increasingly we are able to keep creation in its proper place and keep the ultimate love of our hearts for him and him alone. Now celebrate the gift of that rescuing love!',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

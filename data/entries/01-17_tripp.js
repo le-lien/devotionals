@@ -1,0 +1,14 @@
+  "01-17": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Acts 17:22–28',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'To think today, when your life doesn’t work as planned, that it’s out of control is to forget that Jesus reigns for your sake and his glory.\nWhat are you facing today that you wouldn’t be facing if you were in control?\nWhat are you required to deal with that you really wish you could avoid? Where have your plans dripped like sand through your fingers? Where would you like to take back choices and redo decisions? Where do you tend to look over the fence and wish you had someone else’s life? Where do you feel troubled, inadequate, weak, defeated, overwhelmed, alienated, or alone? Where do thoughts of the past tend to flood you with regret, or visions of the future make you a bit afraid? What causes you to wish life was easier or at least a bit more predictable? If you could change a couple of things in your life right now, what would they be? Where does it feel to you as if you’re on an amusement park ride that you never intended to be on?\nIf you’re not in one of the moments I’ve described above, you will be someday, and you are near to someone who is. Life in this fallen world is often very hard. This world and everything in it are not functioning the way God intended. The brokenness of this fallen world will enter your door and somehow alter the trajectory of your life. In those moments, it is tempting to conclude that life is all about surviving the chaos. You feel that you don’t have much power, you have been confronted with the fact that there’s not much that you control, and you have no idea of what might be lurking around the corner. It all seems impossible and scary.\nBut this is not where God’s Word leaves us. Yes, it does confront us with our smallness, weakness, and lack of control, but it doesn’t leave us there. The Bible declares something to us that is the opposite of the way we tend to think. It tells us that the difficulties that we face every day, the seeming chaos that regularly greets us, are not the result of the world being out of control, but the result of the reign of One who is in complete control. Paul says in Ephesians 1:22, “And he\n[God] put all things under his [Christ’s] feet and gave him as head over all things to the church” (the explanations in brackets are mine).\nSo no matter how it looks to you at street level, your world is not out of\ncontrol; no, it is under careful rule. As radical as that thought is, it’s not radical enough, because it does not do justice to all that Paul says. Paul wants you to know something else. That rule has you in view! Right now, Jesus rules over all things for the sake of his children. This is where peace is to be found.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

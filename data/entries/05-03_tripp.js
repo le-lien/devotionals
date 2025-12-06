@@ -1,0 +1,14 @@
+  "05-03": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Psalm 89',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'God’s care for you is secure because it does not depend on your faithfulness, but on his.\n“Now may the God of peace himself sanctify you completely, and may your whole spirit and soul and body be kept blameless at the coming of our Lord Jesus Christ. He who calls you is faithful; he will surely do it” (1 Thess. 5:23–\n24). You and I live between the “already” and the “not yet.” Already God has set his plan of grace in motion. Already the prophets have spoken. Already Jesus has come. Already he has suffered and died. Already he has risen in victory from the tomb. Already the Spirit has come. Already the Word has been given. But not yet is God’s work in the world finished. Not yet is his work in our hearts done. Not yet is the last enemy under his feet. Not yet is he ready to say:\n“Beloved, all things are now ready. Enter into my final kingdom.”\nWe are right smack dab in the middle of the world’s most important incomplete process—sanctification. None of us is yet what grace makes it possible for us to be. The battle with sin and temptation still goes on. The war for what will effectively and functionally rule our hearts still rages. We are not yet even near being blameless in and of ourselves. No, the reality is that between the already and the not yet of God’s transforming process, we are all a bit of a mess. We still fall into temptation. We still give way to wrong thoughts and desires. We still say things that we should never say. We still behave in ways that expose the sin that is still in our hearts. So there is simply no way our personal security can be found in ourselves. Peace is not found in the degree of our faithfulness to God, but in the utterly unshakable nature of his faithfulness to the commitment of grace he has made to us.\nHe never regrets his promises. He never grows bored or weary. He doesn’t get mad with us and debate with himself as to whether he should walk away. He never lounges through a lazy, self-centered day. He never withdraws his commitment to us because he has his eye on another. He never makes a promise he doesn’t intend to keep. His love isn’t a passing fancy. He never threatens to withdraw his love in order to get his own way. He never keeps a record of wrongs against us so that he can use it to get something from us that he wants.\nHe is never disloyal behind our backs. He is completely faithful in the fullest sense of what that means. And here’s what is important to understand. His faithfulness is not a demonstration of how well you’re doing; no, it’s a revelation of how completely holy, righteous, kind, and good he is. He remains faithful even on your most unfaithful day.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

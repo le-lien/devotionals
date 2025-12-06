@@ -1,0 +1,14 @@
+  "10-03": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Psalm 139',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'You don’t have to understand everything in your life, because your Lord of wisdom and grace understands it all.\nIt is a paradox that many of us don’t handle well. We were created by God to be rational human beings and we carry around with us a desire to know and understand, but we must not forget that we will never experience inner peace simply because all our questions have been answered. Biblical faith is not irrational, but it takes us beyond our ability to reason. As believers in our identity as God’s image-bearers and the truthfulness of his Word, we do recognize that it is important to study, to learn, to examine, to evaluate, and to know. But we are not rationalists. We do not trust our reason more than we trust God. We do not reject what God says is true when it doesn’t make sense to us, and we know that God’s secret will leaves us with mysteries in our lives; mysteries that, even with the best of our theology, we won’t be able to solve.\nBiblical literacy does not dispel all confusion and mystery from your life because while God reveals his will for you in the Bible, he does not reveal all the things he will do in your life for your good and his glory. God surprises you.\nSo you ask, “Where is peace to be found?” This question is answered clearly and powerfully in Isaiah 26:\nYou keep him in perfect peace\nwhose mind is stayed on you, because he trusts in you.\nTrust in the LORD forever, for the LORD GOD is an everlasting rock. (vv. 3–4) This passage tells us where peace is to be found. It is never found in trying to figure out the secret will of God. It’s not to be found in personal planning or attempts to control the circumstances and people in your life. Peace is found in trusting the person who controls all the things that you don’t understand and who knows no mystery because he has planned it all. How do you experience this remarkable peace—the kind of peace that doesn’t fade away when disappointments come, when people are difficult, or when circumstances are hard? You experience it by keeping your mind stayed on the Lord. The more you meditate on his glory, his power, his wisdom, his grace, his faithfulness, his\nrighteousness, his patience, his zeal to redeem, and his commitment to his eternal promises to you, the more you can deal with mystery in your life. Why?\nBecause you know the One behind the mystery is gloriously good, worthy not only of your trust but also the worship of your heart. It really is true that peace in times of trouble is not found in figuring out your life, but in worship of the One who has everything figured out already.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

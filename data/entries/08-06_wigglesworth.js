@@ -1,0 +1,14 @@
+  "08-06": {
+    "title": 'Love That Bears with Others',
+    "note": 'Bearing with one another in love.',
+    "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/GAL.6.NKJV?parallel=151">Galatians 6:1–10</a>',
+    "dailyVerse": {
+      "ref": 'Ephesians 4:2',
+      "text": 'Bearing with one another in love.'
+    },
+    "body": 'e need to bear  “with one another in love.”  How contrary this is to the hardness of men‘s hearts, contrary to the W evil powers, contrary to the natural mind. It is God‘s love toward you that gives you tender, compassionate love toward one another.\n\nOnly the broken, contrite heart has received the mark of God. It is in that secluded place where He speaks to you alone and encourages you when you are down and out. When no hand is stretched out to you, He stretches out His hand with mercy and brings you into a place of compassion. Then you cannot think evil; then you cannot in any way act harshly. God has brought you into longsuffering, with tenderness and with love.\n\nIn the church of God, where a soul is on fire, kindled with the love of God, there is a deeper love between me and that brother than there is between me and my earthly brother. Oh, this love that I am speaking about is divine love; it is not human love. It is higher than human love; it is more devoted to God. It will not betray. It is true in everything. You can depend on it. It won‘t change its character. In divine love, you will act exactly as Jesus would act, for you will act with the same spirit. “As He is, so are we in this world”  (1 John 4:17).\n\nAs your intimacy with Christ in the Spirit deepens, as you walk with Him “in the light as He is in the light”  (1 John 1:7), then the fellowship becomes unique in all its plan. I pray that God will help us to understand it so that we will be able to be clothed upon (2 Cor. 5:2) as we have never been, with another majestic touch, with another ideal of heaven.\n\nNo one can love like God. And when He takes us into this divine love, we will precisely understand this word, this verse, for it is full of entreaty; it is full of passion and compassion; it has every touch of Jesus right in it. It is so lovely: “With all lowliness and gentleness, with longsuffering, bearing with one another in love” (Eph. 4:2).\n\nIsn‘t it glorious? You cannot find it anywhere else. You cannot get these pictures in any place you go. I challenge you to go into any library in the world and find words coined or brought forth like these words, unless they are copied from this Word. They aren‘t in nature‘s garden; they are in God‘s. It is the Spirit explaining, for He alone can explain this ideal of beatitudes. These words are marvelous; they are beautiful; they are full of grandeur; they are God‘s. Hallelujah!',
+    "dailyPrayer": {
+      "title": 'Thought for today',
+      "text": 'You cannot bear with others until you know how God has borne with you.'
+    }
+}

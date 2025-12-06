@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Contact · My Devotional Journal</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="journal-header">
+    <div class="container header-container">
+      <div class="top-row">
+        <a class="logo" href="index.html">My Devotional Journal</a>
+        <nav class="site-nav-links">
+          <a href="about.html">About</a>
+          <a href="contact.html" class="active">Contact</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main class="container static-page">
+    <section class="static-section">
+      <h1>Contact</h1>
+      <p>
+        You can reach me by email:
+        <a href="mailto:you@example.com">you@example.com</a>
+      </p>
+      <p>
+        Feel free to share encouragement, feedback, or prayer requests.
+      </p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© <span id="year"></span> My Devotional Journal.</p>
+    </div>
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>

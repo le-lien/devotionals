@@ -1,0 +1,14 @@
+  "06-22": {
+    "title": 'THE UNDEVIATING TEST',
+    "note": '',
+    "passage": '',
+    "dailyVerse": {
+      "ref": 'Matthew 7:2',
+      "text": 'For with what judgment ye judge, ye shall be judged; and with what measure ye mete, it shall be measured to you again.'
+    },
+    "body": 'This statement is not a haphazard guess, it is an eternal law of God.\nWhatever judgment you give, it is measured to you again. There is a difference between retaliation and retribution. Jesus says that the basis of life is retribution - “with what measure ye mete, it shall be measured to you again.” If you have been shrewd in finding out the defects in others, remember that will be exactly the measure given to you. Life serves back in the coin you pay. This law works from God’s throne downwards (cf. Psalm 18:25-26).\nRomans 2 applies it in a still more definite way, and says that the one who criticizes another is guilty of the very same thing. God looks not only at the act, He looks at the possibility. We do not believe the statements of the Bible to begin with. For instance, do we believe this statement, that the things we criticize in others we are guilty of ourselves? The reason we see hypocrisy and fraud and unreality in others is because they are all in our own hearts. The great characteristic of a saint is humility - Yes, all those things and other evils would have been manifested in me but for the grace of God, therefore I have no right to judge.\nJesus says - “Judge not, that ye be not judged” if you do judge, it will be measured to you exactly as you have judged. Who of us\nwould dare to stand before God and say - “My God, judge me as I have judged my fellow men?” We have judged our fellow men as sinners; if God should judge us like that we would be in hell. God judges us through the marvellous Atonement of Jesus Christ. ',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

@@ -1,0 +1,14 @@
+  "04-20": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Romans 6:1–14',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Grace doesn’t make it okay for you to live for you. No, grace frees you to experience the joy of living for One greater than you.\nIt is universally true that what seems to us to be freedom isn’t really freedom after all. When Adam and Eve stepped outside of God’s boundaries, they didn’t step into freedom. They stepped into toil, temptation, suffering, sin, and bondage. Denying God’s existence, desiring his place, ignoring his rules, and determining to make it on your own might seem like pathways to freedom, but they never, ever are.\nYou and I weren’t designed to live independently. We weren’t meant to live in our own strength. We weren’t created to rely on our own wisdom. We weren’t given the ability to write our own moral codes. We weren’t put together with the independent knowledge of how to live, how to steward the physical world, or how to properly relate to one another. We were not created to live by ourselves or for ourselves, and to attempt to do so never leads anywhere good.\nSo as God blesses us and changes us with his grace, the result isn’t a greater ability to live an independent life; the opposite is true. Grace doesn’t free us to live for us. The purpose of God’s grace is not to make your little kingdom of one work better. The purpose of God’s grace is to free you from your slavery to you so that you can live for a much, much better kingdom: “And he died for all, that those who live might no longer live for themselves but for him who for their sake died and was raised” (2 Cor. 5:15). True freedom is never found in putting yourself at the center, with your choices and behavior shaped by your allegiance to you. Real freedom is only ever found when God’s grace liberates you to live for One infinitely greater than you.\nIt contradicts our normal thinking, but the doorway to freedom is submission. When I acknowledge that I am a danger to myself and submit to the authority, wisdom, and grace of God, I am not killing any hope I have for freedom. The opposite is true. Humble admission of need and humble submission to God open me up to the freest of lives. I was created to live in worshipful and obedient dependency on God, and when grace restores me to that place, it also gives me back my freedom. It may seem constricting that the train\nalways has to ride on those tracks, but try driving it in a meadow and all motion stops. So grace puts you back on the tracks again and gives you the freedom of forward motion, which you can have no other way.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

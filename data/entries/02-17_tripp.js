@@ -1,0 +1,14 @@
+  "02-17": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Psalm 27',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Don’t fear your weaknesses—God supplies all the strength you need.\nBe afraid of those moments when you think you’re independently strong.\nAdmit it, you don’t like being weak. It’s not fun being the last one chosen to play on the team. It’s embarrassing to be asked a question you can’t answer. It’s frustrating not to be able to figure out the directions for assembling the furniture you just bought. It’s mortifying to forget that important appointment or the name of a good friend. It’s humbling to fail at a task, to drop the ball, or to make a promise and not be able to keep it. We don’t like getting lost or forgetting a phone number. We all hate those moments when we feel unqualified or unprepared. We don’t like being confused or not knowing. We covet the muscles and the brains of others. We all hate being afraid and wish we had more courage.\nIn the face of heroes, we feel anything but. In the face of the accomplishments of others, we wonder if we have done much that’s worthwhile. We don’t like facing the truth that we’re all weak in our own ways. It is the universal condition of humanity.\nIn a world where you are on your own, where you have to find your own way and independently build your life, weakness is a thing to be feared. In a world where all you have in the end is your thinking, your drive, your performance, and your achievements, weakness is a thing to be regretted. In a world where you have no one to turn to for strength and few who accept you when you don’t have it, weakness is a thing to be avoided. But here is what you need to understand. Weakness is not the big danger to be avoided. What you need to avoid is your delusions of strength. Those assessments of independent strength are much more dangerous.\nAre you confused? The fact is that we are all weak. We’re weak in wisdom, weak in strength, and weak in righteousness. Sin has left us weak of heart and hands. It has left us feeble and lame in many ways. But God’s grace makes weakness a thing to be feared no longer. The God of grace who calls you to himself and calls you to live for him blesses you with all the strength you need to do what he’s called you to do. The way to enter into that strength is to admit how little strength you actually have. Grace frees me from being devastated that I can\nno longer trust me because grace connects me to One who is worthy of my trust and who will always deliver what I need. “Some trust in chariots and some in horses, but we trust in the name of the LORD our God. They collapse and fall, but we rise and stand upright” (Ps. 20:7–8).',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

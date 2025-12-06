@@ -1,0 +1,14 @@
+  "01-05": {
+    "title": 'THE AFTERWARDS OF THE LIFE OF POWER',
+    "note": '',
+    "passage": '',
+    "dailyVerse": {
+      "ref": '“And when He had spoken this, He saith unto him, Follow Me.”',
+      "text": 'Whither I go, thou canst not follow Me now; but thou shalt follow Me afterwards.”  John 13:36'
+    },
+    "body": 'Three years before, Jesus had said - “Follow Me,” and Peter had followed easily, the fascination of Jesus was upon him, he did not need the Holy Spirit to help him to do it. Then he came to the place where he denied Jesus, and his heart broke. Then he received the Holy Spirit, and now Jesus says again - “Follow Me.” There is no figure in front now saving the Lord Jesus Christ. The first “Follow Me” had nothing mystical in it, it was an external following; now it is a following in internal martyrdom (cf. John 21:18).\nBetween these times Peter had denied Jesus with oaths and curses, he had come to the end of himself and all his self-sufficiency, there was not one strand of himself he would ever rely upon again, and in his destitution he was in a fit condition to receive an impartation from the risen Lord. “He breathed on them, and saith unto them, Receive ye the Holy Ghost.” No matter what changes God has wrought in you, never rely upon them, build only on a Person, the Lord Jesus Christ, and on the Spirit He gives.\nAll our vows and resolutions end in denial because we have no power to carry them out. When we have come to the end of ourselves, not in imagination but really, we are able to receive the Holy Spirit. “Receive ye the Holy Ghost”  - the idea is that of invasion. There is only one lodestar in the life now, the Lord Jesus Christ. ',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

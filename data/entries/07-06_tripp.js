@@ -1,0 +1,14 @@
+  "07-06": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Exodus 6:1–9',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'The grace you’ve been given is not just the grace of forgiveness and acceptance; it’s also the grace of empowerment. So get up and follow.\nIn the life of the believer, fear of weakness amounts to God-forgetfulness.\nTimidity is a failure to remember the promises of the gospel. Allowing yourself to be overwhelmed in the face of the call of God is forgetting the right here, right now grace of Jesus Christ. Giving way to temptation is overlooking the empowering presence of the Holy Spirit. You not only have been forgiven by the grace of the gospel and guaranteed a place in eternity with your Savior, but you also have been granted by that very same grace all that you need to be what God has called you to be and to do the things God has called you to do in the place where he has put you.\nSo here’s how this works. God has promised to supply and empower; your job is to follow him by faith where you live every day. You don’t wait for the provision before you move. God has not promised that you will see it beforehand. You don’t try to figure out what God is going to do next and how he will meet your needs; you move forward in the certainty that he is with you, for you, and in you. This God of awesome power will grant you power to do what is needed. This is his sure and reliable covenant promise to you.\nAnd what kind of power does this One to whom you’re entrusting your life have? Let me refer you to one of the strangest verses in all of Scripture, one that paints a dramatic picture of the awe-inspiring power of God. It’s found in Exodus 11. God is delivering his people from their captivity in Egypt, and all the firstborn of Egypt are going to die, including cattle. God says that as the result of this, there will be a great cry throughout Egypt like there has never been before.\nThen he says, “But not a dog shall growl against any of the people of Israel, either man or beast, that you may know that the LORD makes a distinction between Egypt and Israel” (v. 7). What kind of power does God have? He has the power to silence the growl of every dog in Egypt. But there is more. He has the power to cause the dogs to distinguish between Israelites and Egyptians. The dogs will wail against the Egyptians and be silent in the presence of Israelites, all because there is a God who rules all things. He even has the power to direct\nindividual animals to do what he wants them to do.\nYes, your God has awesome power, distinguishing power. He knows who his people are, he knows where they are, he knows what they need, he knows when they need it, and he knows what needs to be delivered and what needs to be controlled for his will to be done. He always gives the power that his people need.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

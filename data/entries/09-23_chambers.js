@@ -1,0 +1,14 @@
+  "09-23": {
+    "title": 'THE MISSIONARY’S GOAL',
+    "note": '',
+    "passage": '',
+    "dailyVerse": {
+      "ref": 'In the natural life our ambitions alter as we develop; in the Christian',
+      "text": 'Behold, we go up to Jerusalem.”  Luke 18:31'
+    },
+    "body": 'life the goal is given at the beginning, the beginning and the end are the same, viz., Our Lord Himself. We start with Christ and we end with Him - “until we all attain to the stature of the manhood of Christ Jesus,” not to our idea of what the Christian life should be. The aim of the missionary is to do God’s will, not to be useful, not to win the heathen; he is useful and he does win the heathen, but that is not his aim. His aim is to do the will of his Lord.\nIn Our Lord’s life Jerusalem was the place where He reached the climax of His Father’s will upon the Cross, and unless we go with Jesus there we will have no companionship with Him. Nothing ever discouraged Our Lord on His way to Jerusalem. He never hurried through certain villages where He was persecuted, or lingered in others where He was blessed. Neither gratitude nor ingratitude turned Our Lord one hair’s breadth away from His purpose to go up to Jerusalem.\n“The disciple is not above his Master.” The same things will happen to us on our way to our Jerusalem. There will be the works of God manifested through us, people will get blessed, and one or two will show gratitude and the rest will show gross ingratitude, but nothing must deflect us from going up to our Jerusalem.\n“There they crucified Him.” That is what happened when Our Lord reached Jerusalem, and that happening is the gateway to our salvation. The saints do not end in crucifixion: by the Lord’s grace they end in glory. In the meantime our watchword is - I, too, go up to Jerusalem. ',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

@@ -1,0 +1,14 @@
+  "10-22": {
+    "title": 'God Will Keep You',
+    "note": 'Count it all joy.',
+    "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/JOB.2.NKJV?parallel=151">Job 2:1–10</a>',
+    "dailyVerse": {
+      "ref": 'James 1:2',
+      "text": 'Count it all joy.'
+    },
+    "body": 'The verse does not mean "Count a bit of it as joy" but “count it all joy.”  It doesn‘t matter from what source the trial T comes, whether it is your business or your home or what. “Count it all joy.”  Why? Because “we know that all things work together for good to those who love God, to those who are the called according to His purpose”  (Rom. 8:28).\n\nThat is a great Scripture. It means that you have a special position. God is electrifying the very position that you hold so that the Devil will see that you have a godly character, and God can say about you what he said about Job. (See Job 1:8.) Recall the scene. God asked, "Satan, what is your opinion about Job?" Then the Lord went on and said, "Don‘t you think he is wonderful? Don‘t you think he is the most excellent man in all the earth?"\n\nSatan replied, "Yes, but You know, You are keeping him."\n\nPraise the Lord! I am glad the Devil has to tell the truth. And don‘t you know that God can keep you, also?\n\n"If You touch everything he has," the Devil said, "he will curse You to Your face."\n\nGod answered, "You can touch all he has, but you cannot touch him." (See Job 1:8–12.)\n\nThe Scripture says that Jesus was dead but is alive again and has power over death and hell. To this, the Scripture adds a big “Amen”  (Rev. 1:18). The Devil cannot take your life unless the Lord allows it. "You cannot touch Job‘s life," God told Satan. (See Job 2:6.)\n\nSatan thought he could destroy Job, and you know the calamity that befell this righteous man. But Job said, “Naked I came from my mother‟s womb, and naked shall I return there.…Blessed be the name of the LORD”  (Job 1:21). Oh, it is lovely! The Lord can give us that kind of language. It is not the language of the head. This is divine language; this is heart acquaintance.\n\nI want you to know that we can have heart acquaintance. I learned a long time ago that libraries often create swelled heads, but nothing except the Library, the Bible, can make swelled hearts. You are to have swelled hearts because out of the heart full of the fragrance of the love of God, the living life of the Lord flows.\n\nYou must cease to be. That is a difficult thing—for both you and me—but it is no trouble at all when you are in the hands of the Potter. You are only wrong when you are kicking. You are all right when you are still and He is forming you afresh. So let Him form you afresh today into a new vessel so that you will stand the stress.',
+    "dailyPrayer": {
+      "title": 'Thought for today',
+      "text": 'It is far more to speak out of the abundance of your heart than the abundance of your head.'
+    }
+}

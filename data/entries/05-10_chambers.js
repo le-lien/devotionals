@@ -1,0 +1,14 @@
+  "05-10": {
+    "title": 'TAKE THE INITIATIVE',
+    "note": '',
+    "passage": '',
+    "dailyVerse": {
+      "ref": '“Add” means there is something we have to do. We are in danger of forgetting that we cannot do what God does, and that God will not do what we can do. We cannot save ourselves nor sanctify ourselves, God does that; but God will not give us good habits, He will not give us character, He will not make us walk aright. We have to do all that ourselves, we have to work out the salvation God has worked in.',
+      "text": 'Add to your faith virtue…” (“Furnish your faith with resolution.”) (MOFFATT.) 2 Peter 1:5'
+    },
+    "body": '“Add” means to get into the habit of doing things, and in the initial stages it is difficult. To take the initiative is to make a beginning, to\ninstruct yourself in the way you have to go.\nBeware of the tendency of asking the way when you know it perfectly well. Take the initiative, stop hesitating, and take the first step. Be resolute when God speaks, act in faith immediately on what He says, and never revise your decisions. If you hesitate when God tells you to do a thing, you endanger your standing in grace. Take the initiative, take it yourself, take the step with your will now, make it impossible to go back. Burn your bridges behind you - “I will write that letter”; “I will pay that debt.” Make the thing inevitable.\nWe have to get into the habit of hearkening to God about everything, to form the habit of finding out what God says. If when a crisis comes, we instinctively turn to God, we know that the habit has been formed. We have to take the initiative where we are,  not where we are not. ',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

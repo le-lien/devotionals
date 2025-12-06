@@ -1,0 +1,14 @@
+  "03-08": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Psalm 66',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Yes, your life is messy and hard, but that’s not a failure of the plan; it is the plan. It’s God working to complete what he’s begun in you.\nIt is so very different from the way we normally think about grace. It’s not the way we tend to think about God’s love. It doesn’t seem wise and good to us. It causes us to question God’s faithfulness and love. It’s just not what we thought we signed on for when we placed our trust in Jesus Christ. It’s not a typical definition of the good life, and it causes us to think at times that God isn’t paying attention and that the bad guys are winning.\nYou are tempted to think that because you’re God’s child, your life should be easier, more predictable, and definitely more comfortable. But that’s not what the Bible teaches. Instead, it reveals that struggles are part of God’s plan for you.\nThis means that if you’re God’s child, you must never allow yourself to think that the hard things you are now going through are failures of God’s character, promises, power, or plan. You must not allow yourself to think that God has turned his back on you. You must not let yourself begin to buy into the possibility that God is not as trustworthy as you thought him to be. You must not let yourself do any of these things, because when you begin to doubt God’s goodness, you quit going to him for help. You see, you don’t run for help to those characters you have come to doubt.\nGod has chosen to let you live in this fallen world because he plans to employ the difficulties of it to continue and complete his work in you. This means that those moments of difficulty are not an interruption of his plan or the failure of his plan, but rather an important part of his plan. I think there are times for many of us when we cry out for God’s grace and we get it—but not the grace that we’re looking for. We want the grace of relief or release. We get those in little pieces, but largely they are yet to come. What we all really need right now is the grace of transformation. God’s grace is not always pleasant. It often comes in the form of something we never would have chosen to go through if we were controlling the joystick.\nWe all need to teach and encourage one another with the theology of uncomfortable grace, because on this side of eternity, God’s grace often comes\nto us in uncomfortable forms. It may not be what you and I want, but it is precisely what we need. God is faithful; he will use the brokenness of the world that is your present address to complete the loving work of personal transformation that he has begun. Now, that’s grace!',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

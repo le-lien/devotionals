@@ -1,0 +1,14 @@
+  "02-16": {
+    "title": 'THE INSPIRATION OF SPIRITUAL INITIATIVE',
+    "note": '',
+    "passage": '',
+    "dailyVerse": {
+      "ref": 'All initiative is not inspired. A man may say to you - “Buck up, take your disinclination by the throat, throw it overboard, and walk out into the thing!” That is ordinary human initiative. But when the Spirit of God comes in and says, in effect, “Buck up,” we find that the initiative is inspired.',
+      "text": 'Arise from the dead.”  Ephesians 5:14'
+    },
+    "body": 'We all have any number of visions and ideals when we are young, but sooner or later we find that we have no power to make them real.\nWe cannot do the things we long to do, and we are apt to settle down to the visions and ideals as dead, and God has to come and say -\n“Arise from the dead.” When the inspiration of God does come, it comes with such miraculous power that we are able to arise from the dead and do the impossible thing. The remarkable thing about spiritual initiative is that the life comes after we do the “bucking up.”\nGod does not give us overcoming life; He gives us life as we overcome.  When the inspiration of God comes, and He says - “Arise from the dead,” we have to get up; God does not lift us up. Our Lord said to the man with the withered hand - “Stretch forth thy hand,”\nand as soon as the man did so, his hand was healed, but he had to take the initiative. If we will do the overcoming, we shall find we are inspired of God because He gives life immediately. ',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

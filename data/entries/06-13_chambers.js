@@ -1,0 +1,14 @@
+  "06-13": {
+    "title": 'GETTING THERE',
+    "note": '',
+    "passage": '',
+    "dailyVerse": {
+      "ref": 'One of the greatest hindrances in coming to Jesus is the excuse of temperament. We make our temperament and our natural affinities barriers to coming to Jesus. The first thing we realize when we come to Jesus is that He pays no attention whatever to our natural affinities.',
+      "text": 'Come ye after Me.”  Mark 1:17'
+    },
+    "body": 'We have the notion that we can consecrate our gifts to God. You cannot consecrate what is not yours; there is only one thing you can consecrate to God, and that is your right to yourself (Romans 12:1).\nIf you will give God your right to yourself, He will make a holy experiment out of you. God’s experiments always succeed. The one mark of a saint is the moral originality which springs from abandonment to Jesus Christ. In the life of a saint there is this amazing wellspring of original life all the time; the Spirit of God is a well of water springing up, perennially fresh. The saint realizes that it is God Who engineers circumstances, consequently there is no whine, but a reckless abandon to Jesus. Never make a principle out of your experience; let God be as original with other people as He is with you.\nIf you abandon to Jesus, and come when He says “Come,” He will continue to say “Come” through you; you will go out into life reproducing the echo of Christ’s “Come.” That is the result in every soul who has abandoned and come to Jesus.\nHave I come to Jesus? Will I come now? ',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

@@ -1,0 +1,14 @@
+  "05-30": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: 1 Corinthians 7:21–23',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'No need to carry the burden of ownership of your life today.\nYou’ve been bought with a price, so you don’t belong to you anymore.\nYou and I have been freed from carrying the burden of all the regrets of the past, of our needs in the present, and of all the unanswered questions of the future. We have been freed from living with the anxiety that comes from thinking that we have no greater resources than we can provide for ourselves. You and I have been freed from the stress of thinking that we have to figure it all out on our own. We have been freed from worrying about needing to control things that are actually beyond our control. You and I don’t need to wring our hands wondering what is coming unexpectedly down the road. We don’t have to fear that we won’t have enough or that we’ll come up short. You and I don’t have to panic at the thought that, in the end, we will fail and be left alone. We have been freed from the burden of finding our own way and writing our own rules. As God’s children, we simply do not have to carry any of these burdens. Why? Read on.\nYou don’t have to worry about these things for one simple, transformative reason—you don’t belong to you anymore! You have been bought with a price, so your life is now under new ownership and new management. The God who now owns you is committed to keep you and care for you. He is committed to supply everything you need. The God who owns you is in personal and careful control of every situation, location, and circumstance of your life. He covers your past with his grace; he protects, provides for, and empowers you in the present; and he holds every aspect of your future in his sovereign and gracious hands.\nYes, because you were purchased at the price of his blood, you don’t belong to you anymore. But that is a good thing. The One who now owns you is a wiser and more powerful manager of your life than you ever would have been. He cares for you with magnificent grace, incalculable wisdom, and limitless power.\nBeing owned by him means you are in the best of hands. It means you’re no longer burdened by living for you. A new owner has taken control of your life, and this new owner is more capable than anyone or anything you could give your life to.\nSo when you get up tomorrow, remind yourself of who you are and what you have become. God’s grace has welcomed you to rest and peace because that grace has placed your life under new and capable management. The One who is Creator, Savior, and King has taken ownership. What could be better than that?',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

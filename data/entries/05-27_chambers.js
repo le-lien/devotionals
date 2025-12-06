@@ -1,0 +1,14 @@
+  "05-27": {
+    "title": 'THE LIFE THAT LIVES',
+    "note": '',
+    "passage": '',
+    "dailyVerse": {
+      "ref": 'The disciples had to tarry until the day of Pentecost not for their own preparation only; they had to wait until the Lord was glorified historically. As soon as He was glorified, what happened?',
+      "text": 'Tarry ye in the city of Jerusalem, until ye be endued with power from on high.”  Luke 24:49'
+    },
+    "body": '“Therefore being by the right hand of God exalted, and having received of the Father the promise of the Holy Ghost, He hath shed forth this, which ye now see and hear.” The parenthesis in John 7:39\n(“For the Holy Ghost was not yet given; because that Jesus was not yet glorified”) does not apply to us; the Holy Ghost has been given, the Lord is glorified; the waiting depends not on God’s providence, but on our fitness.\nThe Holy Spirit’s influence and power were at work before Pentecost, but He was not here. Immediately Our Lord was glorified in Ascension, the Holy Spirit came into this world, and He has been here ever since. We have to receive the revelation that He is here.\nThe reception of the Holy Spirit is the maintained attitude of a believer. When we receive the Holy Spirit, we receive quickening life from the ascended Lord.\nIt is not the baptism of the Holy Ghost which changes men, but the power of the ascended Christ coming into men’s lives by the Holy Ghost that changes them. We too often divorce what the New Testament never divorces. The baptism of the Holy Ghost is not an experience apart from Jesus Christ: it is the evidence of the ascended Christ.\nThe baptism of the Holy Ghost does not make you think of Time or Eternity, it is one amazing glorious NOW. “This is life eternal that they might know Thee.” Begin to know Him now, and finish never. ',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

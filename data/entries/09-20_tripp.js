@@ -1,0 +1,14 @@
+  "09-20": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Hebrews 4:14–16',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Hopelessness is the doorway to hope. You have to give up on yourself before you will be excited about the hope that is yours in Christ Jesus.\nWe tend to give ourselves far too much credit:\nWe tend to attribute too much righteousness to ourselves.\nWe tend to think we have more wisdom than we do.\nWe tend to pride ourselves on having the “right” character.\nWe tend to think of ourselves as being more patient than we are.\nWe tend to regard ourselves as perseverant.\nWe tend to think we are submissive and obedient.\nWe tend to believe we are more committed to the kingdom of God than we are.\nWe simply tend to see ourselves as more godly than we are.\nHere’s the problem with this tendency: when you name yourself as righteous, when you attribute to yourself more maturity than you actually have, you don’t seek the grace that is your only hope. We don’t think we devalue grace, but that’s exactly what many of us do. Because we look at ourselves and conclude that we’re spiritually okay, we don’t tend to have a deep esteem and appreciation for the grace that is our only hope in life and in death. You see, only people who acknowledge how deep their need is and who admit that they have no ability whatsoever to meet that need on their own get excited about the grace that meets every one of their spiritual needs.\nOn the other hand, we don’t like to think of ourselves as needy, so we tend to minimize our sin. Sadly, many of us are far more concerned about the sin of others than our own. We pay far more attention to the spiritual needs of others than our own. Because we minimize our sin, seeing ourselves as righteous, we don’t cry out for and run after the rescuing and transforming grace that is ours as the children of God. As long as we still have hope in us—that is, hope in our ability to be righteous on our own—we won’t run after the grace that is offered us in Christ Jesus. It’s only when we are willing to give up on us that we seek\nthe rescue that God offers us.\nYes, it really is true that hopelessness is the doorway to hope. Seeing yourself as hopeless and helpless if left to yourself initiates and ignites your pursuit of God’s grace. The fact is that we all give daily evidence of our continuing need for grace. Simply put, we have no ability to make it on our own.\nWe still stand in desperate need of divine help. Are you willing to admit that and run to where grace can be found?',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

@@ -1,0 +1,14 @@
+  "10-16": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Hebrews 12:3–11',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'The difficulties of your life are not in the way of God’s plan; they are a tool of it. They’re crafted to advance his work of grace.\nPerhaps the two most important questions you could ask between your conversion and your final resurrection are:\n1. What in the world is God doing right here, right now?\n2. How in the world should I respond to what God is doing?\nThe way that you answer these questions determines, in a real way, the character of your faith and the direction of your life. Consider how James answers these questions in the very first part of his letter: Count it all joy, my brothers, when you meet trials of various kinds, for you know that the testing of your faith produces steadfastness. And let steadfastness have its full effect, that you may be perfect and complete, lacking in nothing.\nIf any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him. But let him ask in faith, with no doubting, for the one who doubts is like a wave of the sea that is driven and tossed by the wind. For that person must not suppose that he will receive anything from the Lord; he is a double-minded man, unstable in all his ways.\nLet the lowly brother boast in his exaltation, and the rich in his humiliation, because like a flower of the grass he will pass away. For the sun rises with its scorching heat and withers the grass; its flower falls, and its beauty perishes. So also will the rich man fade away in the midst of his pursuits.\nBlessed is the man who remains steadfast under trial, for when he has stood the test he will receive the crown of life, which God has promised to those who love him. (1:2–12) What is God doing in the here and now? He is employing the difficulties of life as tools of grace to produce character in you that would not grow any other way. So your trials are not a sign that God has forgotten you or is being unfaithful to his promises. Rather, they stand as a reminder that he is committed to his grace and will not forsake it—it will complete its work. No, he’s not exercising his power to make your life easy. No, he’s not at work trying to deliver your particular definition of happiness. He’s giving you much more than that—eternally faithful, forgiving, and transforming grace.\nAnd what should your response be? James says, “remain steadfast under trial.” Don’t become discouraged and give up. Don’t listen to the lies of the\nenemy. Don’t forsake your good habits of faith. Don’t question God’s goodness.\nLook at your trials and see grace. Behind those difficulties is an ever-present Redeemer who is completing his work.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

@@ -1,0 +1,14 @@
+  "09-05": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Isaiah 12',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'God’s care is sure, but will you run to him in your time of need or look elsewhere for hope and comfort?\nBy his promises, God invites us to run to him:\n“[Cast] all your anxieties on him, because he cares for you” (1 Pet. 5:7).\n“He has said, ‘I will never leave you nor forsake you’” (Heb. 13:5).\n“Come to me, all who labor and are heavy laden, and I will give you rest.\nTake my yoke upon you, and learn from me, for I am gentle and lowly in heart, and you will find rest for your souls. For my yoke is easy, and my burden is light” (Matt. 11:28–30).\n“The LORD is my light and my salvation; whom shall I fear? The LORD is the stronghold of my life; of whom shall I be afraid?” (Ps. 27:1).\n“He gives power to the faint, and to him who has no might he increases strength. Even youths shall faint and be weary, and young men shall fall exhausted; but they who wait for the LORD shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint” (Isa. 40:29–31).\n“And my God will supply every need of yours according to his riches in glory in Christ Jesus” (Phil. 4:19).\n“Cast your burden on the LORD, and he will sustain you; he will never permit the righteous to be moved” (Ps. 55:22).\nThese are just a small representation of God’s words of invitation and welcome. He really is the “Father of mercies and God of all comfort” (2 Cor.\n1:3). He can do for you what no one else can do. He has power that no one else possesses. He is able and willing to meet you in your moments of need, even when that need is self-inflicted. He will never mock you in your weakness. He will not stand idly by and sarcastically say, “I told you so.” He finds no joy in your suffering. He is full of compassion. He abounds in mercy. He will never walk away disgusted. He will never use your weakness against you. He has no favorites and shows no partiality. He never grows tired. He never becomes\nimpatient. He will never quit because he’s had enough. He will never refuse to give you what he’s promised because you’ve messed up so badly. He is just as faithful to all of his promises on your very worst day as he is on your very best day. He doesn’t ask you to earn his compassion or to do things to gain his mercy.\nHe knows how weak and fickle your heart is, yet he continues to move toward you with unrelenting and empowering grace. He delights in meeting your needs.\nHe finds joy in bringing peace to your heart. He really is everything that you need. Why would you run anywhere else in your time of weakness or trouble?',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

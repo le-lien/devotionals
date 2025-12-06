@@ -1,0 +1,15 @@
+"12-07": {
+        "title": '',
+        "note": '',
+        "passage": 'For further study and encouragement: <a href="https://www.bible.com/bible/114/HEB.2.NKJV?parallel=151">Hebrews 2:14–18</a>',
+        "dailyVerse": {
+          "ref": '',
+          "text": ''
+        },
+        "body": 'No one knows you more deeply and fully than your Savior, so no one offers you help formfitted for your deepest needs like he does.\nIt is one of the most comforting passages in all of the New Testament. It is one that you and I should meditate on again and again:\nSince then we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us hold fast our confession. For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin. Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need. (Heb. 4:14–16)\nThis passage is a call to live with hope, encouragement, courage, and confidence. Why? Not only because you have a High Priest who has passed through the heavens and now sits at the right hand of the Father on high, but also because he is sympathetic to your weaknesses. But there is more. He is sympathetic to your weaknesses because he hears and answers you from the vantage point of an experiential basis of knowledge of exactly what you are going through. He came to earth and, from the time he was an infant until he ascended after his resurrection, he faced the full range of the sufferings and temptations that we face. He knows what it is like to be homeless, hungry, and rejected. He is acquainted with disease and physical pain. He knows the power of accusation and injustice. He faced the siren voice of temptation. He knows what it is like to be forsaken by loved ones. He understands suffering and death.\nHe stared evil in the face. He knows us and has a firsthand understanding of what we deal with day in and day out.\nThe word translated as “weaknesses” in this passage is profound. It’s almost untranslatable. It is used in many ways. It’s probably best understood as “the human condition.” Our High Priest understands what it is like to be a human being in this fallen world because, in an act of shocking, condescending love, he took on human flesh and lived with us as a man. Now, as the resurrected and ascended man, he sits next to the Father as our High Priest. This means that our struggles and prayers are not greeted with harshness, condemnation, or impatience, but with understanding and sympathy.\nAll of this means that we can rest assured that we will receive from his hand mercy that is formfitted for the particular needs in which we find ourselves. We can be confident that he hears us with the sympathy of shared experience and, because he does, he will provide for us exactly what we need. Now, that’s amazing grace!',
+        "dailyPrayer": {
+          "title": '',
+          "text": ''
+        }
+      }
+      

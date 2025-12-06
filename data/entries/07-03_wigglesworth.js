@@ -1,0 +1,14 @@
+  "07-03": {
+    "title": 'The Gifts of Christ',
+    "note": 'To each one of us grace was given according to the measure of Christ‟s gift.',
+    "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/EPH.4.NKJV?parallel=151">Ephesians 4:1–16</a>',
+    "dailyVerse": {
+      "ref": 'Ephesians 4:7',
+      "text": 'To each one of us grace was given according to the measure of Christ‟s gift.'
+    },
+    "body": 'The apostle Paul spoke about the grace and the gifts of Christ—not the gifts of the Holy Spirit, but the gifts of Christ. T You are joined to Christ‘s body the moment you believe. For instance, some of you may have children, and they have different names, but the moment they appeared in the world, they were in your family. The moment they were born, they became a part of your family.\n\nThe moment you are born of God, you are in the family, and you are in the body, as He is in the body, and you are in the body collectively and particularly. After you come into the body, then the body has to receive the sealing of the promise, or the fulfillment of promise, that Christ will be in you, reigning in you mightily. The Holy Spirit will come to unveil the King in all His glory so that He might reign as King there, the Holy Spirit serving in every way to make Him King.\n\nYou are in the body. The Holy Spirit gives gifts in the body. Living in this holy order, you may find that revelation comes to you and makes you a prophet. Some of you may have a clear understanding that you have been called into apostleship. Some of you may have perfect knowledge that you are to be pastors. When you come to be sealed with the Spirit of promise, then you find out that Jesus is pleased and gives gifts in order that the church might come into a perfect position of being so blended together that there could be no division. Jesus wants His church to be a perfect body— perfect in stature, perfect in oneness in Him.\n\nI have been speaking to this end: that you may see the calling that Paul was speaking about—humility of mind, meekness of spirit, knowing that God is in you and through you, knowing that the power of the Spirit is mightily bringing you to the place where not only the gifts of the Spirit but also the gifts of Christ have been given to you, making you eligible for the great work you have to do.\n\nMy purpose is not to tell what God has for you in the future. Press in now, and claim your rights. Let the Lord Jesus be so glorified that He will make you fruit-bearers—strong in power, giving glory to God, having “no confidence in the flesh”  (Phil. 3:3) but being separated from natural things, now in the Spirit, living fully in the will of God.',
+    "dailyPrayer": {
+      "title": 'Thought for today',
+      "text": 'Let your whole soul reach out unto God; dare to breathe in heaven; dare to be awakened to all God‘s mind; listen to the language of the Holy Spirit.'
+    }
+}

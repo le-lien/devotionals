@@ -1,0 +1,14 @@
+  "09-17": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: John 14:1–14',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'This isn’t paradise. You can’t make it into paradise.\nParadise is coming, and your place was secured\nfor you on the cross of Jesus Christ.\nWe all do it because the longing has been hardwired into us by God. We all try to turn this present world into the paradise we dream of. Why do we all attempt this impossible task? Because deep in the heart of every human being who has ever lived has been the longing for paradise. Somehow, some way, we all desire for things to be the way the Creator intended them to be. We are all dissatisfied with the world the way it is, each in our own way. We all feel the pain of living in a world gone bad. We all careen from disappointment to disappointment because reality never seems to rise to the level of our dreams. We all face things in our lives that we wish we could change. We all examine things and hope that somehow they will get better. Each of us tries to turn this moment into the paradise it will never be, and each of us faces the frustration that results from our failed attempts.\nThe cry of an infant who is dealing with a pain he doesn’t understand is a cry for paradise. The tears of a little boy who has been mocked on the playground are tears for paradise. The anger of a teenager whose iPad has been stolen is a cry for paradise. The frustration of a young professional with a boss who never seems to be satisfied is a cry for paradise. The grief of a young wife who misses her estranged husband is a cry for paradise. The grumpiness of an old man whose body doesn’t work as it once did is a cry for paradise. We all groan, and those groanings are cries for a better world.\nBut here’s what you have to face. God, for your good and his glory, has chosen to keep you for a while in this broken-down world. He has chosen to employ the hardships of this world to complete the work that he has begun in you. He does not leave you alone. He does not leave you without resources. He blesses you with his new morning mercies. But he has you right where he wants you. This means your marriage, your job, your church, your family, and your friendships will never be the paradise that you want them to be in this world.\nBut more needs to be said. In his grace, God has granted you a place in\nparadise. If you’re God’s child, the final chapter of your story will take place in an eternal paradise beyond your wildest dreams. Listen to the words of Jesus: “In my Father’s house are many rooms. If it were not so, would I have told that I go to prepare a place for you?” (John 14:2). As you face the hardships of today, remember that grace has purchased you a ticket for the paradise that is to come.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

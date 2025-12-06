@@ -1,0 +1,14 @@
+  "05-13": {
+    "title": 'The HABIT of a GOOD CONSCIENCE',
+    "note": '',
+    "passage": '',
+    "dailyVerse": {
+      "ref": 'Acts 24:16',
+      "text": 'A conscience void of offence toward God, and toward men.'
+    },
+    "body": 'God’s commands are given to the life of His Son in us, consequently to the human nature in which His Son has been formed, His commands are difficult, but immediately we obey they become divinely easy.\nConscience is that faculty in me which attaches itself to the highest that I know, and tells me what the highest I know demands that I do.\nIt is the eye of the soul which looks out either towards God or towards what it regards as the highest, and therefore conscience records differently in different people. If I am in the habit of steadily facing myself with God, my conscience will always introduce God’s perfect law and indicate what I should do. The point is, will I obey? I have to make an effort to keep my conscience so sensitive that I walk without offence. I should be living in such perfect sympathy with God’s Son, that in every circumstance the spirit of my mind is renewed, and I “make out” at once “what is that good, and acceptable, and perfect, will of God.”\nGod always educates us down to the scruple. Is my ear so keen to hear the tiniest whisper of the Spirit that I know what I should do?\n“Grieve not the Holy Spirit.” He does not come with a voice like\nthunder; His voice is so gentle that it is easy to ignore it. The one thing that keeps the conscience sensitive to Him is the continual habit of being open to God on the inside. When there is any debate, quit. “Why shouldn’t I do this?” You are on the wrong track. There is no debate possible when conscience speaks. At your peril, you allow one thing to obscure your inner communion with God. Drop it, whatever it is, and see that you keep your inner vision clear. ',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

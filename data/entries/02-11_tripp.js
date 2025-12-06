@@ -1,0 +1,14 @@
+  "02-11": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: 2 Corinthians 4:7–18',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Grace works to free you from your eternity amnesia so that you will be willing and able to live with the purifying hope of what is to come.\nYou and I don’t always live what we say we believe. There is often a disconnect between our confessional theology and our street-level functional theology.\nThere is often a separation between, on the one hand, the doctrines we say we have embraced and, on the other hand, the choices we make and the anxieties that we feel. One of the places where this disconnect exists for many of us is the biblical teaching about eternity. We say we believe in the hereafter. We say that this moment in time is not all there is. We say that we are hardwired for forever.\nBut often we live with the compulsion, anxiety, and drivenness of eternity amnesiacs. We get so focused on the opportunities, responsibilities, needs, and desires of the here and now that we lose sight of what is to come.\nThe fact is that you cannot make sense out of life unless you look at it from the vantage point of eternity. If all God’s grace gives us is a little better here and now, if it doesn’t finally fix all that sin had broken, then perhaps we have believed in vain: “If in Christ we have hope in this life only, we are of all people most to be pitied” (1 Cor. 15:19). There has to be more to God’s plan than this world of sin, sickness, sorrow, and death. There has to be more than the temporary pleasures of this physical world. Yes, there is more, and when you live like there’s more to come, you live in a radically different way.\nWhen you forget eternity, you tend to lose sight of what’s important. When you lose sight of what’s truly important, you live for what is temporary, and your heart seeks for satisfaction where it cannot be found. Looking for satisfaction where it cannot be found leaves you spiritually empty and potentially hopeless.\nMeanwhile, you are dealing with all the difficulties of this fallen world with little hope that things will ever be different. Living as an eternity amnesiac just doesn’t work. It leaves you either hoping that now will be the paradise it will never be or hopeless that what is broken will ever be fixed. So it’s important to fix your eyes on what God has promised will surely come. Let the values of eternity be the values that shape your living today, and keep telling yourself that the difficulties of today will someday completely pass away. Belief in eternity\ncan clarify your values and renew your hope. Pray that God, by his grace, will help you remember forever right here, right now.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

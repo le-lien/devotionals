@@ -1,0 +1,14 @@
+  "01-18": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Hebrews 12:7–17',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'If you’re God’s child, you will never again have just you to depend on. No, you’ve been blessed, right here, right now, with grace.\nIt’s a bigger problem than I think most of us think it is. It’s something I have encountered again and again as I have traveled around the world. It’s in the lives of singles and the married, the old and the young, men and women, and leaders and followers. It is one of those subtle omissions, the results of which are anything but subtle in the lives of so many. It has the power to leave you feeling frustrated and unable or overwhelmed and discouraged. It causes you to miss the answers that are right in front of your face and to look for answers where they aren’t to be found. It has the power to put your Bible on the lower shelves of your life rather than on the top shelf, where it needs to be. It turns you into a passive and somewhat cynical waiter, just hanging around until the good stuff finally happens. It changes the way you think about yourself and the way you make decisions. I’m not sure how we got here, but I am sure that it is terribly important that we find our way out.\nWhat’s the problem that I’m fretting about? It’s the fact that so many of us have a huge dark hole in the middle of our gospel. Sure, we have a pretty good understanding of the gospel past, the forgiveness that we have received through the sacrifice of Jesus, and a fairly clear understanding of salvation future, the eternity that we will spend with Jesus, but have we really understood well the benefits of the work of Christ in the here and now? The Bible powerfully declares that Jesus didn’t just die for your past or your future, but for all the things that you face right here, right now. We need to study, examine, teach, preach, counsel, and encourage one another with the nowism of the gospel of Jesus Christ. Listen to the present tense gospel in the words of Galatians 2:20: “I have been crucified with Christ [a statement of historical redemptive fact]. It is no longer I who live, but Christ who lives in me [a statement of present redemptive reality]. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me [living in light of the gospel right here, right now].”\nWhat does the gospel say you have been given right here, right now, so that\nyou can be what you’ve been called to be and do what you’ve been called to do?\nThe answer is Christ! He is in you. He is with you. He is for you. In him, you really do have everything you need. You simply have not been left to yourself.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

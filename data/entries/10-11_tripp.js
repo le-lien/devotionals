@@ -1,0 +1,14 @@
+  "10-11": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: 1 Chronicles 16:8–27',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'God is not satisfied with you being a witness to his work of grace. He’s called you to be an instrument of that grace to others.\nThe position God has chosen for us in the work of his kingdom is an amazing thing. All of his children have a mind-boggling calling. Sadly, many of them don’t understand their position, and because they don’t, they are quite comfortable being consumers and quite timid when it comes to being instruments.\nSo many people who attend evangelical churches on Sunday have little life commitment to the work of those churches. Most pastors would be thrilled if the vast majority of their people were every-Sunday attenders and committed to financially supporting the work of the churches. But all this sadly falls far below God’s wise design for his church. Think about it: you will simply never be able to hire enough professional ministry people to cover all the ministry needs in a given week, no matter what size your church is. It is no wonder people reach outside the body of Christ for help. It is no wonder problems are left to grow until they reach intense levels of complication.\nAll God’s children have been called to the same position. We’ve all been called to be his ambassadors. Remember, the only thing an ambassador does is represent. God’s plan is to make his invisible presence and his invisible grace visible through his people, who incarnate his presence and carry that grace to others. That’s God’s call to every one of his children. There are to be no self-satisfied recipients, no consumers. The body of Christ is designed by God to be an organic, constantly ministering community.\nIf the church is ever going to be this, then God’s people need three things.\nFirst, we need vision. We need to be reminded again and again of our place in the work of the Redeemer. Next, we need commitment. We need to be encouraged to make specific and concrete decisions to better position ourselves for the work to which God has called us. Last, we need training. We need to understand what it really looks like to represent the grace of the Redeemer in the lives of the people whom he puts in our paths. We need to be trained not to see those relationships as belonging to us for our happiness, but rather as workrooms\nin which the Lord can do his transforming work of grace.\nWhat an amazing way to live! We have been chosen by God to be part of the most important work of the universe. We have been chosen to carry the life-changing message of the grace of the Savior King with us wherever we go. And we have been given the same grace to enable us to be the ambassadors that we have been chosen to be.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

@@ -1,0 +1,14 @@
+  "03-12": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Genesis 1–3',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'If you mourn the fallenness of your world rather than curse its difficulties, you know that grace has visited you.\nLife in this terribly broken world is hard. You are constantly dealing with the frustration of this world not operating the way God intended. You are always facing the unexpected. Almost daily you are required to deal with something you wouldn’t have chosen for your life, but it’s there because of the location where we live. Life right here, right now is like living in a disheveled house that has begun to fall down on its own foundation. It is still a house, but it doesn’t function as it was meant to. The doors constantly get stuck shut. The plumbing only occasionally works properly. You are never sure what’s going to happen when you plug an appliance in, and it seems that the roof leaks even when it’s not raining. So it is with the world that you and I live in. It really is a broken-down house.\nNow, there are really only two responses we can have to the brokenness that complicates all of our lives: cursing or mourning.  Let’s be honest. Cursing is the more natural response. We curse the fact that we have to deal with flawed people. We curse the fact that we have to deal with things that don’t work right.\nWe curse the fact that we have to deal with pollution and disease. We curse the fact that promises get broken, relationships shatter, and dreams die. We curse the realities of pain and suffering. We curse the fact that this broken-down world has been assigned to be the address where we live. It all makes us irritated, impatient, bitter, angry, and discontent. Yes, it’s right not to like these things.\nIt’s natural to find them frustrating, because as Paul says in Romans 8, the whole world groans as it waits for redemption. But cursing is the wrong response. We curse what we have to deal with because it makes our lives harder than we want them to be. Cursing is all about our comfort, our pleasure, our ease. Cursing is fundamentally self-centered.\nMourning is the much better response. Mourning embraces the tragedy of the fall. Mourning acknowledges that the world is not the way God meant it to be.\nMourning cries out for God’s redeeming, restoring hand. Mourning acknowledges the suffering of others. Mourning is about something bigger than\nthe fact that life is hard. Mourning grieves what sin has done to the cosmos and longs for the Redeemer to come and make his broken world new again.\nMourning, then, is a response that is prompted by grace.\nThis side of eternity in this broken world, cursing is the default language of the kingdom of self, but mourning is the default language of the kingdom of God. Which language will you speak today?',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

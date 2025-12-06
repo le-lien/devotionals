@@ -1,0 +1,14 @@
+  "11-21": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: 1 Corinthians 2:6–16',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Corporate worship is designed to keep you humble by reminding you of your need and thankful by reminding you of God’s gift.\nTo the unbelieving world, it’s just a bunch of foolishness. “Sin? Who cares?\nGrace? Who needs it? Moral law? I’ll make up my own rules, thank you.\nHeaven? Hell? Nobody believes that stuff anymore. Right and wrong? Who knows? True and false? Who has the right to decide? Just be happy and don’t hurt anyone else.” You and I live in a world that tells us it’s all foolishness.\nThat’s why we need to be reminded again and again. There’s no way I could say it better than the apostle Paul:\nFor the word of the cross is folly to those who are perishing, but to us who are being saved it is the power of God. For it is written,\n“I will destroy the wisdom of the wise,\nand the discernment of the discerning I will thwart.”\nWhere is the one who is wise? Where is the scribe? Where is the debater of this age? Has not God made foolish the wisdom of the world?\nFor since, in the wisdom of God, the world did not know God through wisdom, it pleased God through the folly of what we preach to save those who believe. For Jews demand signs and Greeks seek wisdom, but we preach Christ crucified, a stumbling block to Jews and folly to Gentiles, but to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God. For the foolishness of God is wiser than men, and the weakness of God is stronger than men.\nFor consider your calling, brothers: not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth. But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong; God chose what is low and despised in the world, even things that are not, to bring to nothing things that are, so that no human being might boast in the presence of God.\nAnd I, when I came to you, brothers, did not come proclaiming to you the testimony of God with lofty speech or wisdom. For I decided to know nothing among you except Jesus Christ and him crucified. And I was with you in weakness and in fear and much trembling, and my speech and my message were not in plausible words of wisdom, but in demonstration of the Spirit and of power, so that your faith might not rest in the wisdom of men but in the power of God. (1 Cor. 1:18–2:5)\nIsn’t it good that God devised a plan so that we would regularly gather and remember what the world around us ignores or mocks? As we remember, our hearts fill once again with gratitude and are moved once again to worship. We leave with a fresh knowledge that grace isn’t foolishness; no, it’s the foundation of our hope.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

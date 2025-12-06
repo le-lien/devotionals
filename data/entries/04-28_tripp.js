@@ -1,0 +1,14 @@
+  "04-28": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Colossians 1:2–14',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Today the true love of your heart will be revealed by what you grieve and what you celebrate.\nOur lives are shaped by grief and celebration. This isn’t true only for the grand, significant moments of our lives; there are ways in which every day of your life and mine is marked by moments of grief and celebration. Daily we are sad, mad, upset, or disappointed by something, and every day we are excited, happy, joyful, pumped, or thankful for something. It’s at the intersection between sadness and celebration that the true love of our hearts is exposed.\nThink with me—when you look back on a good week, what are the things that excited you, satisfied you, or otherwise made you so happy that you name it as a good week? When you are happy with a relationship in your life, what are you considering that gives you joy? Be honest as you read this—what is it that brings joy and satisfaction to your heart? Or look at the other side. When you’re really disappointed with life, what is it that discourages you? When you are envious of the life of another, what produces that envy? When you have lost your motivation to get up in the morning and face your day, what specifically has robbed you of your motivation? I plead with you to take time to let these questions function as a window to your heart.\nHere’s the bottom-line question: How much of your joy, celebration, grief, or anger in the last several weeks had anything whatsoever to do with the kingdom of God? Even when I type these words, I am convicted myself. I’m convicted by how much of my joy is connected to getting my own way, to people and things not being in my way, or to actually getting some physical thing I’ve set my heart on.\nYet, by grace, that is not always true. There are times when my heart grasps the magnitude of God’s grace, and I celebrate. There are times when I am captured by the work of God’s kingdom. There are moments when I do find joy in serving others. There are times when I am deeply content in the worship of God. I wish I could say that these things were always true of me, but they are not.\nSo take time today to examine your heart. Take time to exegete your grief or\nunpack your joy, because if you do, you will see that there is evidence of God’s transforming grace at work, but there is also evidence of the need for that grace to do more. Yes, you have been and are being rescued, but your grief and celebration tell you that the war for your heart still rages on and, like me, you need for grace to continue to do its rescuing and transforming work every day.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

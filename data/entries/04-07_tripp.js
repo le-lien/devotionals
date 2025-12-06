@@ -1,0 +1,14 @@
+  "04-07": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: 1 Corinthians 1:18–25',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Corporate worship is designed to confront you with a view of life that has at its center a dead man’s cross and a living man’s empty tomb.\nThere are two themes that I have repeated in writing and speaking again and again. I will repeat them here:\n1. Human beings made in the image of God do not live life based on the facts of their experience, but based on their interpretation of the facts.  Whether you know it or not, you have been designed by God to be a meaning maker.\nYou are a rational human being (even if you don’t always show it), and you have a constant desire for life to make sense. So you are constantly thinking and constantly interpreting. You don’t actually respond to what is going on around you; you respond to the sense you have made of what is going on around you. This means that there is always some kind of interpretive grid that you are carrying around with you that helps you to make sense out of your life. Everybody believes something. Everybody assumes that certain things are true. Everybody brings some system of “wisdom” to their lives to help them to explain and understand.\n2. No one is more influential in your life than you are, because no one talks to you more than you do.  We never stop talking to ourselves. We are in a constant conversation with ourselves about God, others, ourselves, meaning and purpose, identity, and such. The things you say to you about you, God, and life are profoundly important because they form and shape the way you then respond to the things that God has put on your plate. You see, you are always preaching to yourself some kind of worldview, some kind of\n“gospel,” if you will. The question is, in your private moment-by-moment conversation, what are you saying to you?\nPaul argues very powerfully that the “dead man’s cross, live man’s empty tomb” gospel of the Lord Jesus Christ, which the world sees as utter foolishness, is in fact the wisest of wisdom. It is the only way to make sense out of life. It is the only lens through which you can see life accurately. It is the only kind of\nwisdom that really does give a final and reliable answer to the fundamental questions of life that every person asks. And at the center of this message of wisdom is not a set of ideas but a person who, in his life and death, offers you not only answers, but every grace you need to be what you were created to be and to do what you have been called to do.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

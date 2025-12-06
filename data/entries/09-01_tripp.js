@@ -1,0 +1,14 @@
+  "09-01": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Ephesians 3:14–20',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Don’t be disheartened because you feel weak. By grace your Savior lives inside you, and he is your strength.\nWhere do you run when you’re discouraged? Where do you tend to turn when you’re faced with your weakness? What do you say to yourself when you’re confronted with failure? What do you do when you feel unable to do what God has called you to do? I run to Romans 8:1–11. When weakness has become evident in my life, this passage has been my friend and comforter again and again:\nThere is therefore now no condemnation for those who are in Christ Jesus. For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death. For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh, in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit. (Rom. 8:1–4) First, this passage comforts us with the radical redemptive reality that we will never again face condemnation for our sin. Jesus bore every aspect of our penalty. Even on days of evident weakness and repeated failure, we will not be punished for our sin. This means that in those moments, we don’t have to hide or run from the Lord, but we can run to his presence for his help and forgiveness.\nBut that is not all.\nYou, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him. But if Christ is in you, although the body is dead because of sin, the Spirit is life because of righteousness. If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you. (Rom. 8:9–11) Not only does God, in grace, deal with the guilt of our sin; he deals with its power as well. Sin does leave us weak, lame, and unable. It makes it impossible for us to keep God’s law. It wasn’t enough for God to forgive us, although that forgiveness is a glorious thing. God comes to live inside us by his Spirit, animating us with new life and empowering us to desire and do what we would be unable to do without his indwelling presence. This means that you do not have to fear or deny your weakness. You do not need to swindle yourself into\nthinking that you are strong. You can face your weakness with joy because you know that you have been given grace for that weakness; grace that is not a thing, but a person—the Holy Spirit, who makes you the place where he dwells in power.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

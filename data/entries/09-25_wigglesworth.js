@@ -1,0 +1,14 @@
+  "09-25": {
+    "title": 'Depend on God',
+    "note": 'Lord, I pray, please let Your ear be attentive to the prayer of Your servant.',
+    "passage": 'Scripture reading: Nehemiah 1',
+    "dailyVerse": {
+      "ref": 'Nehemiah 1:11',
+      "text": 'Lord, I pray, please let Your ear be attentive to the prayer of Your servant.'
+    },
+    "body": 'ehemiah mourned, fasted, and prayed until his humility and yieldedness before God brought the same thing that N God‘s Word brings to us: it dissolved him. It brought everything of his old nature into a dissolved place where he went right through into the presence of God.\n\nNow Nehemiah was the cupbearer for the Persian king Arta-xerxes. The moment the king saw Nehemiah‘s sad expression, he asked, "What is the matter with you, Nehemiah? I have never seen your countenance changed like this." (See Nehemiah 2:1–2.) Nehemiah was so near almightiness before the king that he could pray and move the heavens and move the king and move the world until Jerusalem was restored.\n\nHe mourned. When we reach a place where the Spirit takes us to see our weaknesses, our depravity, our failings; when we mourn before God; we will be dissolved. In the dissolving, we will be clothed with our house from heaven. We will walk in white; we will be robed with a new robe, and this “mortality [will] be swallowed up by life”  (2 Cor. 5:4).\n\nBeloved, Christ can bring every one of us, if we will, into a wholehearted dependency where God will never fail us but we will reign in life. We will travail and bring forth fruit; for Zion, when she travails, will make the house of hell shake.\n\nWill we reach this place? Our blessed Lord reached it. Every night He went alone and reached ideals and walked the world in white. He was clothed with the Holy Spirit from heaven.\n\nDaniel entered into the same negotiations with heaven through the same inward aspiration. He groaned and travailed until for three weeks he shook the heavens and moved Gabriel to come. Gabriel passed through all the regions of the damned to bring the message to him.\n\nThere was something so beautiful about the whole thing that even Daniel, in his most holy, beautiful state, became as corruption 406\n\nbefore the presence of Gabriel. And Gabriel strengthened Daniel by his right hand and lifted him up and gave him the visions of the world‘s history that are to be fulfilled. (See Daniel 9–12.) You cannot get into life except through death, and you cannot get into death except by life. For the natural life to be swallowed up, there must be nothing there but helplessness until the life of Christ strengthens the natural life. Yet instead of the natural life being strengthened, the spiritual life comes forth with abounding conditions.',
+    "dailyPrayer": {
+      "title": 'Thought for today',
+      "text": 'The only way to go into fullness with God is for the life of Christ to swallow up the natural life.'
+    }
+}

@@ -1,0 +1,14 @@
+  "05-26": {
+    "title": 'THINK AS JESUS TAUGHT',
+    "note": '',
+    "passage": '',
+    "dailyVerse": {
+      "ref": 'We think rightly or wrongly about prayer according to the conception we have in our minds of prayer. If we think of prayer as the breath in our lungs and the blood from our hearts, we think rightly. The blood flows ceaselessly, and breathing continues ceaselessly; we are not conscious of it, but it is always going on. We are not always conscious of Jesus keeping us in perfect joint with God, but if we are obeying Him, He always is. Prayer is not an exercise, it is the life. Beware of anything that stops ejaculatory prayer. “Pray without ceasing,” keep the childlike habit of ejaculatory prayer in your heart to God all the time.',
+      "text": 'Pray without ceasing.”  1 Thessalonians 5:17'
+    },
+    "body": 'Jesus never mentioned unanswered prayer, He had the boundless certainty that prayer is always answered. Have we by the Spirit the unspeakable certainty that Jesus had about prayer, or do we think of\nthe times when God does not seem to have answered prayer? “Every one that asketh receiveth.” We say - “But … , but …” God answers prayer in the best way, not sometimes, but every time, although the immediate manifestation of the answer in the domain in which we want it may not always follow. Do we expect God to answer prayer?\nThe danger with us is that we want to water down the things that Jesus says and make them mean something in accordance with common sense; if it were only common sense, it was not worth while for Him to say it. The things Jesus says about prayer are supernatural revelations. ',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

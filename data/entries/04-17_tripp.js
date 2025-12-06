@@ -1,0 +1,14 @@
+  "04-17": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Luke 7:1–17',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Faith means you take God at his word, you never let yourself think that you’re smarter than him, and you live inside his boundaries.\nFaith so completely takes God at his word that it is willing to do what he says and stay inside his boundaries. Faith is a response of your heart to God that completely alters the way you live your life. You don’t just think by faith; you live by faith.\nNow, it is important to face two implications of real, living faith. First, faith is simply never natural for us. We aren’t born with faith in God. We don’t come out of the womb ready to acknowledge his existence, worship him for his glory, and submit to his rules. We tend to live by sight, by personal experience, by collective research, or by good old intuition, but faith isn’t natural. It’s natural to give yourself to wonderment about mysteries in your life you’ll never solve. It’s natural to imagine where you’ll be in ten or twenty years. It’s natural to wonder why someone else’s life has turned out so very different from yours. It’s natural to panic at moments, wondering if God really does exist and, if he does, if he hears your prayers. But putting your entire existence in the hands of One whom you cannot see, touch, or hear is far from natural. This is why faith is only ever a gift of divine grace. You and I have all the power in the world to doubt and no independent power at all to believe. So if you are living by faith, don’t proudly pat yourself on the back as if you did something great. No, raise your eyes and your hands toward heaven and thank God for gifting you with the desire and ability to believe.\nSecond, participating in formal Christianity is a part of a life of faith, but it does not define the life of faith. Just because you participate in the scheduled programs of your church doesn’t mean you’re a person of faith. You can praise God for his wisdom in that service on Sunday but be breaking his law on Tuesday because, at street level, you really do think you’re smarter than him.\nYou can sing in thanks for his grace on Sunday and resist the work of that grace the rest of the week. It’s so easy to swindle yourself into believing that you’re living by faith when you’re really not. So look into the mirror of Hebrews 11 and examine your faith. You don’t need to do that fearfully, anxious at what you’ll\nsee. You don’t need to deny the reality of your spiritual struggle or act as if you’re something that you’re not. You don’t have to fear exposure, because your struggle of faith has been more than adequately addressed by the grace of the cross of the Lord Jesus. Run to him and confess the off-and-on-again faith of your heart. He will not turn you away.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

@@ -1,0 +1,14 @@
+  "06-28": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Isaiah 44:1–8',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'If God is in control of every aspect of your world and his grace covers all your sin,\nwhy would you ever give way to fear?\nThere are many things I wish were true about me:\nI wish I could say that I’m never afraid, but I can’t.\nI wish I could say that worry never interrupts my sleep, but I can’t.\nI wish I could say that I never wonder what God is doing, but I can’t.\nI wish I could say that I never give way to envy, but I can’t.\nI wish I could say that I am always aware that God is near, but I can’t.\nI wish I could say that I never wonder, “If only_______,” but I can’t.\nI wish I could say that I never dread what’s around the corner, but I can’t.\nI wish I could say that I always have peace in my heart, but I can’t.\nI wish I could say that all that I do is done out of faith and not fear, but I can’t.\nYou see, I have come to be very aware that although I know the Bible and its doctrine well, the battle between fear and faith still goes on in my heart. Here’s what this means at street level. It is important to understand why fear still lives in the life of a believer in the hallways, kitchens, bedrooms, family rooms, workrooms, and vans of everyday life. You could argue that he or she has every reason to be free of fear, that fear should be an artifact of a former civilization.\nSo why the continued struggle with fear?\nFear lives and rules in the heart of a believer who has forgotten God’s sovereignty and grace. If left to myself, I should be afraid. There are many trials, temptations, dangers, and enemies in this fallen world that are bigger and more powerful than me. I have to deal with many things that are outside my control.\nBut the message of the gospel is that I haven’t been left to myself, that Immanuel is with me in sovereign authority and powerful grace. He rules with perfect wisdom over all the circumstances and locations that would make me afraid. In grace, he blesses me with what I need to face what he has decided to put on my plate. I am never—in anything, anywhere, at any time—by myself. I never arrive on scene first. I never step into a situation that exists outside his control. I never\nmove beyond the reach of his authority. He is never surprised by where I end up or by what I am facing. He never leaves me to the limited resources of my own wisdom, strength, and righteousness. He never grows weary with protecting and providing for me. He will never abandon me out of frustration. I do not need to be afraid. When you forget God’s sovereignty and his grace, you give room in your heart for fear to do its nasty, debilitating work. Pray right now for grace to remember. Your sovereign Savior loves to hear and answer.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

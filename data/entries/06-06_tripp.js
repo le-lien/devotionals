@@ -1,0 +1,14 @@
+  "06-06": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Job 1',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Every human being places his hope in something, and every human being asks that hope to deliver something. Where have you placed your hope?\nWe’ve all been hardwired for hope. We all project our lives out into the future to imagine things as we would like them to be. We all carry around with us personal hopes and dreams. We all surrender our hearts to some kind of expectation. We all silently wish that things could be different than they are. We all hope in something and we all hope for something. So much of how we look at life and how we live our lives is connected to the things in which we place the fundamental hopes of our lives.\nHope always has three elements—an assessment, an object, and an expectation. First, hope looks around and assesses that something or someone could be better than it is; that that something or someone is somehow broken. If things were as perfect as they could be, you wouldn’t need to hope. Second, hope always has an object. It is the thing that you bank your hope on. You ask the object of your hope to fix what is broken or to deliver what is desired or needed. Third, hope has an expectation. This is what you ask the object of your hope to give you, what you hope the object of your hope will deliver.\nNow, there are really only two places to look for foundational life hope, that is, basic meaning and purpose, motivation to continue, a sense of well-being, and that knowledge that you’ve hooked yourself to what life is really all about. You can search for hope horizontally in the situations, experiences, physical possessions, locations, and relationships of everyday life. There are two problems with looking horizontally. First, all of these things suffer from some degree of brokenness. They are part of the problem, and because they are, they are unable to deliver what you’re seeking. Also, these things were never made to be the source of your hope, but to be fingers that point you to where your hope can be found.\nPaul says it all in Romans 5:5 when he tells us that hope in God will never put us to shame. It will never embarrass us by failing to deliver. In those words, Paul tells us where hope can be found. It is found only vertically. Only when God is your hope is your hope sure and secure. Only he is able to give you the\nlife that your heart seeks. Only he is able to give your soul the rest that it needs.\nOnly he can deliver the internal peace that is the hunger of every human being.\nIt’s only when grace has hooked you to him that you are connected to what life is really all about. In his brief words, Paul confronts us with this thought—if your hope disappoints you, it’s because it’s the wrong hope! Today, what carries your hope?',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

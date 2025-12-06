@@ -1,0 +1,14 @@
+  "09-30": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Romans 5:12–21',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'The life we couldn’t live, he lived for us. The death we should have died, he died for us. The new life we need, he gives to us.\nOnly the amazing grace of God has the power to transport us from death to life.\nThere is just no human effort that could accomplish this. Salvation is simply beyond our grasp. A relationship with God stands outside our reach. Moral perfection is a mountain too high for us to climb. Living to God’s glory exceeds our finest motivation. Righteousness and wisdom fall outside the scope of our natural abilities. If left to ourselves, there is no way that we would ever be what we were created to be or would do the things we were made to do. We all fall short of God’s standard and are all deserving of his penalty.\nIf you don’t understand and accept the gravity of your condition and your inability to alter it, the Bible, and particularly the work of Christ, will make no sense to you at all. Why did God go to the history-shaping extent of sending his Son to earth? Why was it necessary for Jesus to live a completely perfect life for thirty-three years? Why was it important for him to walk in our shoes and experience the full range of the temptations that we face? Why was it vital for him to suffer and die? Why did there absolutely have to be a resurrection? Why?\nThe answers to these questions can be found by tracing a thread that runs throughout the Bible. God went to this radical extent because there was no other way. We were not only hopelessly ensnared by sin and tragically guilty before God, but we were also completely unable to help ourselves. We were dead in our sin—about as able to help ourselves out of our condition as a corpse would be able to help itself out of its casket.\nThere had to be a Savior because we have no ability whatsoever to save ourselves. We can escape situations, locations, and relationships, but we cannot escape ourselves. We cannot run from who we are, what we have done, and what we deserve. The only hope is that God in redeeming love and glorious grace will move toward us, doing for us what we cannot do for ourselves.\nSo God sent his Son to be the second Adam. He would face the temptations that Adam faced, but he would not fall. He would obey perfectly where Adam disobeyed and he would willingly take on himself Adam’s punishment. The\nsecond Adam would die in Adam’s and his descendants’ place. He would meet God’s moral requirement and satisfy his anger, and in so doing, he would open the way again for us to have an eternal relationship with God. Everything Jesus did, he did as a substitute. Everything he did, he did for you.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

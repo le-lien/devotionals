@@ -1,0 +1,14 @@
+  "10-04": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Philippians 2:1–13',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Our struggle with sin is so deep that it was not enough for God to forgive us, so he also unzipped us and got inside of us by his Spirit.\nPerhaps all good theology is meant to be both humbling and comforting at the same time. Why is this? God did not intend the theology of the Bible to be an end in itself, as if theological knowledge were the goal of grace. No, every part of the Bible’s teaching is designed to be a means to an end, and the end is a radically transformed life. Having said this, the theology of the Holy Spirit in the New Testament is particularly humbling.\nWhy doesn’t God just save me in the beginning, welcome me into his presence in the end, and leave me to myself in between? Why is the indwelling presence of the Holy Spirit presented as an absolute gift of necessity for every believer? The answer is because of the utter gravity of my condition as a sinner.\nYou see, justification deals with the guilt of sin and final glorification with the ultimate defeat of sin, but the presence and power of the sin that remains in between must be addressed or the work of grace will not be complete.\nSin does not leave us merely guilty; it renders us unable. It robs us of the ability to live in a way that pleases God. Sin kidnaps our desires and distorts our thoughts. It controls our tongues and rules our behavior. It saps our resolve and weakens our knees. It leaves us lame, weak, and unable. We don’t just need forgiveness and ultimate deliverance; we also desperately need present help—\nhelp so that we will have the will to desire and the power to do what is good in the sight of God. Our struggle with sin is so deep that only God living inside us can give us the power to please him with our living. So God doesn’t just forgive us, call us to do what is right, and promise us a final home with him; he comes to us in between. He gets inside us, working within us, because there is no possibility that we will desire and do what is right without the inner working of his power.\nHow humbling! Not only can we not take credit for our salvation, because it is all the result of God’s justifying grace, but we also cannot take credit for any aspect or any instance of our obedience, because apart from the Spirit’s presence, we would have neither the motivation nor the power to obey. Yes, we\nare new creatures in Christ, and yes, we are alive in him, but without the Spirit, we would have no power to defeat sin.\nWhere’s the comfort in this? Here it is: if you’re God’s child, you already have the Holy Spirit inside you. You don’t have to hope and pray that he will be there for you. He has come, and his convicting and enabling grace is his moment-by-moment gift to you.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

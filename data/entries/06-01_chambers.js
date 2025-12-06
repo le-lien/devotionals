@@ -1,0 +1,14 @@
+  "06-01": {
+    "title": 'THE STAGGERING QUESTION',
+    "note": '',
+    "passage": '',
+    "dailyVerse": {
+      "ref": 'Can that sinner be turned into a saint? Can that twisted life be put right? There is only one answer: “O Lord, Thou knowest, I don’t.”',
+      "text": 'Son of man, can these bones live?”  Ezekiel 37:3'
+    },
+    "body": 'Never trample in with religious common sense and say - “Oh, yes, with a little more Bible reading and devotion and prayer, I see how it can be done.”\nIt is much easier to do something than to trust in God; we mistake panic for inspiration. That is why there are so few fellow workers with God and so many workers for Him. We would far rather work for God than believe in Him. Am I quite sure that God will do what I cannot do? I despair of men in the degree in which I have never realized that God has done anything for me. Is my experience such a wonderful realization of God’s power and might that I can never despair of anyone I see? Have I had any spiritual work done in me at all? The degree of panic is the degree of the lack of personal spiritual experience.\n“Behold, O my people, I will open your graves.” When God wants to show you what human nature is like apart from Himself, He has to show it you in yourself. If the Spirit of God has given you a vision of what you are apart from the grace of God (and He only does it when His Spirit is at work), you know there is no criminal who is half so bad in actuality as you know yourself to be in possibility. My\n“grave” has been opened by God and “I know that in me (that is, in my flesh) dwelleth no good thing.” God’s Spirit continually reveals what human nature is like apart from His grace. ',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

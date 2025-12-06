@@ -1,0 +1,14 @@
+  "01-08": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Mark 6:30–52',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'God calls you to believe and then works with zeal to craft you into a person who really does live by faith.\nI don’t know how much you’ve thought about this, but faith isn’t natural for you and me. Doubt is natural. Fear is natural. Living on the basis of your collected experience is natural. Pushing the current catalog of personal “what-ifs” through your mind before you go to sleep or when you wake up in the morning is natural.\nLiving based on the thinking of your brain and your physical senses is natural.\nEnvying the life of someone else and wondering why it isn’t your life is natural.\nWishing that you were more sovereign over people, situations, and locations than you will ever be is natural. Manipulating your way into personal control so you can guarantee that you will get what you think you need is natural. Looking horizontally for the peace that you will only ever find vertically is natural.\nAnxiously wishing for change in things that you have no ability to change is natural. Giving way to despondency, discouragement, depression, or despair is natural. Numbing yourself with busyness, material things, media, food, or some other substance is natural. Lowering your standards to deal with your disappointment is natural. But faith simply isn’t natural to us.\nSo, in grace, God grants us to believe. As Paul says in Ephesians 2:8, faith really is the gift of God. There is no more counterintuitive function to the average, sin-damaged human being than faith in God. Sure, we’ll put our faith in a lot of things, but not in a God we cannot see or hear, who makes promises so grand they seem impossible to keep. God gives us the power to first believe, but he doesn’t stop there. By grace he works in the situations, locations, and relationships of our everyday lives to craft, hammer, bend, and mold us into people who build life based on the radical belief that he really does exist and he really does reward those who seek him (Heb. 11:6).\nNext time you face the unexpected, a moment of difficulty you really don’t want to go through, remember that such a moment doesn’t picture a God who has forgotten you, but one who is near to you and doing in you a very good thing. He is rescuing you from thinking that you can live the life you were meant to live while relying on the inadequate resources of your wisdom, experience,\nrighteousness, and strength; and he is transforming you into a person who lives a life shaped by radical God-centered faith. He is the ultimate craftsman, and we are his clay. He will not take us off his wheel until his fingers have molded us into those who really do believe and do not doubt.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

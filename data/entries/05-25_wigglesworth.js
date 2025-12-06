@@ -1,0 +1,14 @@
+  "05-25": {
+    "title": 'The Way to Jesus',
+    "note": 'Come to Me, all you who labor and are heavy laden, and I will give you rest.',
+    "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/MAT.7.NKJV?parallel=151">Matthew 7:13–27; 11:25–30</a>',
+    "dailyVerse": {
+      "ref": 'Matthew 11:28',
+      "text": 'Come to Me, all you who labor and are heavy laden, and I will give you rest.'
+    },
+    "body": 'In God‘s Word, there is always more to follow, always more to know. If only we could be like children in taking in the I mind of God, what wonderful things would happen. Do you apply the whole Bible to your life? It is grand. Never mind those who take only a part. You take it all. When we get such a thirst that nothing can satisfy us but God, we will have a royal time.\n\nThe child of God must have reality all the time. After the child of God comes into the sweetness of the perfume of the presence of God, he will have the hidden treasures of God. He will always be feeding on that blessed truth that will make life full of glory. Are you dry? There is no dry place in God, but all good things come out of hard times. The harder the place you are in, the more blessing can come out of it as you yield to His plan. Oh, if only I had known God‘s plan in its fullness, I might never have had a tear in my life. God is so abundant, so full of love and mercy; there is no lack to those who trust in Him. I pray that God will give us a touch of reality, so that we may be able to trust Him all the way.\n\nWhat an example of faith we have in the story of the paralytic‘s healing told in Mark 2. When the sick man‘s four friends found that the house where Jesus was staying was too crowded to enter, the men asked among themselves, "What will we do?" But there is always a way. I have never found faith to fail, never once. May the Holy Spirit give us a new touch of faith in God‘s unlimited power. May we have a living faith that will dare to trust Him and say, "Lord, I do believe."\n\nThere was no room, “not even near the door”  (Mark 2:2), but these men said, "Let‘s go up on the roof." Unbelieving people would say, "Oh, that is silly, ridiculous, foolish!" But men of faith say, "We must get our friend help at all costs. It is nothing to move the roof. Let‘s go up and go through."\n\nLord, take us today, and let us go through; let us drop right into the arms of Jesus. It is a lovely place to drop into, out of your 236\n\nself-righteousness, out of your self-consciousness, out of your unbelief. Some people have been in a strange place of deadness for years, but God can shake them out of it. Thank God, some of the molds have been broken. It is a blessed thing when the old mold gets broken, for God has a new mold.',
+    "dailyPrayer": {
+      "title": 'Thought for today',
+      "text": 'God can perfect the imperfect by His own loving touch.'
+    }
+}

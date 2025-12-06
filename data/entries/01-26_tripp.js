@@ -1,0 +1,14 @@
+  "01-26": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Psalm 103',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'Mercy for others will reveal your ongoing need for mercy, driving you to the end of yourself and into the arms of your merciful Savior.\nIt’s simply not natural for us. It’s natural to make sure all your needs are met.\nIt’s natural to hoard what you have in the fear that at some point you won’t have enough. It’s natural to carry around with you a long catalog of things you want for yourself. It’s natural to be more in tune with your feelings than with the feelings of others. It’s natural to want mercy for yourself but justice for others.\nIt’s natural to be very aware of the sin of others, yet blind to your own. If we are ever going to be people of mercy, we need bountiful mercy ourselves, because what stands in the way of our being a community of mercy is us!\nIt’s impossible for me to think about God’s call to us to be his instruments of mercy and not reflect on Jesus’s powerful parable in Matthew 18:21–35. Please stop and read it right now. Christ had two reasons for telling this story. The first was to reveal the heart behind Peter’s question: “All right, Lord, how many times do I have to forgive?” This question evidenced a heart that lacked mercy.\nChrist’s second reason for telling this story was to reveal our hearts. You see, we’re all the unjust servant. We celebrate God’s mercy but scream at our children when they mess up. We sing of amazing grace but punish our spouses with silence when they offend us. We praise God for his love but forsake a friendship because someone has been momentarily disloyal. We are thankful that we’ve been forgiven but say that a person who is suffering the result of his decisions is getting what he deserves. We bask in God’s grace but throw the law at others. We’re simply not that good at mercy because we tend to see ourselves as more deserving than the poor and needy.\nBut when God’s call of mercy collides with your lack of mercy, you begin to see yourself with accuracy. You begin to confess that you don’t have inside you what God requires. You begin to admit to yourself and others that you cannot live up to God’s standard, so you begin to cry out for the very thing that you have refused to give to others. And as you begin to remember that God’s mercy is your only hope and you meditate on the grandeur of the mercy that has been showered on you, you begin to want to help others experience that same mercy.\nYou see, to the degree that you forget the mercy you’ve been given, it is easier for you to not give mercy to others. I daily need God’s work of mercy in order to do his work of mercy.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}
