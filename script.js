@@ -592,7 +592,7 @@ function render() {
     contentNote.textContent = entry.note || "";
     const bodyHtml = (entry.body || "").replace(/\n/g, "<br>");
     contentBody.innerHTML = bodyHtml;
-    contentRef.innerHTML = entry.passage ? `Reading: ${entry.passage}` : "";
+    contentRef.innerHTML = entry.passage ? `${entry.passage}` : "";
 
     // Apply annotations as highlighted marks
     applyAnnotationsToBody(source.id, currentDateKey);
@@ -610,30 +610,30 @@ function render() {
   
 // --- Daily Verse block ---
 if (dailyVerseBox && dailyVerseRef && dailyVerseText) {
-  dailyVerseBox.hidden = true;
-  dailyVerseRef.textContent = "";
-  dailyVerseText.textContent = "";
+
+
 
   if (entry && entry.dailyVerse) {
     const verse = entry.dailyVerse;
-
     dailyVerseBox.hidden = false;
 
-    if (typeof verse === "string") {
+   if (typeof verse === "string") {
       dailyVerseRef.textContent = "Daily Verse";
       dailyVerseText.textContent = verse;
     } else {
       dailyVerseRef.textContent = verse.ref || "";
       dailyVerseText.textContent = verse.text || "";
     }
+    
+    if (verse.text=="") {dailyVerseBox.hidden = true;}  
+    
   }
 }
 
 // --- Daily Prayer block (end of reading) ---
 if (dailyPrayerBox && dailyPrayerTitle && dailyPrayerText) {
   dailyPrayerBox.hidden = true;
-  dailyPrayerTitle.textContent = "";
-  dailyPrayerText.innerHTML = "";
+
 
   if (entry && entry.dailyPrayer) {
     const prayer = entry.dailyPrayer;
@@ -647,6 +647,7 @@ if (dailyPrayerBox && dailyPrayerTitle && dailyPrayerText) {
       dailyPrayerTitle.textContent = prayer.title || "";
       dailyPrayerText.innerHTML = prayer.text || "";
     }
+    if (prayer.text=="") {dailyPrayerBox.hidden  = true;}
   }
 }
 
