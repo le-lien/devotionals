@@ -1006,21 +1006,7 @@ if (addCommentFromSelectionBtn) {
     return;
   }
 
-  // Read URL parameters: ?source=...&date=YYYY-MM-DD
-  const params = new URLSearchParams(window.location.search);
-  const sourceFromUrl = params.get("source");
-  const dateFromUrl = params.get("date");
-
-  if (sourceFromUrl && findSourceById(sourceFromUrl)) {
-    currentSourceId = sourceFromUrl;
-  }
-
   initDatePicker();
-
-  if (dateFromUrl && datePicker) {
-    datePicker.value = dateFromUrl;
-  }
-
   buildSourceTabs();
   updateActiveTab();
   render();
