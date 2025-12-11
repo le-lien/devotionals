@@ -424,6 +424,11 @@ function buildSourceTabs() {
     btn.textContent = source.name;
     btn.dataset.sourceId = source.id;
 
+    // 🔍 show description on hover
+    if (source.description) {
+      btn.title = source.description;
+    }
+
     if (source.id === currentSourceId) {
       btn.classList.add("active");
     }

@@ -138,6 +138,12 @@ function renderGeneralNotes() {
     const sourceSpan = document.createElement("span");
     sourceSpan.className = "notes-overview-type";
     sourceSpan.textContent = item.sourceName || "Devotional";
+    
+    // 🔍 show description when hovering the devotional name
+    const src = findSourceById(item.sourceId);
+    if (src && src.description) {
+     sourceSpan.title = src.description;
+    }
 
     header.appendChild(dateLink);
     header.appendChild(sourceSpan);

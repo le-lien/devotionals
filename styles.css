@@ -650,3 +650,217 @@ mark[data-annotation-id] {
 }
 
 
+/* Author / Devotional dashboard on About page */
+/* Author / Devotional dashboard on About page */
+.author-dashboard-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 0.9rem;
+  margin-top: 0.75rem;
+}
+
+.author-card {
+  border: 1px solid #e5e7eb;
+  border-radius: 0.75rem;
+  padding: 0.6rem 0.8rem;
+  background: #f9fafb;
+}
+
+/* header row (click/tap area) */
+.author-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+  cursor: pointer;
+}
+
+.author-card h3 {
+  margin: 0 0 0.1rem;
+  font-size: 1rem;
+}
+
+.author-card-meta {
+  margin: 0;
+  font-size: 0.85rem;
+  color: #6b7280;
+}
+
+/* toggle icon button */
+.author-card-toggle {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  font-size: 0.9rem;
+  padding: 0.1rem 0.3rem;
+  transform-origin: center;
+  transition: transform 0.15s ease;
+}
+
+/* rotated when open */
+.author-card.is-open .author-card-toggle {
+  transform: rotate(180deg);
+}
+
+/* body is hidden by default */
+.author-card-body {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #374151;
+  display: none;
+}
+
+/* show body when card is open */
+.author-card.is-open .author-card-body {
+  display: block;
+}
+
+.author-card-body h4 {
+  margin-top: 0.75rem;
+  margin-bottom: 0.2rem;
+  font-size: 0.9rem;
+}
+
+.author-card-body p {
+  margin: 0 0 0.4rem;
+}
+
+
+// Style for How-To
+
+    .howto-section {
+      margin-top: 1.25rem;
+    }
+
+    .howto-title {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .howto-icon {
+      font-size: 1.2rem;
+    }
+
+    .howto-hr {
+      margin: 1.25rem 0;
+    }
+
+    .howto-features {
+      list-style: none;
+      padding: 0;
+      margin: 0.5rem 0 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 0.5rem 0.75rem;
+    }
+
+    .howto-features .feat-ico {
+      margin-right: 0.4rem;
+    }
+
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #111;
+      border-radius: 0.75rem;
+      overflow: hidden;
+    }
+
+    .video-wrapper video {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    /* Wizard styling */
+    .wizard {
+      border: 1px solid #e5e7eb;
+      background: #fafafa;
+      border-radius: 0.75rem;
+      padding: 0.75rem;
+    }
+
+    .wizard-steps {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .wizard-step {
+      width: 2rem;
+      height: 2rem;
+      border-radius: 999px;
+      border: 1px solid #d1d5db;
+      background: #fff;
+      font-weight: 600;
+    }
+
+    .wizard-step.is-active {
+      background: #111827;
+      color: #fff;
+      border-color: #111827;
+    }
+
+    .wizard-card {
+      background: #fff;
+      border: 1px solid #e5e7eb;
+      border-radius: 0.5rem;
+      padding: 0.8rem;
+    }
+
+    .wizard-actions {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 0.6rem;
+    }
+
+    .btn-primary {
+      background: #111827;
+      color: #fff;
+      border: 0;
+      border-radius: 0.5rem;
+      padding: 0.45rem 0.8rem;
+    }
+
+    .btn-secondary {
+      background: #e5e7eb;
+      color: #111827;
+      border: 0;
+      border-radius: 0.5rem;
+      padding: 0.45rem 0.8rem;
+    }
+
+    /* FAQ styling */
+    .faq {
+      border: 1px solid #e5e7eb;
+      border-radius: 0.5rem;
+      background: #fff;
+      margin: 0.5rem 0;
+      overflow: hidden;
+    }
+
+    .faq > summary {
+      cursor: pointer;
+      list-style: none;
+      padding: 0.6rem 0.75rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-weight: 600;
+    }
+
+    .faq > summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .faq[open] > summary {
+      background: #f3f4f6;
+    }
+
+    .faq-body {
+      padding: 0.6rem 0.75rem 0.8rem;
+      color: #374151;
+    }
