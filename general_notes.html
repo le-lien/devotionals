@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>All General Notes – My Devotional Journal</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="journal-header">
+    <div class="container header-container">
+      <div class="top-row">
+        <div class="brand-and-date">
+          <a class="logo" href="index.html">My Devotional Journal</a>
+          <div class="date-nav">
+            <span class="date-picker-title">All General Notes</span>
+          </div>
+        </div>
+
+        <nav class="site-nav-links">
+          <a href="index.html">Today</a>
+          <a href="about.html">About</a>
+          <a href="contact.html">Contact</a>
+          <a href="general_notes.html" class="active">General notes</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main class="journal-main container">
+    <section class="notes">
+      <h2>All General Notes</h2>
+      <p class="notes-hint">
+        These are all “My General Notes” you’ve written. Tap a date to jump back to that devotional.
+      </p>
+
+      <div id="generalNotesContainer" class="notes-overview"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© <span id="year"></span> My Devotional Journal.</p>
+    </div>
+  </footer>
+
+  <script src="data.js"></script>
+  <script src="general_notes.js"></script>
+</body>
+</html>

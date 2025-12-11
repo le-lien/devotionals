@@ -62,9 +62,19 @@ async function loadVoiceMemo(key) {
 }
 
 // --- source lookup from data.js ---
-function findSourceById(id) {
-  return (window.DEVOTIONAL_SOURCES || []).find((s) => s.id === id) || null;
+function getSources() {
+  try {
+    // Use the global const from data.js
+    return Array.isArray(DEVOTIONAL_SOURCES) ? DEVOTIONAL_SOURCES : [];
+  } catch {
+    return [];
+  }
 }
+
+function findSourceById(id) {
+  return getSources().find((s) => s.id === id) || null;
+}
+
 
 // Convert "MM-DD" + year to Date
 function dateKeyToDate(dateKey, year) {
@@ -184,7 +194,7 @@ async function renderOverview() {
     const [mm, dd] = mmdd.split("-");
     const linkDateStr = `${y}-${mm}-${dd}`; // YYYY-MM-DD
 
-    // link back to index.html with source + date
+     // Link goes back to index.html with source + date
     const href = `index.html?source=${encodeURIComponent(
       item.sourceId
     )}&date=${encodeURIComponent(linkDateStr)}`;
@@ -192,18 +202,17 @@ async function renderOverview() {
     const header = document.createElement("div");
     header.className = "notes-overview-header";
 
-    const titleLink = document.createElement("a");
-    titleLink.href = href;
-    titleLink.className = "notes-overview-link";
-    // 👇 this is where we show the friendly devotional name
-    titleLink.textContent = `${item.sourceName || "Devotional"} – ${longDate}`;
+    const dateLink = document.createElement("a");
+    dateLink.href = href;
+    dateLink.className = "notes-overview-link";
+    dateLink.textContent = longDate;
 
-    const badge = document.createElement("span");
-    badge.className = "notes-overview-type";
-    badge.textContent = item.type === "note" ? "Note" : "Comment";
+    const sourceSpan = document.createElement("span");
+    sourceSpan.className = "notes-overview-type";
+    sourceSpan.textContent = item.sourceName || "Devotional";
 
-    header.appendChild(titleLink);
-    header.appendChild(badge);
+    header.appendChild(dateLink);
+    header.appendChild(sourceSpan);
 
     const body = document.createElement("div");
     body.className = "notes-overview-body";

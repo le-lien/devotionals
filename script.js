@@ -1013,6 +1013,9 @@ if (addCommentFromSelectionBtn) {
 
   if (sourceFromUrl && findSourceById(sourceFromUrl)) {
     currentSourceId = sourceFromUrl;
+  } else {
+    currentSourceId =
+      (DEVOTIONAL_SOURCES[0] && DEVOTIONAL_SOURCES[0].id) || null;
   }
 
   initDatePicker();
