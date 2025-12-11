@@ -3,7 +3,7 @@ const DEVOTIONAL_SOURCES = [
     "id": "tripp",
     "name": "New Morning Mercies",
     "author": "Paul David Tripp",
-    "description": "A Daily Gospel Devotional.",
+    "description": "A Daily Gospel Devotional",
     "entries": {
     TRIPPENTRIESGOHERE
      }
@@ -12,7 +12,7 @@ const DEVOTIONAL_SOURCES = [
     "id": "wigglesworth",
     "name": "Smith Wigglesworth Devotional",
     "author": "Smith Wigglesworth",
-    "description": "Smith Wigglesworth Devotional by Smith Wigglesworth",
+    "description": "Devotional by Smith Wigglesworth",
     "entries": {
     WIGGLESWORTHENTRIESGOHERE
     }
@@ -31,7 +31,7 @@ const DEVOTIONAL_SOURCES = [
     "id": "chambers",
     "name": "My Utmost For His  Highest ",
     "author": "Oswald Chambers",
-    "description": "",
+    "description": "A daily Christian devotional by Oswald Chambers",
     "entries": {
     CHAMBERSENTRIESGOHERE
     }
