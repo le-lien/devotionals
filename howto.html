@@ -21,17 +21,18 @@
         <div class="brand-and-date">
           <a class="logo" href="index.html">My Devotional Journal</a>
           <div class="date-nav">
-            <span class="date-picker-title">How to Use This Site</span>
+            <span class="date-picker-title"></span>
           </div>
         </div>
 
         <nav class="site-nav-links">
           <a href="index.html">Today</a>
-          <a href="general_notes.html">General Notes</a>
-          <a href="notes.html">All Notes</a>
+          <a href="notes.html" >All comments</a>
+          <a href="general_notes.html">All notes</a>
           <a href="about.html">About</a>
           <a href="contact.html">Contact</a>
-          <a href="howto.html" class="active">How To</a>
+          <a href="search.html">Search</a>
+          <a href="howto.html"  class="active">How To</a>
         </nav>
       </div>
     </div>
@@ -62,7 +63,7 @@
         <ul>
           <li>The large text box lets you write personal reflections, prayers, and thoughts for the day.</li>
           <li>Notes are automatically saved on your device.</li>
-          <li>You can view all your notes on one page: <a href="general_notes.html">General Notes Archive</a>.</li>
+          <li>You can view all your notes on one page: <a href="general_notes.html">Notes Archive</a>.</li>
         </ul>
 
         <h3>✨ 3. Highlighting the Daily Reading</h3>
@@ -78,9 +79,11 @@
           <li>Write your comment in the pop-up form.</li>
           <li>Your comment appears below the reading along with the quote.</li>
           <li>Your selected text becomes highlighted automatically.</li>
+          <li>You can view all your notes on one page: <a href="notes.html">Comments Archive</a>.</li>
+
         </ul>
 
-        <h3>🎤 5. Recording Voice Memos</h3>
+        <h3>🔴 5. Recording Voice Memos</h3>
         <ul>
           <li>While adding a comment, tap <strong>Start Recording</strong>.</li>
           <li>Tap <strong>Stop</strong> when finished.</li>
@@ -122,7 +125,10 @@
           <li>Voice memos: saved in your device’s IndexedDB.</li>
         </ul>
 
- 
+        <h3>🔎 11. Search text</h3>
+        <ul>
+          <li> Search a phrase or keyword across devotionals, notes, and comments under <a href="search.html"> Search Page</a>.</li>
+        </ul> 
       <hr>
         <p style="margin-top:1rem; font-size:0.9rem;">
           If you have any questions or ideas for new features, feel free to reach out through the
@@ -142,6 +148,8 @@
             <button class="wizard-step" data-step="1">2</button>
             <button class="wizard-step" data-step="2">3</button>
             <button class="wizard-step" data-step="3">4</button>
+            <button class="wizard-step" data-step="4">5</button>
+
           </div>
 
           <div class="wizard-card">
@@ -161,6 +169,12 @@
               <h3>Record voice memos & back up</h3>
               <p>While adding a comment, use <em>Start Recording</em> → <em>Stop</em>. Export all data from the notes section when you want a backup.</p>
             </div>
+            <div class="wizard-pane" data-step="4" hidden>
+              <h3>Search text</h3>
+              <p>Search a phrase or keyword across devotionals, notes, and comments under <a href="search.html"> Search Page</a>.</p>
+            </div>
+            
+            
           </div>
 
           <div class="wizard-actions">
@@ -192,10 +206,11 @@
           <li><span class="feat-ico">📅</span> Navigate by date & devotional source</li>
           <li><span class="feat-ico">📝</span> Write general notes per day</li>
           <li><span class="feat-ico">💬</span> Add inline comments tied to selected text</li>
-          <li><span class="feat-ico">🎤</span> Attach voice memos to comments</li>
+          <li><span class="feat-ico">🔴</span> Attach voice memos to comments</li>
           <li><span class="feat-ico">✨</span> Toggle highlight for the daily reading</li>
           <li><span class="feat-ico">📦</span> Export & import your data (incl. voice)</li>
           <li><span class="feat-ico">🔍</span> Double-tap a word to open the dictionary</li>
+          <li><span class="feat-ico">🔎</span> Search text across devotions, comments, and notes.</li>
         </ul>
 
         <hr class="howto-hr">

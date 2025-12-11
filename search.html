@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Search – My Devotional Journal</title>
+  <title>Search - My Devotional Journal</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="styles.css" />
 </head>
@@ -13,43 +13,49 @@
         <div class="brand-and-date">
           <a class="logo" href="index.html">My Devotional Journal</a>
           <div class="date-nav">
-            <span class="date-picker-title">Search</span>
+            <span class="date-picker-title"></span>
           </div>
         </div>
 
         <nav class="site-nav-links">
-          <a href="index.html">Today</a>
+          <a href="index.html" >Today</a>
+          <a href="notes.html">All comments</a>
+          <a href="general_notes.html">All notes</a>
           <a href="about.html">About</a>
           <a href="contact.html">Contact</a>
-          <a href="notes.html">All notes</a>
-          <a href="general_notes.html">General notes</a>
           <a href="search.html" class="active">Search</a>
-          <a href="howto.html" class="active">How To</a>
+          <a href="howto.html" >How To</a>
         </nav>
 
-        <form class="site-search" action="search.html" method="get">
+      
+      </div>
+       <form class="site-search" action="search.html" method="get">
           <input
             type="search"
             name="q"
-            placeholder="Search text…"
+            placeholder="Enter a phrase or keyword to search..."
             aria-label="Search all devotionals and notes"
           />
         </form>
-      </div>
     </div>
   </header>
 
-  <main class="journal-main container">
-    <section class="notes">
-      <h2>Search results</h2>
+  <main class="container static-page">
+ 
+    <section class="static-section">
+    
+     </section> 
+     
+    <section class="notes-overview">
+       <h2>Results</h2>
       <p class="notes-hint">
         Search across devotionals, general notes, and comments.
       </p>
-      <div id="searchInfo" class="notes-hint"></div>
       <div id="searchResults" class="notes-overview"></div>
     </section>
   </main>
 
+ 
   <footer class="site-footer">
     <div class="container">
       <p>© <span id="year"></span> My Devotional Journal.</p>

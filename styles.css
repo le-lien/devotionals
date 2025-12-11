@@ -645,8 +645,9 @@ mark[data-annotation-id] {
 .site-search input[type="search"] {
   padding: 0.25rem 0.6rem;
   border-radius: 999px;
-  border: 1px solid #d1d5db;
-  font-size: 0.85rem;
+  border: 1.2px solid #d1d5db;
+  font-size: 0.9rem;
+  width: 100%; 
 }
 
 
