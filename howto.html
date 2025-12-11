@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>How to Use This Site – My Devotional Journal</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="styles.css" />
+
+  <!-- Page-specific overrides for layout -->
+  <style>
+
+
+    .howto-section {
+      margin-top: 1.25rem;
+    }
+
+    .howto-title {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .howto-icon {
+      font-size: 1.2rem;
+    }
+
+    .howto-hr {
+      margin: 1.25rem 0;
+    }
+
+    .howto-features {
+      list-style: none;
+      padding: 0;
+      margin: 0.5rem 0 0;
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 0.5rem 0.75rem;
+    }
+
+    .howto-features .feat-ico {
+      margin-right: 0.4rem;
+    }
+
+    .video-wrapper {
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      background: #111;
+      border-radius: 0.75rem;
+      overflow: hidden;
+    }
+
+    .video-wrapper video {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    /* Wizard styling */
+    .wizard {
+      border: 1px solid #e5e7eb;
+      background: #fafafa;
+      border-radius: 0.75rem;
+      padding: 0.75rem;
+    }
+
+    .wizard-steps {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .wizard-step {
+      width: 2rem;
+      height: 2rem;
+      border-radius: 999px;
+      border: 1px solid #d1d5db;
+      background: #fff;
+      font-weight: 600;
+    }
+
+    .wizard-step.is-active {
+      background: #111827;
+      color: #fff;
+      border-color: #111827;
+    }
+
+    .wizard-card {
+      background: #fff;
+      border: 1px solid #e5e7eb;
+      border-radius: 0.5rem;
+      padding: 0.8rem;
+    }
+
+    .wizard-actions {
+      display: flex;
+      justify-content: space-between;
+      margin-top: 0.6rem;
+    }
+
+    .btn-primary {
+      background: #111827;
+      color: #fff;
+      border: 0;
+      border-radius: 0.5rem;
+      padding: 0.45rem 0.8rem;
+    }
+
+    .btn-secondary {
+      background: #e5e7eb;
+      color: #111827;
+      border: 0;
+      border-radius: 0.5rem;
+      padding: 0.45rem 0.8rem;
+    }
+
+    /* FAQ styling */
+    .faq {
+      border: 1px solid #e5e7eb;
+      border-radius: 0.5rem;
+      background: #fff;
+      margin: 0.5rem 0;
+      overflow: hidden;
+    }
+
+    .faq > summary {
+      cursor: pointer;
+      list-style: none;
+      padding: 0.6rem 0.75rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-weight: 600;
+    }
+
+    .faq > summary::-webkit-details-marker {
+      display: none;
+    }
+
+    .faq[open] > summary {
+      background: #f3f4f6;
+    }
+
+    .faq-body {
+      padding: 0.6rem 0.75rem 0.8rem;
+      color: #374151;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- HEADER -->
+  <header class="journal-header">
+    <div class="container header-container">
+      <div class="top-row">
+        <div class="brand-and-date">
+          <a class="logo" href="index.html">My Devotional Journal</a>
+          <div class="date-nav">
+            <span class="date-picker-title">How to Use This Site</span>
+          </div>
+        </div>
+
+        <nav class="site-nav-links">
+          <a href="index.html">Today</a>
+          <a href="general_notes.html">General Notes</a>
+          <a href="notes.html">All Notes</a>
+          <a href="about.html">About</a>
+          <a href="contact.html">Contact</a>
+          <a href="howto.html" class="active">How To</a>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN -->
+  <main class="journal-main container">
+
+      <!-- LEFT COLUMN: detailed feature list -->
+      <section class="readers">
+        <h2>How to Use This Devotional Journal</h2>
+
+        <p>
+          This page gives you a quick overview of all features available in your devotional journal,
+          including navigation, notes, highlights, comments, voice memos, and exporting your data.
+        </p>
+
+        <hr>
+
+        <h3>📅 1. Navigating Daily Devotionals</h3>
+        <ul>
+          <li>Use the date picker to jump to any day of the year.</li>
+          <li>Tap ← or → to move to <strong>yesterday</strong> or <strong>tomorrow</strong>.</li>
+          <li>Switch devotional sources using the tabs at the top.</li>
+        </ul>
+
+        <h3>📝 2. Writing General Notes</h3>
+        <ul>
+          <li>The large text box lets you write personal reflections, prayers, and thoughts for the day.</li>
+          <li>Notes are automatically saved on your device.</li>
+          <li>You can view all your notes on one page: <a href="general_notes.html">General Notes Archive</a>.</li>
+        </ul>
+
+        <h3>✨ 3. Highlighting the Daily Reading</h3>
+        <ul>
+          <li>Tap the “highlight” button to mark the entire reading.</li>
+          <li>Tap again to remove the highlight.</li>
+        </ul>
+
+        <h3>💬 4. Adding Inline Comments</h3>
+        <ul>
+          <li>Select any piece of text in the devotional body.</li>
+          <li>Tap <strong>Add comment from selection</strong>.</li>
+          <li>Write your comment in the pop-up form.</li>
+          <li>Your comment appears below the reading along with the quote.</li>
+          <li>Your selected text becomes highlighted automatically.</li>
+        </ul>
+
+        <h3>🎤 5. Recording Voice Memos</h3>
+        <ul>
+          <li>While adding a comment, tap <strong>Start Recording</strong>.</li>
+          <li>Tap <strong>Stop</strong> when finished.</li>
+          <li>A voice recording is attached to your comment.</li>
+          <li>All voice memos are stored locally on your device using IndexedDB.</li>
+        </ul>
+
+        <h3>📦 6. Exporting & Importing Notes</h3>
+        <ul>
+          <li>You can export all notes, comments, highlights, and voice memos into a single JSON backup.</li>
+          <li>This allows easy transfers between devices or restoring your data.</li>
+          <li>Use the <strong>Export</strong> and <strong>Import</strong> buttons at the end of the “My General Notes” section.</li>
+        </ul>
+
+        <h3>📚 7. Viewing All Notes & Comments</h3>
+        <ul>
+          <li>Visit <a href="notes.html">All Notes</a> to see every comment and note.</li>
+          <li>Entries are sorted by date.</li>
+          <li>Tap any entry to jump directly back to that devotional reading.</li>
+        </ul>
+
+        <h3>🕮 8. Daily Verse & Prayer</h3>
+        <ul>
+          <li>If provided in the devotional data, the site shows a highlighted verse at the top.</li>
+          <li>A daily prayer appears at the bottom of each reading.</li>
+          <li>Empty verse/prayer fields are automatically hidden.</li>
+        </ul>
+
+        <h3>🔍 9. Dictionary Lookup</h3>
+        <ul>
+          <li>Double-tap any word in the reading.</li>
+          <li>A dictionary popup appears showing meaning and usage examples.</li>
+        </ul>
+
+        <h3>🔐 10. Where Your Data Is Stored</h3>
+        <ul>
+          <li>Your notes never leave your device.</li>
+          <li>General notes, highlights, and comments: saved in LocalStorage.</li>
+          <li>Voice memos: saved in your device’s IndexedDB.</li>
+        </ul>
+
+ 
+
+        <p style="margin-top:1rem; font-size:0.9rem;">
+          If you have any questions or ideas for new features, feel free to reach out through the
+          <a href="contact.html">Contact page</a>.
+        </p>
+      </section>
+
+      <!-- RIGHT COLUMN: wizard + video -->
+      <section class="notes">
+        <h2 class="howto-title">
+          <span class="howto-icon">🚀</span> Getting Started (Quick Wizard)
+        </h2>
+
+        <div id="wizard" class="wizard">
+          <div class="wizard-steps">
+            <button class="wizard-step is-active" data-step="0">1</button>
+            <button class="wizard-step" data-step="1">2</button>
+            <button class="wizard-step" data-step="2">3</button>
+            <button class="wizard-step" data-step="3">4</button>
+          </div>
+
+          <div class="wizard-card">
+            <div class="wizard-pane" data-step="0">
+              <h3>Pick a date & source</h3>
+              <p>On the <a href="index.html">Today</a> page, use the date picker and the tabs to choose your devotional source.</p>
+            </div>
+            <div class="wizard-pane" data-step="1" hidden>
+              <h3>Read & highlight</h3>
+              <p>Use the big <em>Highlight reading</em> button to toggle a visual highlight for today’s reading.</p>
+            </div>
+            <div class="wizard-pane" data-step="2" hidden>
+              <h3>Add notes & comments</h3>
+              <p>Write in <strong>My General Notes</strong>. To comment on a specific sentence, select text and tap <em>Add comment from selection</em>.</p>
+            </div>
+            <div class="wizard-pane" data-step="3" hidden>
+              <h3>Record voice memos & back up</h3>
+              <p>While adding a comment, use <em>Start Recording</em> → <em>Stop</em>. Export all data from the notes section when you want a backup.</p>
+            </div>
+          </div>
+
+          <div class="wizard-actions">
+            <button id="wizPrev" class="btn-secondary" type="button">← Back</button>
+            <button id="wizNext" class="btn-primary" type="button">Next →</button>
+          </div>
+        </div>
+
+        <hr class="howto-hr">
+
+        <h2 class="howto-title">
+          <span class="howto-icon">🎬</span> Video Demo
+        </h2>
+        <p>Coming soon... Drop your screen recording (MP4/WebM) into the <code>assets/</code> folder and update the <code>src</code> in the video below.</p>
+
+        <div class="video-wrapper">
+          <video id="howtoVideo" controls preload="metadata" poster="">
+            <source src="assets/demo.mp4" type="video/mp4">
+            <source src="assets/demo.webm" type="video/webm">
+            Your browser does not support the video tag.
+          </video>
+        </div>
+             <hr class="howto-hr">
+
+        <h2 class="howto-title">
+          <span class="howto-icon">📚</span> Features at a Glance
+        </h2>
+        <ul class="howto-features">
+          <li><span class="feat-ico">📅</span> Navigate by date & devotional source</li>
+          <li><span class="feat-ico">📝</span> Write general notes per day</li>
+          <li><span class="feat-ico">💬</span> Add inline comments tied to selected text</li>
+          <li><span class="feat-ico">🎤</span> Attach voice memos to comments</li>
+          <li><span class="feat-ico">✨</span> Toggle highlight for the daily reading</li>
+          <li><span class="feat-ico">📦</span> Export & import your data (incl. voice)</li>
+          <li><span class="feat-ico">🔍</span> Double-tap a word to open the dictionary</li>
+        </ul>
+
+        <hr class="howto-hr">
+
+        <h2 class="howto-title">
+          <span class="howto-icon">❓</span> FAQ
+        </h2>
+
+        <details class="faq">
+          <summary><span>Where are my notes stored?</span></summary>
+          <div class="faq-body">
+            Notes & highlights are saved in your browser’s LocalStorage; voice memos are saved in IndexedDB. They never leave your device unless you export them.
+          </div>
+        </details>
+
+        <details class="faq">
+          <summary><span>How do I back up and restore?</span></summary>
+          <div class="faq-body">
+            Go to the “My General Notes” section on the Today page and use the <strong>Export</strong> / <strong>Import</strong> buttons. This backup includes notes, comments, highlights, and voice memos.
+          </div>
+        </details>
+
+        <details class="faq">
+          <summary><span>How do I see everything I’ve written?</span></summary>
+          <div class="faq-body">
+            Visit <a href="notes.html">All Notes</a> for comments & notes, or <a href="general_notes.html">General Notes</a> for just the big daily notes.
+          </div>
+        </details>
+
+        <details class="faq">
+          <summary><span>Voice recording doesn’t start?</span></summary>
+          <div class="faq-body">
+            Make sure you’ve granted microphone permission and you’re accessing the site over HTTPS (GitHub Pages provides this). On some mobile browsers, you may need to tap the page first.
+          </div>
+        </details>
+      </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="container">
+      <p>© <span id="year"></span> My Devotional Journal.</p>
+    </div>
+  </footer>
+
+  <!-- PAGE SCRIPT (wizard only) -->
+  <script>
+    // year
+    const yearSpan = document.getElementById("year");
+    if (yearSpan) yearSpan.textContent = new Date().getFullYear();
+
+    // simple wizard
+    const panes = Array.from(document.querySelectorAll(".wizard-pane"));
+    const steps = Array.from(document.querySelectorAll(".wizard-step"));
+    const btnPrev = document.getElementById("wizPrev");
+    const btnNext = document.getElementById("wizNext");
+    let step = 0;
+
+    function renderStep() {
+      panes.forEach(p => p.hidden = Number(p.dataset.step) !== step);
+      steps.forEach(s => s.classList.toggle("is-active", Number(s.dataset.step) === step));
+      btnPrev.disabled = step === 0;
+      btnNext.textContent = step === panes.length - 1 ? "Done" : "Next →";
+    }
+    renderStep();
+
+    btnPrev.addEventListener("click", () => {
+      if (step > 0) step--;
+      renderStep();
+    });
+    btnNext.addEventListener("click", () => {
+      if (step < panes.length - 1) {
+        step++;
+        renderStep();
+      } else {
+        window.location.href = "index.html";
+      }
+    });
+    steps.forEach(s => {
+      s.addEventListener("click", () => {
+        step = Number(s.dataset.step);
+        renderStep();
+      });
+    });
+  </script>
+</body>
+</html>

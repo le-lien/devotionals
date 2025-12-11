@@ -45,6 +45,7 @@ const dictPopupWord = document.getElementById("dictPopupWord");
 const dictPopupBody = document.getElementById("dictPopupBody");
 
 
+
 if (yearSpan) {
   yearSpan.textContent = new Date().getFullYear();
 }
@@ -90,6 +91,10 @@ const startVoiceBtn = document.getElementById("startVoiceBtn");
 const stopVoiceBtn = document.getElementById("stopVoiceBtn");
 const voiceStatus = document.getElementById("voiceStatus");
 const voicePreview = document.getElementById("voicePreview");
+
+// Disable voice controls until a comment is being created
+if (startVoiceBtn) startVoiceBtn.disabled = true;
+if (stopVoiceBtn) stopVoiceBtn.disabled = true;
 
 // Pending state while form is open
 let pendingAnnotationId = null;
@@ -831,6 +836,14 @@ if (importInput) {
 
 if (startVoiceBtn) {
   startVoiceBtn.addEventListener("click", async () => {
+    // 🚫 Guard: no selection / comment in progress → no recording
+    if (!pendingAnnotationId || !pendingAnnotationQuote) {
+      alert(
+        "Please select some text in the reading and click \"Add comment from selection\" before recording a voice memo."
+      );
+      return;
+    }
+
     pendingVoiceBlob = null;
     recordedChunks = [];
 

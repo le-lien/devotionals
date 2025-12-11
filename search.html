@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>All General Notes – My Devotional Journal</title>
+  <title>Search – My Devotional Journal</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="styles.css" />
 </head>
@@ -13,7 +13,7 @@
         <div class="brand-and-date">
           <a class="logo" href="index.html">My Devotional Journal</a>
           <div class="date-nav">
-            <span class="date-picker-title">All General Notes</span>
+            <span class="date-picker-title">Search</span>
           </div>
         </div>
 
@@ -21,31 +21,32 @@
           <a href="index.html">Today</a>
           <a href="about.html">About</a>
           <a href="contact.html">Contact</a>
-          <a href="general_notes.html" class="active">General notes</a>
+          <a href="notes.html">All notes</a>
+          <a href="general_notes.html">General notes</a>
+          <a href="search.html" class="active">Search</a>
           <a href="howto.html" class="active">How To</a>
         </nav>
-        
-        <form class="site-search" action="search.html" method="get">
-  <input
-    type="search"
-    name="q"
-    placeholder="Search text…"
-    aria-label="Search all devotionals and notes"
-  />
-</form>
 
+        <form class="site-search" action="search.html" method="get">
+          <input
+            type="search"
+            name="q"
+            placeholder="Search text…"
+            aria-label="Search all devotionals and notes"
+          />
+        </form>
       </div>
     </div>
   </header>
 
   <main class="journal-main container">
     <section class="notes">
-      <h2>All General Notes</h2>
+      <h2>Search results</h2>
       <p class="notes-hint">
-        These are all “My General Notes” you’ve written. Tap a date to jump back to that devotional.
+        Search across devotionals, general notes, and comments.
       </p>
-
-      <div id="generalNotesContainer" class="notes-overview"></div>
+      <div id="searchInfo" class="notes-hint"></div>
+      <div id="searchResults" class="notes-overview"></div>
     </section>
   </main>
 
@@ -56,6 +57,6 @@
   </footer>
 
   <script src="data.js"></script>
-  <script src="general_notes.js"></script>
+  <script src="search.js"></script>
 </body>
 </html>
