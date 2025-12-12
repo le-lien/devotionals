@@ -1046,3 +1046,20 @@ if (addCommentFromSelectionBtn) {
   updateActiveTab();
   render();
 })();
+
+// Mobile dropdown nav
+const mobileNavToggle = document.getElementById("mobileNavToggle");
+const siteNav = document.getElementById("siteNav");
+
+if (mobileNavToggle && siteNav) {
+  mobileNavToggle.addEventListener("click", () => {
+    siteNav.classList.toggle("open");
+  });
+
+  document.addEventListener("click", (e) => {
+    if (!siteNav.contains(e.target) && !mobileNavToggle.contains(e.target)) {
+      siteNav.classList.remove("open");
+    }
+  });
+}
+
