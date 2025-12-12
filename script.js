@@ -1056,10 +1056,18 @@ if (mobileNavToggle && siteNav) {
     siteNav.classList.toggle("open");
   });
 
+  // Close when clicking outside
   document.addEventListener("click", (e) => {
     if (!siteNav.contains(e.target) && !mobileNavToggle.contains(e.target)) {
       siteNav.classList.remove("open");
     }
+  });
+
+  // ✅ Close after selecting a menu item
+  siteNav.querySelectorAll("a").forEach((a) => {
+    a.addEventListener("click", () => {
+      siteNav.classList.remove("open");
+    });
   });
 }
 

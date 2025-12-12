@@ -191,6 +191,25 @@ body {
   text-align: justify;
 }
 
+/* Handwritten drop cap for the devotional body */
+#contentBody::first-letter {
+  font-family: "Caveat", cursive;
+  font-size: 3.6em;
+  font-weight: 700;
+  line-height: 0.85;
+  float: left;
+  margin-right: 0.18em;
+  margin-top: 0.08em;
+  color: #111827;
+}
+
+@media (max-width: 480px) {
+  #contentBody::first-letter {
+    font-size: 3.0em;
+  }
+}
+
+
 .reference-line {
   margin-top: 0.75rem;
   font-size: 0.9rem;
