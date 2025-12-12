@@ -26,6 +26,7 @@ body {
   display: flex;
   align-items: center;
   gap: 1rem;
+  position:relative;
 }
 
 .logo {
@@ -34,47 +35,15 @@ body {
   color: #f9fafb;
   text-decoration: none;
 }
-
 /* Header nav links */
-
-
-@media (max-width: 768px) {
-  .mobile-nav-toggle {
-    display: block;
-    margin-left: auto;
-  }
-
-  .site-nav {
-    position: absolute;
-    top: 60px;
-    right: 10px;
-    background: #fff;
-    border: 1px solid #e5e7eb;
-    border-radius: 0.5rem;
-    padding: 0.5rem 1rem;
-    flex-direction: column;
-    gap: 0.8rem;
-    box-shadow: 0 3px 12px rgba(0,0,0,0.1);
-    display: none;
-  }
-
-  .site-nav.open {
-    display: flex;
-  }
-
-  .site-nav a {
-    font-size: 1rem;
-    padding: 0.3rem 0;
-    width: 100%;
-    text-align: right;
-  }
-}
-
 .site-nav {
   display: flex;
   gap: 0.5rem;
   margin-left: auto;
+  align-items: center;
 }
+
+.mobile-nav-toggle { display:none; /* shown at <=768px in media query */ }
 
 .site-nav a {
   color: #e5e7eb;
@@ -95,6 +64,54 @@ body {
   background: #fffbeb;
   color: #111827;
 }
+
+
+
+/* Mobile dropdown behavior */
+@media (max-width: 768px) {
+
+  /* Hide by default */
+  .site-nav {
+    display: none;
+    /* make it a dropdown panel */
+    position: absolute;
+    top: 60px;       /* adjust if your header is taller/shorter */
+    right: 12px;
+    background: #111827;
+    border: 1px solid #374151;
+    border-radius: 0.75rem;
+    padding: 0.6rem 0.8rem;
+    flex-direction: column;
+    gap: 0.25rem;
+    min-width: 210px;
+    z-index: 9999;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.25);
+  }
+
+  .site-nav.open {
+    display: flex;
+  }
+
+  .site-nav a {
+    font-size: 1rem;
+    padding: 0.45rem 0.4rem;
+    width: 100%;
+    text-align: right;
+    border-radius: 0.6rem;
+  }
+  
+.mobile-nav-toggle {
+  display:block;
+  background: none;
+  border: none;
+  font-size: 1.8rem;
+  cursor: pointer;
+  color:#e5e7eb; /* visible on dark header */
+  position: relative;
+  z-index: 10000;
+}
+}
+
 
 .date-picker-label {
   display: inline-flex;
@@ -194,7 +211,7 @@ body {
 /* Handwritten drop cap for the devotional body */
 #contentBody::first-letter {
   font-family: "Caveat", cursive;
-  font-size: 3.6em;
+  font-size: 2.5em;
   font-weight: 700;
   line-height: 0.85;
   float: left;
@@ -205,7 +222,7 @@ body {
 
 @media (max-width: 480px) {
   #contentBody::first-letter {
-    font-size: 3.0em;
+    font-size: 2em;
   }
 }
 
@@ -918,15 +935,5 @@ mark[data-annotation-id] {
       padding: 0.6rem 0.75rem 0.8rem;
       color: #374151;
     }
-    
-    
-.mobile-nav-toggle {
-  display: none;
-  background: none;
-  border: none;
-  font-size: 1.8rem;
-  cursor: pointer;
-  color: #111;
-}
 
 

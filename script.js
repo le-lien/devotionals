@@ -348,6 +348,8 @@ function formatDateForDisplay(date) {
   });
 }
 
+
+
 // --- source + entry helpers ---
 
 function findSourceById(sourceId) {
@@ -1016,6 +1018,53 @@ if (addCommentFromSelectionBtn) {
   });
 }
 
+// Mobile dropdown nav — robust for multi-page sites & multiple headers
+document.addEventListener("DOMContentLoaded", () => {
+  // For each toggle button on the page, wire it to the nearest .site-nav
+  const toggles = Array.from(document.querySelectorAll(".mobile-nav-toggle"));
+
+  toggles.forEach((toggle) => {
+    // Find the nearest .site-nav sibling after the toggle in the DOM,
+    // or fallback to the next .site-nav anywhere in the header.
+    let nav = toggle.nextElementSibling;
+    if (!nav || !nav.classList.contains("site-nav")) {
+      // try searching up the tree to find a sibling .site-nav
+      const header = toggle.closest(".top-row") || document;
+      nav = header.querySelector(".site-nav");
+    }
+    if (!nav) return; // nothing to do if no nav exists for this toggle
+
+    // Toggle open/close on click
+    toggle.addEventListener("click", (e) => {
+      e.stopPropagation();
+      nav.classList.toggle("open");
+    });
+
+    // Close when any link inside the nav is clicked (works for same-page anchors and cross-page)
+    nav.addEventListener("click", (e) => {
+      const link = e.target.closest("a");
+      if (link) {
+        nav.classList.remove("open");
+      }
+    });
+
+    // Close when clicking outside the nav or toggle
+    document.addEventListener("click", (e) => {
+      if (!nav.contains(e.target) && !toggle.contains(e.target)) {
+        nav.classList.remove("open");
+      }
+    });
+
+    // Close on Escape key
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        nav.classList.remove("open");
+      }
+    });
+  });
+});
+
+  
 // --- init ---
 
 (function init() {
@@ -1046,28 +1095,4 @@ if (addCommentFromSelectionBtn) {
   updateActiveTab();
   render();
 })();
-
-// Mobile dropdown nav
-const mobileNavToggle = document.getElementById("mobileNavToggle");
-const siteNav = document.getElementById("siteNav");
-
-if (mobileNavToggle && siteNav) {
-  mobileNavToggle.addEventListener("click", () => {
-    siteNav.classList.toggle("open");
-  });
-
-  // Close when clicking outside
-  document.addEventListener("click", (e) => {
-    if (!siteNav.contains(e.target) && !mobileNavToggle.contains(e.target)) {
-      siteNav.classList.remove("open");
-    }
-  });
-
-  // ✅ Close after selecting a menu item
-  siteNav.querySelectorAll("a").forEach((a) => {
-    a.addEventListener("click", () => {
-      siteNav.classList.remove("open");
-    });
-  });
-}
 

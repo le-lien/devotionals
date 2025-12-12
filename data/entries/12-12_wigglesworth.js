@@ -1,6 +1,6 @@
   "12-12": {
     "title": 'Humility and Compassion',
-    "note": 'Being found in appearance as a man, He humbled Himself and became obedient to the point of death, even the death of the cross.',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/PHP.2.NKJV?parallel=151">Philippians 2:1–18</a>',
     "dailyVerse": {
       "ref": 'Philippians 2:8',

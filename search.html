@@ -18,8 +18,10 @@
         </div>
 
         
-        <button id="mobileNavToggle" class="mobile-nav-toggle">☰</button>
-          <nav class="site-nav">
+<button id="mobileNavToggle" class="mobile-nav-toggle" type="button" aria-label="Menu">
+  ☰
+</button>
+<nav id="siteNav" class="site-nav">
           <a href="index.html" >Today</a>
           <a href="notes.html" >Notes Archive</a>
           <a href="about.html">About</a>
@@ -63,7 +65,56 @@
     </div>
   </footer>
 
+  <script>
+document.addEventListener("DOMContentLoaded", () => {
+  // For each toggle button on the page, wire it to the nearest .site-nav
+  const toggles = Array.from(document.querySelectorAll(".mobile-nav-toggle"));
+
+  toggles.forEach((toggle) => {
+    // Find the nearest .site-nav sibling after the toggle in the DOM,
+    // or fallback to the next .site-nav anywhere in the header.
+    let nav = toggle.nextElementSibling;
+    if (!nav || !nav.classList.contains("site-nav")) {
+      // try searching up the tree to find a sibling .site-nav
+      const header = toggle.closest(".top-row") || document;
+      nav = header.querySelector(".site-nav");
+    }
+    if (!nav) return; // nothing to do if no nav exists for this toggle
+
+    // Toggle open/close on click
+    toggle.addEventListener("click", (e) => {
+      e.stopPropagation();
+      nav.classList.toggle("open");
+    });
+
+    // Close when any link inside the nav is clicked (works for same-page anchors and cross-page)
+    nav.addEventListener("click", (e) => {
+      const link = e.target.closest("a");
+      if (link) {
+        nav.classList.remove("open");
+      }
+    });
+
+    // Close when clicking outside the nav or toggle
+    document.addEventListener("click", (e) => {
+      if (!nav.contains(e.target) && !toggle.contains(e.target)) {
+        nav.classList.remove("open");
+      }
+    });
+
+    // Close on Escape key
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape") {
+        nav.classList.remove("open");
+      }
+    });
+  });
+});
+  </script>
+
   <script src="data.js"></script>
   <script src="search.js"></script>
+      <script src="script.js"></script>
+
 </body>
 </html>
