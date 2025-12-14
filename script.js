@@ -92,6 +92,14 @@ const stopVoiceBtn = document.getElementById("stopVoiceBtn");
 const voiceStatus = document.getElementById("voiceStatus");
 const voicePreview = document.getElementById("voicePreview");
 
+const voicePlayerPreviewHost = document.getElementById("voicePlayerPreview");
+let voicePreviewPlayer = null;
+
+if (voicePlayerPreviewHost) {
+  voicePreviewPlayer = createAudioPlayer(voicePlayerPreviewHost);
+}
+
+
 // Disable voice controls until a comment is being created
 if (startVoiceBtn) startVoiceBtn.disabled = true;
 if (stopVoiceBtn) stopVoiceBtn.disabled = true;
@@ -104,6 +112,11 @@ let pendingAnnotationQuote = null;
 let mediaRecorder = null;
 let recordedChunks = [];
 let pendingVoiceBlob = null;
+recordedChunks = [];
+if (voicePreviewPlayer) {
+  voicePreviewPlayer.destroy();
+  voicePreviewPlayer = createAudioPlayer(voicePlayerPreviewHost);
+}
 
 // --- detect if localStorage is usable (browsers may block it on file://) ---
 let CAN_USE_LOCAL_STORAGE = true;
@@ -518,21 +531,20 @@ function renderAnnotationsList(sourceId, dateKey) {
     
     // If annotation has a voice memo, render player
 if (ann.voiceKey) {
-  const audio = document.createElement("audio");
-  audio.controls = true;
-  audio.style.width = "100%";
-  audio.style.marginTop = "0.35rem";
-  li.appendChild(audio);
+  const host = document.createElement("div");
+  host.style.marginTop = "0.35rem";
+  li.appendChild(host);
+
+  const player = createAudioPlayer(host);
 
   loadVoiceMemo(ann.voiceKey).then((blob) => {
     if (blob) {
-      audio.src = URL.createObjectURL(blob);
+      player.setBlob(blob);
     } else {
-      audio.replaceWith(document.createTextNode("(voice memo missing)"));
+      host.textContent = "(voice memo missing)";
     }
   });
 }
-
 
     li.appendChild(metaP);
     annotationsList.appendChild(li);
@@ -733,6 +745,161 @@ function handleImportFile(file) {
   reader.readAsText(file);
 }
 
+
+function formatTime(sec) {
+  if (!isFinite(sec)) return "0:00";
+  const m = Math.floor(sec / 60);
+  const s = Math.floor(sec % 60);
+  return `${m}:${String(s).padStart(2, "0")}`;
+}
+
+/**
+ * Create a custom audio player UI inside container.
+ * Returns an API: { setSrc(url), setBlob(blob), destroy(), audio }
+ */
+function createAudioPlayer(container, opts = {}) {
+  if (!container) return null;
+
+  const audio = document.createElement("audio");
+  audio.preload = "metadata";
+  audio.controls = false; // no native UI
+
+  const wrap = document.createElement("div");
+  wrap.className = "audio-player";
+
+  const btn = document.createElement("button");
+  btn.type = "button";
+  btn.textContent = "Play";
+  btn.disabled = true;
+
+  const range = document.createElement("input");
+  range.type = "range";
+  range.className = "audio-range";
+  range.min = "0";
+  range.max = "1000";
+  range.value = "0";
+  range.disabled = true;
+
+  const time = document.createElement("div");
+  time.className = "audio-time";
+  time.textContent = "0:00 / 0:00";
+
+  const speed = document.createElement("select");
+  speed.className = "audio-speed";
+  ["0.75", "1", "1.25", "1.5", "2"].forEach((v) => {
+    const o = document.createElement("option");
+    o.value = v;
+    o.textContent = `${v}×`;
+    if (v === "1") o.selected = true;
+    speed.appendChild(o);
+  });
+  speed.disabled = true;
+
+  // Layout: [Play] [Seekbar] [Time + Speed stacked]
+  const right = document.createElement("div");
+  right.style.display = "flex";
+  right.style.flexDirection = "column";
+  right.style.alignItems = "flex-end";
+  right.style.gap = "0.3rem";
+  right.appendChild(time);
+  right.appendChild(speed);
+
+  wrap.appendChild(btn);
+  wrap.appendChild(range);
+  wrap.appendChild(right);
+
+  container.innerHTML = "";
+  container.appendChild(wrap);
+  container.appendChild(audio);
+
+  let objectUrl = null;
+  const revokeObjectUrl = () => {
+    if (objectUrl) {
+      URL.revokeObjectURL(objectUrl);
+      objectUrl = null;
+    }
+  };
+
+  function updateTimeUI() {
+    const dur = audio.duration || 0;
+    const cur = audio.currentTime || 0;
+    time.textContent = `${formatTime(cur)} / ${formatTime(dur)}`;
+    if (dur > 0) {
+      const t = Math.min(1, Math.max(0, cur / dur));
+      range.value = String(Math.round(t * 1000));
+    }
+  }
+
+  btn.addEventListener("click", async () => {
+    if (audio.paused) {
+      try {
+        await audio.play();
+      } catch (e) {
+        // mobile browsers sometimes block play unless user gesture – button click is a gesture
+        console.warn(e);
+      }
+    } else {
+      audio.pause();
+    }
+  });
+
+  audio.addEventListener("play", () => (btn.textContent = "Pause"));
+  audio.addEventListener("pause", () => (btn.textContent = "Play"));
+  audio.addEventListener("ended", () => {
+    btn.textContent = "Play";
+    updateTimeUI();
+  });
+
+  audio.addEventListener("timeupdate", updateTimeUI);
+  audio.addEventListener("loadedmetadata", () => {
+    btn.disabled = false;
+    range.disabled = false;
+    speed.disabled = false;
+    updateTimeUI();
+  });
+
+  range.addEventListener("input", () => {
+    const dur = audio.duration || 0;
+    if (dur <= 0) return;
+    const t = Number(range.value) / 1000;
+    audio.currentTime = t * dur;
+  });
+
+  speed.addEventListener("change", () => {
+    audio.playbackRate = Number(speed.value);
+  });
+
+  const api = {
+    audio,
+    setSrc(url) {
+      revokeObjectUrl();
+      audio.src = url;
+      audio.load();
+    },
+    setBlob(blob) {
+      revokeObjectUrl();
+      objectUrl = URL.createObjectURL(blob);
+      audio.src = objectUrl;
+      audio.load();
+    },
+    destroy() {
+      revokeObjectUrl();
+      audio.pause();
+      container.innerHTML = "";
+    },
+  };
+
+  // Optional: autoplay flag (default false)
+  if (opts.autoplay) {
+    audio.addEventListener("loadedmetadata", () => {
+      audio.play().catch(() => {});
+    });
+  }
+
+  return api;
+}
+
+
 // --- events ---
 
 function initDatePicker() {
@@ -871,6 +1038,12 @@ if (startVoiceBtn) {
           voicePreview.hidden = false;
         }
         if (voiceStatus) voiceStatus.textContent = "Recorded ✓";
+        
+          // ✅ show custom player preview
+         if (voicePreviewPlayer) {
+            voicePreviewPlayer.setBlob(blob);
+           }
+
 
         stream.getTracks().forEach((t) => t.stop());
       };
@@ -882,7 +1055,7 @@ if (startVoiceBtn) {
       if (stopVoiceBtn) stopVoiceBtn.disabled = false;
 
       if (voicePreview) {
-        voicePreview.hidden = true;
+        voicePreview.hidden = false;
         voicePreview.src = "";
       }
     } catch (err) {

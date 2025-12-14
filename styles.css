@@ -936,4 +936,48 @@ mark[data-annotation-id] {
       color: #374151;
     }
 
+/* Custom audio player */
+.audio-player {
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  gap: 0.6rem;
+  align-items: center;
+  padding: 0.6rem 0.75rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.75rem;
+  background: #ffffff;
+  margin-top: 0.5rem;
+}
+
+.audio-player button {
+  border: 1px solid #d1d5db;
+  background: #f9fafb;
+  border-radius: 0.6rem;
+  padding: 0.35rem 0.6rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.audio-player button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.audio-player .audio-time {
+  font-size: 0.85rem;
+  color: #374151;
+  white-space: nowrap;
+}
+
+.audio-player .audio-range {
+  width: 100%;
+}
+
+.audio-player .audio-speed {
+  border: 1px solid #d1d5db;
+  background: #ffffff;
+  border-radius: 0.6rem;
+  padding: 0.3rem 0.45rem;
+  font-size: 0.9rem;
+}
 

@@ -1,6 +1,6 @@
   "12-15": {
     "title": 'Sacrifice Is Nothing without Love',
-    "note": 'And though I bestow all my goods to feed the poor, and though I give my body to be burned, but have not love, it profits me nothing.',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/MRK.6.NKJV?parallel=151">Mark 6:30–56</a>',
     "dailyVerse": {
       "ref": '1 Corinthians 13:3',
