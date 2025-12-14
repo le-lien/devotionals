@@ -27,6 +27,7 @@ body {
   align-items: center;
   gap: 1rem;
   position:relative;
+  justify-content:space-between;
 }
 
 .logo {
@@ -77,6 +78,7 @@ body {
     position: absolute;
     top: 60px;       /* adjust if your header is taller/shorter */
     right: 12px;
+    left:auto;
     background: #111827;
     border: 1px solid #374151;
     border-radius: 0.75rem;

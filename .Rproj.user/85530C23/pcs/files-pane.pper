@@ -2,12 +2,12 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": true
+            "ascending": false
         },
         {
             "columnIndex": 4,
             "ascending": false
         }
     ],
-    "path": "D:/devotional_site_annotations/devotionals"
+    "path": "D:/devotional_site_annotations/devotionals/data/entries"
 }
