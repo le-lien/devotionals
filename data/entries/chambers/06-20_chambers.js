@@ -1,0 +1,15 @@
+"06-20": {
+  "title": 'HAVE YOU COME TO “WHEN” YET?',
+  "note": '',
+  "passage": '',
+  "dailyVerse": {
+    "ref": 'Job 42:10',
+    "text": '“And the Lord turned the captivity of Job when he prayed for his friends.”'
+  },
+  "body": 'The plaintive, self-centred, morbid kind of prayer, a dead-set that I want to be right, is never found in the New Testament. The fact that I am trying to be right with God is a sign that I am rebelling against the Atonement. “Lord, I will purify my heart if You will answer my prayer; I will walk rightly if You will help me.” I cannot make myself right with God, I cannot make my life perfect; I can only be right with God if I accept the Atonement of the Lord Jesus Christ as an absolute gift. Am I humble enough to accept it? I have to resign every kind of claim and cease from every effort, and leave myself entirely alone in His hands, and then begin to pour out in the priestly work of intercession. There is much prayer that arises from real disbelief in the Atonement. Jesus is not beginning to save us, He has saved us, the thing is done, and it is an insult to ask Him to do it.\nIf you are not getting the hundredfold more, not getting insight into God’s word, then start praying for your friends, enter into the ministry of the interior. “The Lord turned the captivity of Job when he prayed for his friends.”  The real business of your life as a saved soul is intercessory prayer. Wherever God puts you in circumstances, pray immediately, pray that His Atonement may be realized in other lives as it has been in yours. Pray for your friends now;  pray for those with whom you come in contact now.',
+  "dailyPrayer": {
+    "title": '',
+    "text": ''
+  }
+}
+

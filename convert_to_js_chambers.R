@@ -27,7 +27,7 @@ strip_outer_quotes <- function(x) {
 
 # ---- Main: write one JS file per day ----------------------------------
 
-convert_devotions_to_js_files <- function(
+convert_chambers_devotions_to_js_files <- function(
     input_path,
     output_dir,
     filename_template = "{KEY}_chambers.js" # {KEY} -> e.g. 12-11
@@ -36,6 +36,7 @@ convert_devotions_to_js_files <- function(
   lines <- gsub("\u00A0", " ", lines, fixed = TRUE)  # non-breaking spaces -> space
   
   n <- length(lines)
+  
   trimmed <- trimws(lines)
   
   # date lines like "December 11"
@@ -68,39 +69,61 @@ convert_devotions_to_js_files <- function(
     }
     
     date_line   <- nonempty[1]
-    title_line  <- nonempty[2]
-    verse_text  <- nonempty[3]
-    verse_ref   <- nonempty[4]
-    body_lines  <- nonempty[-(1:4)]
     
-    # join body lines with real newlines (we'll escape later)
-    body_text <- paste(body_lines, collapse = "\n")
+    # ---------- TITLE ----------
+    title <- nonempty[2]
     
-    key <- format_date_key(date_line)              # "12-11"
-    verse_text_clean <- strip_outer_quotes(verse_text)
+    # ---------------- DAILY VERSE ----------------
+    verse_line <- nonempty[3]
+    next_line <- nonempty[4]
+
+    # Detect reference pattern
+    ref_pattern <- "[A-Za-z ]+\\s\\d+:\\d+(-\\d+)?(\\s*\\([A-Za-z0-9]+\\))?$"
     
-    # ---- Build JS for this one day ------------------------------------
+    if (grepl(ref_pattern, verse_line)) {
+      # verse + ref on same line
+      ref <- trimws(sub(".*\\(" , "", regmatches(verse_line, regexpr(ref_pattern, verse_line))))
+      verse_text <- trimws(sub(ref_pattern, "", verse_line))
+      body_start <- 4
+    } else {
+      # ref on next line
+      ref <- next_line
+      verse_text <- verse_line
+      body_start <- 5
+    }
     
-    title_js      <- escape_js_single(title_line)
-    verse_text_js <- escape_js_single(verse_text_clean)
-    verse_ref_js  <- escape_js_single(verse_ref)
-    body_js       <- escape_js_single(body_text)
+    # Clean verse text
+    verse_text <- gsub('^"|"$', "", verse_text)
     
-    js_lines <- c(
-      paste0('  "', key, '": {'),
-      paste0('    "title": \'', title_js, '\','),
-      '    "note": \'\',',
-      '    "passage": \'\',',
-      '    "dailyVerse": {',
-      paste0('      "ref": \'', verse_ref_js, '\','),
-      paste0('      "text": \'', verse_text_js, '\''),
-      '    },',
-      paste0('    "body": \'', body_js, ' \','),
-      '    "dailyPrayer": {',
-      '      "title": \'\',',
-      '      "text": \'\'',
-      '    }',
-      "}"
+    # ---------------- BODY ----------------
+    body <- paste(nonempty[body_start:length(nonempty)], collapse = "\n")
+    
+    key <- format_date_key(date_line)   # e.g. "12-09"
+    
+    # ---------------- JS escaping ----------------
+    esc <- function(x) {
+      x <- gsub("\\\\", "\\\\\\\\", x)
+      x <- gsub("'", "\\\\'", x)
+      x <- gsub("\n", "\\\\n", x)
+      x
+    }
+    
+    # ---------------- Build JS ----------------
+    js_lines <- paste0(
+      "\"", key, "\": {\n",
+      "  \"title\": '", esc(title), "',\n",
+      "  \"note\": '',\n",
+      "  \"passage\": '',\n",
+      "  \"dailyVerse\": {\n",
+      "    \"ref\": '", esc(ref), "',\n",
+      "    \"text\": '", esc(verse_text), "'\n",
+      "  },\n",
+      "  \"body\": '", esc(body), "',\n",
+      "  \"dailyPrayer\": {\n",
+      "    \"title\": '',\n",
+      "    \"text\": ''\n",
+      "  }\n",
+      "}\n"
     )
     
     # filename, e.g. devotion-12-11.js

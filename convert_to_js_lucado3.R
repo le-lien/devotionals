@@ -76,6 +76,24 @@ convert_lucado3_devotions_to_js_files <- function(
       next
     }
     
+    # ---- dynamic verse-ref detection (line starting with dash/em dash) ----
+    cand <- which(grepl("\\[", nonempty)&grepl("[0:9]+", nonempty))
+    #cand <- cand[cand < 4]  # must be before title
+    if (length(cand) == 0) {
+      warning("No verse ref line (starting with dash) found in block starting at line ", start, ". Skipping.")
+      next
+    }
+    ref_pos <- cand[1]
+    
+    if (ref_pos <=2) {
+      warning("Verse ref found too early in block starting at line ", start, ". Skipping.")
+      next
+    }
+    
+    
+    # ---- PRAYER START ----
+    prayer_idx <- which(nonempty == "ONE MORE THOUGHT")[1]
+    
     # Structure for this format:
     # 1: date
     # 2: verse text
@@ -91,17 +109,22 @@ convert_lucado3_devotions_to_js_files <- function(
     verse_text_line  <- nonempty[2]
     verse_ref_line   <- nonempty[3]
     title_line       <- nonempty[4]
-    prayer_title_line <- nonempty[L - 1]
-    prayer_text_line  <- nonempty[L]
+    
+    prayer_title <- "ONE MORE THOUGHT"
+    prayer_text <- paste(na.omit(nonempty[(prayer_idx + 1):length(nonempty)]),
+                         collapse = " ")
+    prayer_text <- trimws(prayer_text)
     
     if (L > 5) {
-      body_lines <- nonempty[5:(L - 2)]
+      body_lines <- nonempty[(ref_pos + 2):(prayer_idx - 1)]
+      body <- paste(na.omit(body_lines), collapse = "\n")
+      body <- gsub("\\s+—\\s*", " ", body)
+      body <- trimws(body)
     } else {
-      body_lines <- character(0)
+      body <- character(0)
     }
     
-    body_text <- paste(body_lines, collapse = "\n")
-    
+
     key <- format_date_key(date_line)   # e.g. "12-09"
     
     # ---- Build JS for this one day ------------------------------------
@@ -109,9 +132,9 @@ convert_lucado3_devotions_to_js_files <- function(
     title_js        <- escape_js_single(title_line)
     verse_text_js   <- escape_js_single(verse_text_line)
     verse_ref_js    <- escape_js_single(clean_bracket_ref(verse_ref_line))
-    body_js         <- escape_js_single(body_text)
-    prayer_title_js <- escape_js_single(prayer_title_line)
-    prayer_text_js  <- escape_js_single(prayer_text_line)
+    body_js         <- escape_js_single(body)
+    prayer_title_js <- escape_js_single(prayer_title)
+    prayer_text_js  <- escape_js_single(prayer_text)
     
     js_lines <- c(
        paste0('  "', key, '": {'),

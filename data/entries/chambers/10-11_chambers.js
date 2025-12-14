@@ -1,0 +1,15 @@
+"10-11": {
+  "title": 'AFTER GOD’S SILENCE - WHAT?',
+  "note": '',
+  "passage": '',
+  "dailyVerse": {
+    "ref": 'John 11:6',
+    "text": '“When He had heard therefore that he was sick, He abode two days in the same place where he was.”'
+  },
+  "body": 'Has God trusted you with a silence - a silence that is big with meaning? God’s silences are His answers. Think of those days of absolute silence in the home at Bethany! Is there anything analogous to those days in your life? Can God trust you like that, or are you still asking for a visible answer? God will give you the blessings you ask if you will not go any further without them; but His silence is the sign that He is bringing you into a marvellous understanding of Himself. Are you mourning before God because you have not had an audible response? You will find that God has trusted you in the most intimate way possible, with an absolute silence, not of despair, but of pleasure, because He saw that you could stand a bigger revelation. If God has given you a silence, praise Him, He is bringing you into the great run of His purposes. The manifestation of the answer in time is a matter of God’s sovereignty. Time is nothing to God. For a while you said - “I asked God to give me bread, and He gave me a stone.” He did not, and to-day you find He gave you the bread of life.\nA wonderful thing about God’s silence is that the contagion of His stillness gets into you and you become perfectly confident - “I know God has heard me.” His silence is the proof that He has. As long as you have the idea that God will bless you in answer to prayer, He will do it, but He will never give you the grace of silence. If Jesus\nChrist is bringing you into the understanding that prayer is for the glorifying of His Father, He will give you the first sign of His intimacy - silence.',
+  "dailyPrayer": {
+    "title": '',
+    "text": ''
+  }
+}
+

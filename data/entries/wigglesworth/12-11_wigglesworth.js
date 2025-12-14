@@ -1,0 +1,14 @@
+  "12-11": {
+    "title": 'A More Excellent Way',
+    "note": 'Let everything that has breath praise the LORD.',
+    "passage": 'Scripture reading: Psalm 150',
+    "dailyVerse": {
+      "ref": 'Psalm 150:6',
+      "text": 'NA'
+    },
+    "body": 'If you ever get to the place where you cannot praise the Lord, it is a calamity in your life and it is a calamity to the people I who are around you. If you want to take blessing into homes and make all the people around you know that you have something more than an ordinary life, you must know that God has come to supplant you and put within you a perfect praise.\n\nGod has a great place for us, so that His will may be done and we may be subject to His perfect will. When that comes to pass, no one can tell what may happen, for Jesus reached the highest place when He said, “For I have come down from heaven, not to do My own will, but the will of Him who sent Me”  (John 6:38). So there is something in a place of yielding where God can have us for His own.\n\nGod desires that we would lose ourselves in Him in a way we have never done before. I want to provoke you to love so that you will come into this place of blessing.\n\nBeloved, believe today that God has a way for you. Perhaps you have never come that way before. God has a way beyond all your ways of thought. He has a plan for you.\n\nThere is a great need today. People are hungry for truth. People are thirsting, wanting to know God better. There are thousands “in the valley of decision”  (Joel 3:14), wanting someone to take them right into the depths of God.\n\nAre you ready to pray? You say, "What should I ask for?"\n\nYou may not know what to ask for, but if you begin, the Spirit knows the desire of your heart, and He will pray according to the mind of God. You do not know, but God knows everything, and He is acquainted with you altogether and desires to promote you.\n\nSo I say, "Are you ready?" You say, "What for?" Are you ready to come promptly into the presence of God so that you may ask this day as you have never asked before? Ask in faith, doubting nothing, but believing that God is on the throne waiting to anoint you afresh today.\n\nAre you ready? What for? Are you ready to be brought into the banquet house of God, even as Esther came in before King Ahasu-erus? God will put out the scepter, and all that your heart desires He will give to you. (See Esther 5–7.)\n\nFather, in Jesus‘ name we come before You believing in Your almightiness, that the power of Your hand does move us, chasten us. Build us. Let the Word of God sink into our hearts this day. Make us, O God, worthy of the name we bear, that we may go about as real, holy saints of God. Just as if You were on the earth, fill us with Your anointing, Your power, and Your grace. Amen.',
+    "dailyPrayer": {
+      "title": 'Thought for today',
+      "text": 'God wants you to be blessed so that you will be a blessing.'
+    }
+}

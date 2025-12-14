@@ -1,0 +1,15 @@
+"09-07": {
+  "title": 'SPRINGS OF BENIGNITY',
+  "note": '',
+  "passage": '',
+  "dailyVerse": {
+    "ref": 'John 4:14',
+    "text": '“The water that I shall give him shall be in him a well of water.”'
+  },
+  "body": 'The picture Our Lord gives is not that of a channel but a fountain.\n“Be being filled,” and the sweetness of vital relationship to Jesus will flow out of the saint as lavishly as it is imparted to him. If you find your life is not flowing out as it should, you are to blame; something has obstructed the flow. Keep right at the Source, and - you will be blessed personally? No, out of you will flow rivers of living water, irrepressible life.\nWe are to be centres through which Jesus can flow as rivers of living water in blessing to every one. Some of us are like the Dead Sea, always taking in but never giving out, because we are not rightly related to the Lord Jesus. As surely as we receive from Him, He will pour out through us, and in the measure He is not pouring out, there is a defect in our relationship to Him. Is there anything between you and Jesus Christ? Is there anything that hinders your belief in Him?\nIf not, Jesus says, out of you will flow rivers of living water. It is not a blessing passed on, not an experience stated, but a river continually flowing. Keep at the Source, guard well your belief in Jesus Christ and your relationship to Him, and there will be a steady flow for other lives, no dryness and no deadness.\nIs it not too extravagant to say that out of an individual believer rivers are going to flow? “I do not see the rivers,” you say. Never look at yourself from the standpoint of - Who am I? In the history of God’s work you will nearly always find that it has started from the obscure, the unknown, the ignored, but the steadfastly true to Jesus Christ.',
+  "dailyPrayer": {
+    "title": '',
+    "text": ''
+  }
+}
+

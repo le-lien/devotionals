@@ -1,14 +1,15 @@
-  "12-16": {
-    "title": 'WRESTLING BEFORE GOD',
-    "note": '',
-    "passage": '',
-    "dailyVerse": {
-      "ref": 'You have to wrestle against the things that prevent you from getting to God, and you wrestle in prayer for other souls; but never say that you wrestle with God in prayer, it is scripturally untrue. If you do',
-      "text": 'Wherefore take unto you the whole armour of God … praying always … ”  Ephesians 6:13, 18'
-    },
-    "body": 'wrestle with God, you will be crippled all the rest of your life. If, when God comes in some way you do not want, you take hold of Him as Jacob did and wrestle with Him, you compel Him to put you out of joint. Don’t be a hirpler in God’s ways, but be one who wrestles before God with things, becoming more than conqueror through Him. Wrestling before God tells in His Kingdom. If you ask me to pray for you and I am not complete in Christ, I may pray but it avails nothing; but if I am complete in Christ my prayer prevails all the time. Prayer is only effective when there is completeness -\n“Wherefore take unto you the whole armour of God.”\nAlways distinguish between God’s order and His permissive will, i.e., His providential purpose towards us. God’s order is unchangeable; His permissive will is that with which we must wrestle before Him. It is our reaction to the permissive will of God that enables us to get at His order. “All things work together for good to them that love God”\n- to those who remain true to God’s order, to His calling in Christ Jesus. God’s permissive will is the means whereby His sons and daughters are to be manifested. We are not to be like jelly-fish saying, “It’s the Lord’s will.” We have not to put up a fight before God, not to wrestle with God, but to wrestle before God with things.\nBeware of squatting lazily before God instead of putting up a glorious fight so that you may lay hold of His strength. ',
-    "dailyPrayer": {
-      "title": '',
-      "text": ''
-    }
+"12-16": {
+  "title": 'WRESTLING BEFORE GOD',
+  "note": '',
+  "passage": '',
+  "dailyVerse": {
+    "ref": 'Ephesians 6:13, 18',
+    "text": 'Wherefore take unto you the whole armour of God... praying always ...'
+  },
+  "body": 'You have to wrestle <i>against</i> the things that prevent you from getting to God, and you wrestle in prayer <i>for</i> other souls; but never say that you wrestle <i>with</i> God in prayer, it is scripturally untrue. If you do wrestle with God, you will be crippled all the rest of your life. If, when God comes in some way you do not want, you take hold of Him as Jacob did and wrestle with Him, you compel Him to put you out of joint. Don’t be a hirpler in God’s ways, but be one who wrestles before God with things, becoming more than conqueror through Him. Wrestling before God tells in His Kingdom. If you ask me to pray for you and I am not complete in Christ, I may pray but it avails nothing; but if I am complete in Christ my prayer prevails all the time. Prayer is only effective when there is completeness - “Wherefore take unto you the whole armour of God.”\nAlways distinguish between God’s order and His permissive will, i.e., His providential purpose towards us. God’s order is unchangeable; His permissive will is that with which we must wrestle before Him. It is our reaction to the permissive will of God that enables us to get at His order. “All things work together for good to them that love God” - to those who remain true to God’s order, to His calling in Christ Jesus. God’s permissive will is the means whereby His sons and daughters are to be manifested. We are not to be like jelly-fish saying, “It’s the Lord’s will.” We have not to put up a fight before God, not to wrestle with God, but to wrestle before God <i>with things</i>. Beware of squatting lazily before God instead of putting up a glorious fight so that you may lay hold of His strength.',
+  "dailyPrayer": {
+    "title": '',
+    "text": ''
+  }
 }
+

@@ -1,0 +1,14 @@
+  "12-04": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: Psalm 145',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'You were designed for it. You have missed the point without it. What is it?\nLiving every day for the glory of the Father.\nI have written about it much and I will continue to write about it as long as I am able. It is a theme that cannot be repeated too much. It is a practical concern that touches everything that we think, desire, say, and do. It reaches to the deepest levels of human motivation. It sits at the epicenter of our spiritual struggles. It is one of the underlying causes of the most important battles of the heart. It exposes the deepest wishes of our souls. It is at the heart of why we were created. It expresses God’s will for everyone who has ever taken a breath. It is the great moral dividing line. And it is the reason Jesus had to come.\nLife is all about glory. Sin is all about glory. Grace is all about glory.\nSpirituality is all about glory. Heaven and hell are all about glory. Submission and rebellion are all about glory. Love and hatred are all about glory. A life of demand and a life of service are both propelled by glory. Contentment and craving are both motivated by glory. Every word you speak and every action you take is directed by glory. Glory causes you to want some things and despise others. Glory makes you arrogant and causes you to be humble. Glory reduces you to a thief or motivates you to give. Glory makes your heart glad or causes it to be eaten with envy. Glory makes you constantly thankful for a Savior or causes you to forget he exists.\nWe human beings were hardwired for glory. Glory orientation was woven into the fabric of our hearts. We were designed this way so that we would be able to take in all the glories of creation and so that those glories would point us to the one glory that is truly glorious and alone able to satisfy our hearts, the glory of God. This means that we are always living in pursuit of some kind of glory. Either our hearts have been captured by the temporary glories of the created world or by grace they have been captured by the eternally satisfying glory of God. We are working for our own glory, pursuing some created glory, or living for God’s glory. But we are always living for glory.\nJesus came to liberate us from our addiction to glories that will never satisfy our hearts. He came to free us from our bondage to our own glory and our\nobsession with the shadow glories of the created world. He willingly died for glory thieves (us) so that we would find our satisfaction in and live in service of the glory of God. Jesus not only revealed God’s glory on earth; he died so that that glory would be the final resting place of our hearts.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

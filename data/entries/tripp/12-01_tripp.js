@@ -1,0 +1,14 @@
+  "12-01": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: 1 John 1:1–4',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'You have one place of hope, security, and rest.\nIt is found in these words: “God is love.”\nIt is something every human being does. It separates us from the rest of creation.\nIt causes us much anxiety and much joy. It shapes the decisions and investments that we make. It calms our fears or leaves us scared and feeling alone. It turns all of us into theologians and philosophers. Where we land in this pursuit shapes the way we look at life and interpret the things that happen to us. It proves that we don’t live by instinct or by impersonal determinative forces. It exposes the fact that we are deeply spiritual beings. It is one of our most foundational quests. As different as we are one from another, in this way we are all the same. We all are looking for something in which to place our hope. We’re all in search of security.\nI don’t know if you’ve thought about this, but there are only two places to look for hope. You can search for it horizontally, thinking that something in creation will give you the security, peace, and inner sense of well-being that you seek, or you can seek it vertically, entrusting your life into the loving hands of your Creator. People put their hope in the creation all the time. They seek satisfaction of heart in the love of other human beings or in the success of their careers. They think their hearts will be satisfied by a certain set of achievements or by a certain catalog of possessions. But none of these things has the power to satisfy your heart. They are all meant to point you to the one place where you heart will find secure rest. You and I need to face this reality—creation will never be our savior!\nSo where is hope to be found, hope that will never disappoint or shame you?\nIt really is found in three of the most glorious words ever penned in human language. These words have the power to transform you and everything about you. These words can end your frantic search and give your weary heart rest.\nThese words describe the One who alone is capable of carrying your hope: “God is love” (1 John 4:16). Because he is love and because he has placed his love on you, you have security and hope even in those scary moments when it feels as if you have neither. The One who is love sent his Son of love to be a sacrifice of\nlove so you and I could be rescued by his love and rest in that love forever and ever.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}

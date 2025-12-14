@@ -125,17 +125,20 @@ convert_lucado4_devotions_to_js_files <- function(
       next
     }
     
-    prayer_title_line <- nonempty[L - 2]
-    prayer_text_lines <- nonempty[(L - 1):L]
+    # ---- PRAYER START ----
+    prayer_idx <- which(nonempty == "Growing in Grace")[1]
     
-    if ((L - 3) >= (ref_pos + 1)) {
-      body_lines <- nonempty[(ref_pos + 1):(L - 3)]
-    } else {
-      body_lines <- character(0)
-    }
+    # ---- BODY ----
+    body_lines <- nonempty[(ref_pos + 1):(prayer_idx - 1)]
+    body <- paste(na.omit(body_lines), collapse = "\n")
+    body <- gsub("\\s+—\\s*", " ", body)
+    body <- trimws(body)
     
-    body_text   <- paste(body_lines, collapse = "\n")
-    prayer_text <- paste(prayer_text_lines, collapse = " ")
+    # ---- PRAYER ----
+    prayer_title <- "Growing in Grace"
+    prayer_text <- paste(na.omit(nonempty[(prayer_idx + 1):length(nonempty)]),
+                         collapse = " ")
+    prayer_text <- trimws(prayer_text)
     
     key <- format_month_day_key(month_line, day_line)  # e.g. "12-09"
     
@@ -144,8 +147,8 @@ convert_lucado4_devotions_to_js_files <- function(
     title_js        <- escape_js_single(title_line)
     verse_text_js   <- escape_js_single(verse_text_line)
     verse_ref_js    <- escape_js_single(clean_verse_ref(verse_ref_line))
-    body_js         <- escape_js_single(body_text)
-    prayer_title_js <- escape_js_single(prayer_title_line)
+    body_js         <- escape_js_single(body)
+    prayer_title_js <- escape_js_single(prayer_title)
     prayer_text_js  <- escape_js_single(prayer_text)
     
     js_lines <- c(

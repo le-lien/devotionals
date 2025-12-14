@@ -1,0 +1,15 @@
+"07-21": {
+  "title": 'THE GATEWAY TO THE KINGDOM',
+  "note": '',
+  "passage": '',
+  "dailyVerse": {
+    "ref": 'Matthew 5:3',
+    "text": '“Blessed are the poor in spirit.”'
+  },
+  "body": 'Beware of placing Our Lord as a Teacher first. If Jesus Christ is a Teacher only, then all He can do is to tantalize me by erecting a standard I can not attain. What is the use of presenting me with an ideal I cannot possibly come near? I am happier without knowing it.\nWhat is the good of telling me to be what I never can be - to be pure in heart, to do more than my duty, to be perfectly devoted to God? I must know Jesus Christ as Saviour before His teaching has any meaning for me other than that of an ideal which leads to despair.\nBut when I am born again of the Spirit of God, I know that Jesus Christ did not come to teach only: He came to make me what He teaches I should be.  The Redemption means that Jesus Christ can put into any man the disposition that ruled His own life, and all the standards God gives are based on that disposition.\nThe teaching of the Sermon on the Mount produces despair in the natural man - the very thing Jesus means it to do. As long as we have a self-righteous, conceited notion that we can carry out Our Lord’s teaching, God will allow us to go on until we break our ignorance over some obstacle, then we are willing to come to Him as paupers and receive from Him. “Blessed are the paupers in spirit,” that is the first principle in the Kingdom of God. The bedrock in Jesus Christ’s kingdom is poverty, not possession; not decisions for Jesus Christ, but a sense of absolute futility - I cannot begin to do it. Then Jesus says - Blessed are you. That is the entrance, and it does take us a\nlong while to believe we are poor! The knowledge of our own poverty brings us to the moral frontier where Jesus Christ works.',
+  "dailyPrayer": {
+    "title": '',
+    "text": ''
+  }
+}
+

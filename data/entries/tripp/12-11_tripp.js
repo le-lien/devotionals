@@ -1,0 +1,14 @@
+  "12-11": {
+    "title": '',
+    "note": '',
+    "passage": 'For further study and encouragement: 1 Samuel 15',
+    "dailyVerse": {
+      "ref": '',
+      "text": ''
+    },
+    "body": 'If obedience is a personal act of worship, then disobedience is personal too.\nEvery sin is a violation of a relationship—a sin against God.\nI think that we often misunderstand what sin is about, and in so doing, we minimize how horrible it really is. If you unwittingly devalue the heinous nature of sin, you will also devalue the grace that alone is able to rescue you from it.\nThe first way we devalue sin is to think that sin is about behavior and behavior alone. But that is not what the Bible teaches. Sin is first and foremost a matter of the heart (see Jesus’s teaching in the Sermon on the Mount, Matthew 5–7). Since you live out of the heart (see Luke 6:43–45), sin always originates there. Sin is always a matter of the thoughts, desires, motives, and choices of the heart. Sin is a matter of the heart that expresses itself in the behavior of the body\n—your body physically goes where your heart has already gone. This is precisely why we need rescuing grace. We can run from a certain situation, location, or relationship, but we have no ability whatsoever to escape our hearts; for that, we need rescuing grace.\nSecond, we tend to think of sin as the breaking of a set of abstract rules. But sin is much more than that. Sin is the breaking of a relationship that results in breaking God’s rules. Remember, the Ten Commandments begin with a call to worship God above all else. You see, it is only when God is in his rightful place in my heart that I desire to live in a way that pleases him. If God is not in his rightful place, I insert myself in his place, write my own laws, and give myself to doing what pleases me. So every sin is against God. Every sin is an assault on God’s rightful place. Every sin is a betrayal of him. Every sin steals glory from him. Every sin denies his existence and his authority. Every sin replaces him with something else. Every sin quests for his power and his glory. Every sin is after his throne.\nSin is personal and relational, even if you are not conscious of it at the moment when you are sinning. That is why it is right for David, who has just committed adultery and murder, to say, “Against you, you only, have I sinned and done what is evil in your sight” (Ps. 51:4). David is not minimizing the horrible wrongs he did against Bathsheba, Uriah, and the people of Israel. What\nhe’s doing is confessing the core of what sin is about. Sin questions God’s goodness, wisdom, faithfulness, and love. Sin challenges God’s personal rule.\nSin says that you know better than God. Sin is personal, and that is why Jesus suffered and died so that you and I would receive forgiving grace.',
+    "dailyPrayer": {
+      "title": '',
+      "text": ''
+    }
+}
