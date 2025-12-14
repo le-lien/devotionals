@@ -73,3 +73,5 @@ const DEVOTIONAL_SOURCES = [
     }
   }
 ];
+// Make data available to other pages (search.html, notes.html, etc.)
+window.DEVOTIONAL_SOURCES = DEVOTIONAL_SOURCES;

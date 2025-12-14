@@ -1037,7 +1037,9 @@ if (startVoiceBtn) {
           voicePreview.src = URL.createObjectURL(blob);
           voicePreview.hidden = false;
         }
-        if (voiceStatus) voiceStatus.textContent = "Recorded ✓";
+        
+        if (voiceStatus) {voiceStatus.textContent = "Recorded ✓";} else
+        {voiceStatus.textContent = "";}
         
           // ✅ show custom player preview
          if (voicePreviewPlayer) {
