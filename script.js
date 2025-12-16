@@ -967,6 +967,89 @@ if (exportBtn) {
 }
 
 
+// --- MERGE helpers ---
+
+function ensureObj(x) {
+  return x && typeof x === "object" ? x : {};
+}
+
+// Merge notesState/highlightState shape: { [sourceId]: { [dateKey]: value } }
+function mergeNestedMaps(target, incoming) {
+  const t = ensureObj(target);
+  const inc = ensureObj(incoming);
+
+  for (const sourceId of Object.keys(inc)) {
+    if (!t[sourceId] || typeof t[sourceId] !== "object") t[sourceId] = {};
+    const perDate = ensureObj(inc[sourceId]);
+
+    for (const dateKey of Object.keys(perDate)) {
+      const val = perDate[dateKey];
+
+      // Keep existing if incoming is empty/undefined; otherwise overwrite
+      if (val === undefined || val === null) continue;
+
+      if (typeof val === "string") {
+        if (val.trim() === "" && (t[sourceId][dateKey] || "").trim() !== "") continue;
+      }
+
+      t[sourceId][dateKey] = val;
+    }
+  }
+  return t;
+}
+
+// Merge annotationsState shape: { [sourceId]: { [dateKey]: [ {id,...} ] } }
+function mergeAnnotations(target, incoming) {
+  const t = ensureObj(target);
+  const inc = ensureObj(incoming);
+
+  for (const sourceId of Object.keys(inc)) {
+    if (!t[sourceId] || typeof t[sourceId] !== "object") t[sourceId] = {};
+    const incPerDate = ensureObj(inc[sourceId]);
+
+    for (const dateKey of Object.keys(incPerDate)) {
+      const incList = Array.isArray(incPerDate[dateKey]) ? incPerDate[dateKey] : [];
+      const curList = Array.isArray(t[sourceId][dateKey]) ? t[sourceId][dateKey] : [];
+
+      // index existing by id (fallback to quote+createdAt if id missing)
+      const map = new Map();
+      curList.forEach((a) => {
+        const key = a?.id || `${a?.quote || ""}__${a?.createdAt || ""}`;
+        map.set(key, a);
+      });
+
+      incList.forEach((a) => {
+        const key = a?.id || `${a?.quote || ""}__${a?.createdAt || ""}`;
+        const existing = map.get(key);
+
+        if (!existing) {
+          map.set(key, a);
+          return;
+        }
+
+        // conflict: keep the newer one by createdAt if available
+        const tTime = new Date(existing.createdAt || 0).getTime();
+        const iTime = new Date(a.createdAt || 0).getTime();
+
+        // Prefer incoming if it has a comment/voice and existing doesn't,
+        // or if it's newer
+        const incomingBetter =
+          (iTime > tTime) ||
+          ((!existing.comment || existing.comment.trim() === "") && (a.comment || "").trim() !== "") ||
+          (!existing.voiceKey && !!a.voiceKey);
+
+        if (incomingBetter) map.set(key, a);
+      });
+
+      t[sourceId][dateKey] = Array.from(map.values());
+    }
+  }
+
+  return t;
+}
+
+// --- IMPORT with MERGE (including voice memos) ---
+
 if (importInput) {
   importInput.addEventListener("change", async (e) => {
     const file = e.target.files?.[0];
@@ -976,29 +1059,42 @@ if (importInput) {
       const text = await file.text();
       const payload = JSON.parse(text);
 
+      // ✅ Merge notes
+      if (payload.notesState) {
+        notesState = mergeNestedMaps(notesState, payload.notesState);
+        saveJSON(NOTE_STORAGE_KEY, notesState);
+      }
 
-
-    if (payload.annotationsState) {
-      annotationsState = payload.annotationsState;
-     saveJSON(ANNOTATION_STORAGE_KEY, annotationsState);
-    }
-
+      // ✅ Merge highlights
       if (payload.highlightState) {
-        highlightState = payload.highlightState;
+        highlightState = mergeNestedMaps(highlightState, payload.highlightState);
         saveJSON(HIGHLIGHT_STORAGE_KEY, highlightState);
       }
 
-      // Restore voice memos
-      if (payload.voiceMemos) {
-        for (const key in payload.voiceMemos) {
-          const { base64, type } = payload.voiceMemos[key];
-          const blob = base64ToBlob(base64, type);
+      // ✅ Merge annotations (dedupe by id)
+      if (payload.annotationsState) {
+        annotationsState = mergeAnnotations(annotationsState, payload.annotationsState);
+        saveJSON(ANNOTATION_STORAGE_KEY, annotationsState);
+      }
+
+      // ✅ Merge voice memos into IndexedDB (do NOT delete existing)
+      // payload.voiceMemos: { [voiceKey]: { base64, type } }
+      if (payload.voiceMemos && typeof payload.voiceMemos === "object") {
+        for (const key of Object.keys(payload.voiceMemos)) {
+          const item = payload.voiceMemos[key];
+          if (!item?.base64) continue;
+
+          // If already exists, skip (don’t overwrite)
+          const existing = await loadVoiceMemo(key);
+          if (existing) continue;
+
+          const blob = base64ToBlob(item.base64, item.type || "audio/webm");
           await saveVoiceMemo(key, blob);
         }
       }
 
       render();
-      alert("Import complete (including voice memos)!");
+      alert("Import complete (merged with existing data).");
     } catch (err) {
       console.error(err);
       alert("Import failed. Please check the JSON file.");
