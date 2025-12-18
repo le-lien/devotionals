@@ -91,11 +91,12 @@ convert_dp_devotions_to_js_files <- function(
       next
     }
     
-    prayer_line   <- nonempty[L - 4]
-    passage_line  <- nonempty[L - 3]
+    prayer_id   <- which(grepl("^Thank You, Lord",nonempty)|grepl("Amen.$",nonempty))
+    prayer_line <- paste(nonempty[prayer_id], collapse = "\n")
+    passage_line  <-  nonempty[max(prayer_id)+1]
     
     if ((L - 5) >= 4) {
-      body_lines <- nonempty[4:(L - 5)]
+      body_lines <- nonempty[4:(min(prayer_id)-1)]
     } else {
       body_lines <- character(0)
     }
