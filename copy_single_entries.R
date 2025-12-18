@@ -32,7 +32,7 @@ for (file in c("tripp","wigglesworth","derekprince","chambers","lucado1","lucado
 
 # list all dates in a given year as "mm-dd"
 list_dates_mm_dd <- function(year) {
-  start <- as.Date(paste0(year, "-12-21"))
+  start <- as.Date(paste0(year, "-12-22"))
   end   <- as.Date(paste0(year, "-12-30"))
   
   dates <- seq.Date(start, end, by = "day")

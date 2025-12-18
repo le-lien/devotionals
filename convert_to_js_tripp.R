@@ -87,6 +87,7 @@ convert_tripp_to_js_files <- function(
     # Escape for JS
     passage_js <- escape_js_single(passage_line)
     body_js    <- escape_js_single(body_text)
+    verse_js <- escape_js_single(paste(block_trim[nonempty_idx[2]],collapse = "\n"))
     
     # Build JS for this date
     js_lines <- c(
@@ -96,7 +97,7 @@ convert_tripp_to_js_files <- function(
       paste0('    "passage": \'', passage_js, '\','),
       '    "dailyVerse": {',
       '      "ref": \'\',',
-      '      "text": \'\'',
+      paste0('      "text": \'', verse_js, '\''),
       '    },',
       paste0('    "body": \'', body_js, '\','),
       '    "dailyPrayer": {',
