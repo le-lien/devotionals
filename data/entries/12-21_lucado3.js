@@ -1,5 +1,5 @@
   "12-21": {
-    "title": 'No Price Is Too High,
+    "title": 'No Price Is Too High',
     "note": '',
     "passage": '',
     "dailyVerse": {

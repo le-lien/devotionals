@@ -1,0 +1,20 @@
+"12-01": {
+        "title": 'Do Not Believe Every Spirit',
+        "note": '',
+        "passage": 'Scripture reading: 2 Peter 2',
+        "dailyVerse": {
+          "ref": 'Romans 12:21',
+          "text": 'Do not be overcome by evil, but overcome evil with good.'
+        },
+        "body": 'You need the Word of God in your hearts so that you might be able to overcome the world. We can so live in this divine communion with Christ that we can sense evil in any part of the world. In this present world, powers of evil are rampant. The plan of God is that we might be so in Him that we will be equal to any occasion.\n\n“Beloved”  (1 John 4:1). That is a good word. It means that we are now in a place where God has set His love upon us. He wants us to listen to what He has to say to us because when His beloved are hearing His voice, then they understand what He has for them.\n\nGod is dealing with us as sons; He calls us “beloved.”  We are in the truth, but we want to know the truth in a way that will keep us free. (See John 8:32.) I want to help the people who have been so troubled with voices and with things that have happened that they have felt they had no control over them. And I want to help those who are bound in many ways and have been trying in every way to get free.\n\nThe fourth chapter of 1 John tells us specifically how to deal with evil powers, with evil voices. It tells us how we may be able to dethrone them and be in a place where we are over them. It shows us how we may live in the world not subject to fear, not subject to bondage, not subject to pain, but in a place where we are defeating evil powers, ruling over them, reigning in the world by this life of Christ. In this way, we will be from above, and we will know it. We will not be subject to the world, but we will reign over the world so that disease, sin, and death will not have dominion.\n\nA keynote that runs through the entire Scriptures is that Jesus has vanquished and overcome all of the powers of the Devil and has destroyed his power, even the power of death. Whether we are going to believe it or not, this is for us. God sends out the challenge, and He says, "If you believe it, it will be so."\n\nWhat will hinder us? Our human nature will. God‘s work in us will be hindered when the human will is not wholly surrendered, when there is some mixture, part spirit and part flesh, when there is a division in your own heart.\n\nIn a house where there are two children, one may desire to obey his father and mother, and he is loved and is very well treated. The other is loved just the same, but the difficulty is this: the wayward boy who wants his own way does many things to grieve his parents, and he gets the whip. They are both children in the house; one is getting the whip, the other is getting the blessing without the whip.\n\nAny number of God‘s children are getting the whip who know better than they are doing. So I want you to wake up to do what you know ought to be done. Sin is never covered by your appearance, your presence, your prayers, or your tears. Sin can only be removed by repentance. When you repent deeply enough, you will find that the thing goes away forever. Never cover up sin. Sins must be judged. Sins must be brought to the blood of Christ. When you have a perfect confidence between you and God, it is amazing how your prayers rise. You catch fire, you are filled with zeal, your inspiration is tremendous, you find out that the Spirit prays through you, and you live in a place of blessing.',
+        "dailyPrayer": {
+          "title": 'Thought for today',
+          "text": 'The man who lives in God is afraid of nothing.'
+        }
+      }
+ 
+
+ 
+
+ 
+

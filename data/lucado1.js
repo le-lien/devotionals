@@ -363,7 +363,7 @@
       "ref": 'JAMES 4:6',
       "text": 'God is against the proud, but he gives grace to the humble.'
     },
-    "body": 'A small cathedral outside Bethlehem marks the supposed birthplace of Jesus. Behind a high altar in the church is a cave, a little cavern lit by silver lamps.\nYou can enter the main edifice and admire the ancient church. You can also enter the quiet cave where a star embedded in the floor recognizes the birth of the King. There is one stipulation, however. You have to stoop. The door is so low you can’t go in standing up.\nThe same is true of the Christ. You can see the world standing tall, but to witness the Savior, you have to get [down] on your knees. ',
+    "body": 'A small cathedral outside Bethlehem marks the supposed birthplace of Jesus. Behind a high altar in the church is a cave, a little cavern lit by silver lamps.\nYou can enter the main edifice and admire the ancient church. You can also enter the quiet cave where a star embedded in the floor recognizes the birth of the King. There is one stipulation, however. You have to stoop. The door is so low you can’t go in standing up.\nThe same is true of the Christ. You can see the world standing tall, but to witness the Savior, you have to get [down] on your knees.',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -378,7 +378,7 @@
       "ref": 'JAMES 1:17',
       "text": 'Every good action and every perfect gift is from God. These good gifts come down from the Creator of the sun, moon, and stars, who does not change like their shifting shadows.'
     },
-    "body": 'The conclusion is unavoidable: self-salvation simply does not work.\nMan has no way to save himself.\nBut Paul announces that God has a way. Where man fails God excels.\nSalvation comes from heaven downward, not earth upward. “Every good action and every perfect gift is from God” (James 1:17).\nPlease note: Salvation is God-given, God-driven, God-empowered, and God-originated. The gift is not from man to God. It is from God to man. ',
+    "body": 'The conclusion is unavoidable: self-salvation simply does not work. Man has no way to save himself.\nBut Paul announces that God has a way. Where man fails God excels.\nSalvation comes from heaven downward, not earth upward. “Every good action and every perfect gift is from God” (James 1:17).\nPlease note: Salvation is God-given, God-driven, God-empowered, and God-originated. The gift is not from man to God. It is from God to man. ',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -393,7 +393,7 @@
       "ref": 'LUKE 2:11',
       "text": 'Today your Savior was born in the town of David. He is Christ, the Lord.'
     },
-    "body": 'An ordinary night with ordinary sheep and ordinary shepherds. And were it not for a God who loves to hook an “extra” on the front of the ordinary, the night would have gone unnoticed. The sheep would have been forgotten, and the shepherds would have slept the night away.\nBut God dances amidst the common. And that night he did a waltz.\nThe black sky exploded with brightness. Trees that had been shadows jumped into clarity. Sheep that had been silent became a chorus of curiosity.\nOne minute the shepherd was dead asleep, the next he was rubbing his eyes and staring into the face of an alien.\nThe night was ordinary no more.\nThe angel came in the night because that is when lights are best seen and that is when they are most needed. God comes into the common for the same reason. His most powerful tools are the simplest. ',
+    "body": 'An ordinary night with ordinary sheep and ordinary shepherds. And were it not for a God who loves to hook an “extra” on the front of the ordinary, the night would have gone unnoticed. The sheep would have been forgotten, and the shepherds would have slept the night away.\nBut God dances amidst the common. And that night he did a waltz.\nThe black sky exploded with brightness. Trees that had been shadows jumped into clarity. Sheep that had been silent became a chorus of curiosity. One minute the shepherd was dead asleep, the next he was rubbing his eyes and staring into the face of an alien.\nThe night was ordinary no more.\nThe angel came in the night because that is when lights are best seen and that is when they are most needed. God comes into the common for the same reason. His most powerful tools are the simplest.',
     "dailyPrayer": {
       "title": '',
       "text": ''

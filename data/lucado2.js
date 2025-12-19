@@ -352,7 +352,7 @@
       "ref": 'MATTHEW 6:34 MSG',
       "text": 'God will help you deal with whatever hard things come up when the time comes.'
     },
-    "body": 'That last phrase is worthy of your highlighter: “when the time comes.”\n“I don’t know what I’ll do if my husband dies.” You will, when the time comes.\n“When my children leave the house, I don’t think I can take it.” It won’t be easy, but strength will arrive when the time comes.\n“I could never lead a church. There is too much I don’t know.” You may be right. Or you may be wanting to know everything too soon. Could it be that God will reveal answers to you when the time comes?\nThe key is this: Meet today’s problems with today’s strength. Don’t start tackling tomorrow’s problems until tomorrow. You do not have tomorrow’s strength yet. You simply have enough for today. ',
+    "body": 'That last phrase is worthy of your highlighter: “when the time comes.”\n“I don’t know what I’ll do if my husband dies.” You will, <i>when the time comes.</i>\n“When my children leave the house, I don’t think I can take it.” It won’t be easy, but strength will arrive <i>when the time comes.</i>\n“I could never lead a church. There is too much I don’t know.” You may be right. Or you may be wanting to know everything too soon. Could it be that God will reveal answers to you <i>when the time comes.</i>?\nThe key is this: Meet today’s problems with today’s strength. Don’t start tackling tomorrow’s problems until tomorrow. You do not have tomorrow’s strength yet. You simply have enough for today. ',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -367,7 +367,7 @@
       "ref": 'PSALM 139:13 NIV',
       "text": 'You knit me together in my mother’s womb.'
     },
-    "body": '“Knitted together” is how the psalmist described the process of God making man. Not manufactured or mass-produced, but knitted. Each thread of personality tenderly intertwined. Each string of temperament deliberately selected.\nGod as creator. Pensive. Excited. Inventive.\nAn artist, brush on pallet, seeking the perfect shade.\nA composer, fingers on keyboard, listening for the exact chord.\nA poet, pen poised on paper, awaiting the precise word.\nThe Creator, the master weaver, threading together the soul.\nEach one different. No two alike. None identical. ',
+    "body": '“Knitted together” is how the psalmist described the process of God making man. Not manufactured or mass-produced, but knitted. Each thread of personality tenderly intertwined. Each string of temperament deliberately selected.\nGod as creator. Pensive. Excited. Inventive.\nAn artist, brush on pallet, seeking the perfect shade.\nA composer, fingers on keyboard, listening for the exact chord.\nA poet, pen poised on paper, awaiting the precise word.\nThe Creator, the master weaver, threading together the soul.\nEach one different. No two alike. None identical.',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -382,7 +382,7 @@
       "ref": '1 CORINTHIANS 12:7 NLT',
       "text": 'A spiritual gift is given to each of us as a means of helping the entire church.'
     },
-    "body": 'When you place your trust in Christ, he places his Spirit in you. And when the Spirit comes, he brings gifts, housewarming gifts of sorts. “A spiritual gift is given to each of us as a means of helping the entire church”\n(1 Cor. 12:7 NLT). Remember, God prepacked you with strengths. When you become a child of God, the Holy Spirit requisitions your abilities for the expansion of God’s kingdom, and they become spiritual gifts. The Holy Spirit may add other gifts according to his plan. But no one is gift deprived.\nLonely? God is with you.\nDepleted? He funds the overdrawn.\nWeary of an ordinary existence? Your spiritual adventure awaits.\nThe cure for the common life begins and ends with God. ',
+    "body": 'When you place your trust in Christ, he places his Spirit in you. And when the Spirit comes, he brings gifts, housewarming gifts of sorts. “A spiritual gift is given to each of us as a means of helping the entire church” (1 Cor. 12:7 NLT). Remember, God prepacked you with strengths. When you become a child of God, the Holy Spirit requisitions your abilities for the expansion of God’s kingdom, and they become spiritual gifts. The Holy Spirit may add other gifts according to his plan. But no one is gift deprived.\nLonely? God is with you.\nDepleted? He funds the overdrawn.\nWeary of an ordinary existence? Your spiritual adventure awaits.\nThe cure for the common life begins and ends with God. ',
     "dailyPrayer": {
       "title": '',
       "text": ''

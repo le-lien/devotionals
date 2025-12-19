@@ -342,7 +342,7 @@
       "ref": '1 John 5:14 NLT',
       "text": 'And we are confident that he hears us whenever we ask for anything that pleases him.'
     },
-    "body": 'If you believe, you will get anything you ask for in prayer” (Matthew 21:22\nNCV).\nDon’t reduce this grand statement to the category of a new Xbox or new guitar, a bigger room or better clothes, more pizza or more popularity. Don’t limit the promise of this passage to the selfish pool of perks and favors. The fruit God assures is far greater than earthly wealth. His dreams are much more ambitious than temporary pleasures and possessions.\nGod wants you to fly. He wants you to fly free of yesterday’s guilt. He wants you to fly free of today’s fears. He wants you to fly free of tomorrow’s grave. Sin, fear, and death. These are the mountains he has moved. These are the prayers he will answer. That is the fruit he will grant when you ask for what pleases him. This is what he longs to do. ',
+    "body": 'If you believe, you will get anything you ask for in prayer” (Matthew 21:22 NCV).\nDon’t reduce this grand statement to the category of a new Xbox or new guitar, a bigger room or better clothes, more pizza or more popularity. Don’t limit the promise of this passage to the selfish pool of perks and favors. The fruit God assures is far greater than earthly wealth. His dreams are much more ambitious than temporary pleasures and possessions.\nGod wants you to fly. He wants you to fly free of yesterday’s guilt. He wants you to fly free of today’s fears. He wants you to fly free of tomorrow’s grave. Sin, fear, and death. These are the mountains he has moved. These are the prayers he will answer. That is the fruit he will grant when you ask for what pleases him. This is what he longs to do.',
     "dailyPrayer": {
       "title": 'ONE MORE THOUGHT',
       "text": 'Read the words of 1 John 5:14–15 near the end of your Bible. It seems that when we are close enough to God to understand what he desires and we ask for it in prayer, we can be sure it’s ours. That’s exciting! It should make us want to pray every chance we get.'
@@ -357,7 +357,7 @@
       "ref": 'Exodus 3:14 NCV',
       "text": '“When you go to the people of Israel, tell them, ‘I AM sent me to you.’”'
     },
-    "body": 'Do you know anyone who goes around saying, “I am”? Neither do I. When we say “I am,” we always add another word. “I am happy.” “I am sad.” “I am strong.” “I am Max.” God, however, starkly states, “I AM” and adds nothing else.\n“You are what?” we want to ask. “I AM,” he replies. God needs no descriptive word because he never changes. God is what he is. He is what he has always been. His unalterable nature motivated the psalmist to declare,\n“But thou art the same” (Psalm 102:27 KJV). The writer is saying, “You are the One who is. You never change.”\nThere’s so much you have to adjust to in life. It seems that everything changes. New classes each term. New friends when old ones ignore you. New feelings as your body develops. New rules as you grow older. Isn’t it good to know you can count on something permanent? Yahweh is an unchanging God. ',
+    "body": 'Do you know anyone who goes around saying, “I am”? Neither do I. When we say “I am,” we always add another word. “I am <i>happy</i>.” “I am <i>sad</i>.” “I am <i>strong</i>.” “I am <i>Max</i>.” God, however, starkly states, “I AM” and adds nothing else.\n“You are what?” we want to ask. “I AM,” he replies. God needs no descriptive word because he never changes. God is what he is. He is what he has always been. His unalterable nature motivated the psalmist to declare, “But thou art the same” (Psalm 102:27 KJV). The writer is saying, “You are the One who is. You never change.”\nThere’s so much you have to adjust to in life. It seems that everything changes. New classes each term. New friends when old ones ignore you. New feelings as your body develops. New rules as you grow older. Isn’t it good to know you can count on something permanent? Yahweh is an unchanging God. ',
     "dailyPrayer": {
       "title": 'ONE MORE THOUGHT',
       "text": 'Everything starts somewhere, right? All things must have a beginning. All, that is, except God. He was, is, and always will be. His unchanging nature and love is one of the great mysteries of the universe and great gifts of our lives.'
@@ -365,14 +365,14 @@
 }
 ,
   "12-21": {
-    "title": '[ Luke 15:32 NCV ]',
+    "title": 'No Price Is Too High',
     "note": '',
     "passage": '',
     "dailyVerse": {
-      "ref": 'was lost, but now he is found.”',
-      "text": '“We had to celebrate and be happy because your brother …'
+      "ref": 'Luke 15:32 NCV',
+      "text": 'We had to celebrate and be happy because your brother ... was lost, but now he is found.'
     },
-    "body": 'When our oldest daughter, Jenna, was two, I lost her in a department store.\nOne minute she was at my side, and the next she was gone. I panicked.\nAll of a sudden only one thing mattered—I had to find my daughter.\nShopping was forgotten. The list of things I came to get was unimportant. I yelled her name. What people thought didn’t matter. For a few minutes, every ounce of energy had one goal—to find my lost child. (I did, by the way. She was hiding behind some jackets!)\nNo price is too high for a parent to pay to redeem his child. No energy is too great. No effort too demanding. A parent will go to any length to find his or her own.\nSo will God.\nMark it down. God’s greatest creation is not the flung stars or the gorged canyons; it’s his eternal plan to reach his children. ',
+    "body": 'When our oldest daughter, Jenna, was two, I lost her in a department store. One minute she was at my side, and the next she was gone. I panicked. All of a sudden only one thing mattered—I had to find my daughter. Shopping was forgotten. The list of things I came to get was unimportant. I yelled her name. What people thought didn’t matter. For a few minutes, every ounce of energy had one goal—to find my lost child. (I did, by the way. She was hiding behind some jackets!)\nNo price is too high for a parent to pay to redeem his child. No energy is too great. No effort too demanding. A parent will go to any length to find his or her own.\nSo will God.\nMark it down. God’s greatest creation is not the flung stars or the gorged canyons; it’s his eternal plan to reach his children.',
     "dailyPrayer": {
       "title": 'ONE MORE THOUGHT',
       "text": 'Imagine suddenly losing track of your little brother or sister or favorite pet. In an instant, you have to face the idea that you might never again see this person or pet you love. You would do almost anything to get him or her back, right? That’s a glimpse of how God feels about you.'
