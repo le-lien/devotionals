@@ -1,6 +1,6 @@
   "12-20": {
     "title": 'A Perfect Fit',
-    "note": 'There are diversities of gifts, but the same Spirit.',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/ROM.12.NKJV?parallel=151">Romans 12:3–13</a>',
     "dailyVerse": {
       "ref": '1 Corinthians 12:4',

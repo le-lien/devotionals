@@ -73,9 +73,10 @@ convert_tripp_to_js_files <- function(
     # Last non-empty line = passage
     idx_passage   <- tail(rest_idx, 1)
     passage_line  <- block_trim[idx_passage]
+    idx_verse <- nonempty_idx[2]
     
     # Body = everything after date up to (but excluding) passage
-    body_idx <- rest_idx[rest_idx != idx_passage]
+    body_idx <- rest_idx[rest_idx != idx_passage&rest_idx != idx_verse]
     if (!length(body_idx)) {
       body_text <- ""
     } else {
@@ -87,7 +88,7 @@ convert_tripp_to_js_files <- function(
     # Escape for JS
     passage_js <- escape_js_single(passage_line)
     body_js    <- escape_js_single(body_text)
-    verse_js <- escape_js_single(paste(block_trim[nonempty_idx[2]],collapse = "\n"))
+    verse_js <- escape_js_single(paste(block_trim[idx_verse],collapse = "\n"))
     
     # Build JS for this date
     js_lines <- c(

@@ -1,6 +1,6 @@
   "12-13": {
     "title": 'A Perfect Way',
-    "note": 'Though I speak with the tongues of men and of angels, but have not love, I have become sounding brass or a clanging cymbal.',
+    "note": '',
     "passage": 'Scripture reading: 1 Corinthians 13',
     "dailyVerse": {
       "ref": '1 Corinthians 13:1',

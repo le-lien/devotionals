@@ -1,6 +1,6 @@
   "11-28": {
     "title": 'Misled by a Voice',
-    "note": 'Part Two',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/ISA.26.NKJV?parallel=151">Isaiah 26:1–15</a>',
     "dailyVerse": {
       "ref": '1 John 4:1',

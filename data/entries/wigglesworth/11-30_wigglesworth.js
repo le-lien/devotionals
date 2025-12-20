@@ -1,6 +1,6 @@
   "11-30": {
     "title": 'Misled by a Voice',
-    "note": 'Part Four',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/MAT.4.NKJV?parallel=151">Matthew 4:1–11</a>',
     "dailyVerse": {
       "ref": '1 John 4:1',

@@ -1,6 +1,6 @@
   "12-18": {
     "title": 'The Precious Word',
-    "note": 'Even so you, since you are zealous for spiritual gifts, let it be for the edification of the church that you seek to excel.',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/LUK.8.NKJV?parallel=151">Luke 8:4–18</a>',
     "dailyVerse": {
       "ref": '1 Corinthians 14:12',

@@ -1,0 +1,15 @@
+"07-29": {
+  "title": 'WHAT DO YOU SEE IN YOUR CLOUDS?',
+  "note": '',
+  "passage": '',
+  "dailyVerse": {
+    "ref": 'Revelation 1:7',
+    "text": '“Behold, He cometh with clouds.”'
+  },
+  "body": 'In the Bible clouds are always connected with God. Clouds are those sorrows or sufferings or providences, within or without our personal lives, which seem to dispute the rule of God. It is by those very clouds that the Spirit of God is teaching us how to walk by faith. If there were no clouds, we should have no faith. “The clouds are but the dust of our Father’s feet.” The clouds are a sign that He is there.\nWhat a revelation it is to know that sorrow and bereavement and suffering are the clouds that come along with God! God cannot come near without clouds, He does not come in clear shining.\nIt is not true to say that God wants to teach us something in our trials: through every cloud He brings, He wants us to unlearn something. His purpose in the cloud is to simplify our belief until our relationship to Him is exactly that of a child - God and my own soul, other people are shadows. Until other people become shadows, clouds and darkness will be mine every now and again. Is the relationship between myself and God getting simpler than ever it has been?\nThere is a connection between the strange providences of God and what we know of Him, and we have to learn to interpret the mysteries of life in the light of our knowledge of God. Unless we can\nlook the darkest, blackest fact full in the face without damaging God’s character, we do not yet know Him.\n“They feared as they entered the cloud …” - Is there anyone “save Jesus only” in your cloud? If so, it will get darker; you must get to the place where there is “no one any more save Jesus only.”',
+  "dailyPrayer": {
+    "title": '',
+    "text": ''
+  }
+}
+

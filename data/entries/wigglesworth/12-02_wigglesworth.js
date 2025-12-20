@@ -1,6 +1,6 @@
   "12-02": {
     "title": 'Mediums Hindered',
-    "note": 'He who is in you is greater than he who is in the world.',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/JHN.6.NKJV?parallel=151">John 6:47–58</a>',
     "dailyVerse": {
       "ref": '1 John 4:4',

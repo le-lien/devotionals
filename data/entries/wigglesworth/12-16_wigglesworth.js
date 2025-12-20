@@ -1,6 +1,6 @@
   "12-16": {
     "title": 'The Gifts',
-    "note": 'Now to Him who is able to keep you from stumbling, and to present you faultless before the presence of His glory with exceeding joy, to God our Savior, who alone is wise, be glory and majesty, dominion and power, both now and forever.',
+    "note": '',
     "passage": 'Scripture reading: Jude',
     "dailyVerse": {
       "ref": 'Jude 24–25',

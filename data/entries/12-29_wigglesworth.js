@@ -1,6 +1,6 @@
   "12-29": {
     "title": 'No Condemnation',
-    "note": 'There is…now no condemnation to those who are in Christ Jesus, who do not walk according to the flesh, but according to the Spirit.',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/ROM.8.NKJV?parallel=151">Romans 8:1–17</a>',
     "dailyVerse": {
       "ref": 'Romans 8:1',

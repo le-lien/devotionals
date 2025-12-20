@@ -1,6 +1,6 @@
   "12-06": {
     "title": 'A Ruined Life',
-    "note": 'Part Two',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/MRK.13.NKJV?parallel=151">Mark 13:21–37</a>',
     "dailyVerse": {
       "ref": 'Romans 12:3',

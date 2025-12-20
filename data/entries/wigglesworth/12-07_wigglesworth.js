@@ -1,6 +1,6 @@
   "12-07": {
     "title": 'Why Tongues?',
-    "note": 'Therefore tongues are for a sign, not to those who believe but to unbelievers.',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/1CO.14.NKJV?parallel=151">1 Corinthians 14:26–40</a>',
     "dailyVerse": {
       "ref": '1 Corinthians 14:22',

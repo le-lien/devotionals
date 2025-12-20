@@ -1,0 +1,15 @@
+"09-21": {
+  "title": 'MISSIONARY PREDESTINATIONS',
+  "note": '',
+  "passage": '',
+  "dailyVerse": {
+    "ref": 'Isaiah 49:5',
+    "text": '“And now, saith the Lord, that formed me from the womb to be His servant.”'
+  },
+  "body": 'The first thing that happens after we have realized our election to God in Christ Jesus is the destruction of our prejudices and our parochial notions and our patriotisms; we are turned into servants of God’s own purpose. The whole human race was created to glorify God and enjoy Him for ever. Sin has switched the human race on to another tack, but it has not altered God’s purpose in the tiniest degree; and when we are born again we are brought into the realization of God’s great purpose for the human race, viz., I am created for God, He made me. This realization of the election of God is the most joyful realization on earth, and we have to learn to rely on the tremendous creative purpose of God. The first thing God will do with us is to “force through the channels of a single heart” the interests of the whole world. The love of God, the very nature of God, is introduced into us, and the nature of Almighty God is focused in John 3:16 - “God so loved the world…”\nWe have to maintain our soul open to the fact of God’s creative purpose, and not muddle it with our own intentions. If we do, God will have to crush our intentions on one side however much it may hurt. The purpose for which the missionary is created is that he may be God’s servant, one in whom God is glorified. When once we realize that through the salvation of Jesus Christ we are made perfectly fit for God, we shall understand why Jesus Christ is so ruthless in His demands. He demands absolute rectitude from His\nservants, because He has put into them the very nature of God.\nBeware lest you forget God’s purpose for your life.',
+  "dailyPrayer": {
+    "title": '',
+    "text": ''
+  }
+}
+

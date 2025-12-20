@@ -1,6 +1,6 @@
   "12-26": {
     "title": 'Waiting for the Bridegroom',
-    "note": 'Behold, the bridegroom is coming; go out to meet him!',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/MAT.25.NKJV?parallel=151">Matthew 25:1–13</a>',
     "dailyVerse": {
       "ref": 'Matthew 25:6',

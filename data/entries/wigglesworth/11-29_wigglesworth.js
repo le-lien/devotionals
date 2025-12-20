@@ -1,6 +1,6 @@
   "11-29": {
     "title": 'Misled by a Voice',
-    "note": 'Part Three',
+    "note": '',
     "passage": 'Scripture reading: Psalm 115',
     "dailyVerse": {
       "ref": '1 John 4:1',

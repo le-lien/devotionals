@@ -1,6 +1,6 @@
   "12-27": {
     "title": 'Our Helper',
-    "note": 'No one can say that Jesus is Lord except by the Holy Spirit.',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/JHN.14.NKJV?parallel=151">John 14:16–31</a>',
     "dailyVerse": {
       "ref": '1 Corinthians 12:3',

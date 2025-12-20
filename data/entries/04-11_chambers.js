@@ -1,0 +1,15 @@
+"04-11": {
+  "title": 'MORAL DIVINITY',
+  "note": '',
+  "passage": '',
+  "dailyVerse": {
+    "ref": 'Romans 6:5',
+    "text": '“For if we have been planted together in the likeness of His death, we shall be also in the likeness of His resurrection.”'
+  },
+  "body": 'Co-Resurrection.  The proof that I have been through crucifixion with Jesus is that I have a decided likeness to Him. The incoming of the Spirit of Jesus into me readjusts my personal life to God. The resurrection of Jesus has given Him authority to impart the life of God to me, and my experimental life must be constructed on the basis of His life. I can have the resurrection life of Jesus now, and it will show itself in holiness.\nThe idea all through the apostle Paul’s writings is that after the moral decision to be identified with Jesus in His death has been made, the resurrection life of Jesus invades every bit of my human nature. It takes omnipotence to live the life of the Son of God in mortal flesh.\nThe Holy Spirit cannot be located as a Guest in a house, He invades everything. When once I decide that my “old man” (i.e., the heredity of sin) should be identified with the death of Jesus, then the Holy Spirit invades me. He takes charge of everything, my part is to walk in the light and to obey all that He reveals. When I have made the moral decision about sin, it is easy to reckon actually that I am dead unto sin, because I find the life of Jesus there all the time. Just as there is only one stamp of humanity, so there is only one stamp of holiness, the holiness of Jesus, and it is His holiness that is gifted to me. God puts the holiness of His Son into me, and I belong to a new order spiritually.',
+  "dailyPrayer": {
+    "title": '',
+    "text": ''
+  }
+}
+

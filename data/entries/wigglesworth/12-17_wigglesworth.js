@@ -1,6 +1,6 @@
   "12-17": {
     "title": 'Abide in Christ',
-    "note": 'I am the vine, you are the branches. He who abides in Me, and I in him, bears much fruit; for without Me you can do nothing.',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/JHN.15.NKJV?parallel=151">John 15:1–17</a>',
     "dailyVerse": {
       "ref": 'John 15:5',

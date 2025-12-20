@@ -1,6 +1,6 @@
   "12-14": {
     "title": 'Prophecy and Goodness',
-    "note": 'And though I have the gift of prophecy, and understand all mysteries and all knowledge, and though I have all faith, so that I could remove mountains, but have not love, I am nothing.',
+    "note": '',
     "passage": 'Scripture reading: Psalm 31',
     "dailyVerse": {
       "ref": '1 Corinthians 13:2',

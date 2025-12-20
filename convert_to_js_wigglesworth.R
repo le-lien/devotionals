@@ -251,7 +251,7 @@ convert_wigglesworth_devotions_to_js_files <- function(
 
       paste0('  "', key, '": {'),
       paste0('    "title": \'',   title_js,       '\','),
-      paste0('    "note": \'',    note_js,        '\','),
+      paste0('    "note": \'\','),
       paste0('    "passage": \'', passage_js,     '\','),
       '    "dailyVerse": {',
       paste0('      "ref": \'',   verse_ref_js,   '\','),

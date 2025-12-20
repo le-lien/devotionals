@@ -1,6 +1,6 @@
   "12-04": {
     "title": 'How to Test the Spirits',
-    "note": 'You are strong, and the word of God abides in you, and you have overcome the wicked one.',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/1JN.2.NKJV?parallel=151">1 John 2:14–29</a>',
     "dailyVerse": {
       "ref": '1 John 2:14',

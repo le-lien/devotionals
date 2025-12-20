@@ -1,6 +1,6 @@
   "12-10": {
     "title": 'A Prophet out of God’s Will',
-    "note": 'Therefore let him who thinks he stands take heed lest he fall.',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/PHP.3.NKJV?parallel=151">Philippians 3:3–21</a>',
     "dailyVerse": {
       "ref": '1 Corinthians 10:12',

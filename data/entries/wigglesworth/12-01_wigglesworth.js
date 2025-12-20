@@ -1,6 +1,6 @@
   "12-01": {
     "title": 'Do Not Believe Every Spirit',
-    "note": 'Do not be overcome by evil, but overcome evil with good.',
+    "note": '',
     "passage": 'Scripture reading: 2 Peter 2',
     "dailyVerse": {
       "ref": 'Romans 12:21',

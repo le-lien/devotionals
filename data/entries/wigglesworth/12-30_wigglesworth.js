@@ -1,6 +1,6 @@
   "12-30": {
     "title": 'By Faith',
-    "note": 'By grace you have been saved through faith, and that not of yourselves; it is the gift of God.',
+    "note": '',
     "passage": 'Scripture reading: Hebrews 11',
     "dailyVerse": {
       "ref": 'Ephesians 2:8',

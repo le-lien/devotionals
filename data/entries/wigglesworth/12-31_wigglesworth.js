@@ -1,6 +1,6 @@
   "12-31": {
     "title": 'In Tune with God',
-    "note": 'Seek first the kingdom of God and His righteousness, and all these things shall be added to you.',
+    "note": '',
     "passage": 'Scripture reading: 2 Peter 1',
     "dailyVerse": {
       "ref": 'Matthew 6:33',

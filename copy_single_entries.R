@@ -26,13 +26,10 @@ convert_wigglesworth_devotions_to_js_files("data/entries/wigglesworth.txt","data
 
 # Call entries
 
-date <- "12-15"
-for (file in c("tripp","wigglesworth","derekprince","chambers","lucado1","lucado2","lucado3","lucado4")) {file.copy(paste0("data/entries/",file,"/",date,"_",file,".js"),paste0("data/entries/",date,"_",file,".js"),overwrite = F)}
-
 
 # list all dates in a given year as "mm-dd"
 list_dates_mm_dd <- function(year) {
-  start <- as.Date(paste0(year, "-12-22"))
+  start <- as.Date(paste0(year, "-12-23"))
   end   <- as.Date(paste0(year, "-12-30"))
   
   dates <- seq.Date(start, end, by = "day")
@@ -42,9 +39,19 @@ list_dates_mm_dd <- function(year) {
 # example: all dates in 2025
 all_2025_dates <- list_dates_mm_dd(2025)
 
-
+#### ALL BOOKS
 for(date in all_2025_dates){
   for (file in c("tripp","wigglesworth","derekprince","chambers","lucado1","lucado2","lucado3","lucado4")) {file.copy(paste0("data/entries/",file,"/",date,"_",file,".js"),paste0("data/entries/",date,"_",file,".js"),overwrite = F)}
 }
+
+### SINGLE BOOK
+book <- ""
+for(date in all_2025_dates){
+  for (file in book) {file.copy(paste0("data/entries/",file,"/",date,"_",file,".js"),paste0("data/entries/",date,"_",file,".js"),overwrite = T)}
+}
+
+### SINGLE DATE
+date <- "12-15"
+for (file in c("tripp","wigglesworth","derekprince","chambers","lucado1","lucado2","lucado3","lucado4")) {file.copy(paste0("data/entries/",file,"/",date,"_",file,".js"),paste0("data/entries/",date,"_",file,".js"),overwrite = F)}
 
 

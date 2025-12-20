@@ -1,6 +1,6 @@
   "12-08": {
     "title": 'Yield to the Holy Spirit',
-    "note": 'Part One',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/1CO.14.NKJV?parallel=151">1 Corinthians 14:1–25</a>',
     "dailyVerse": {
       "ref": '1 Corinthians 14:39–40',

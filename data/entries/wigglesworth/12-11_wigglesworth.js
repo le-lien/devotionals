@@ -1,6 +1,6 @@
   "12-11": {
     "title": 'A More Excellent Way',
-    "note": 'Let everything that has breath praise the LORD.',
+    "note": '',
     "passage": 'Scripture reading: Psalm 150',
     "dailyVerse": {
       "ref": 'Psalm 150:6',

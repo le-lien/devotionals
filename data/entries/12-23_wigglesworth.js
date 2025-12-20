@@ -1,6 +1,6 @@
   "12-23": {
     "title": 'Beyond Imagination',
-    "note": 'That Christ may dwell in your hearts through faith; that you, being rooted and grounded in love, may be able to comprehend with all the saints…the love of Christ which passes knowledge.',
+    "note": '',
     "passage": 'Scripture reading: Romans 8',
     "dailyVerse": {
       "ref": 'Ephesians 3:17–19',

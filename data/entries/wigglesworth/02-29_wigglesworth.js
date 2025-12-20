@@ -1,6 +1,6 @@
   "02-29": {
     "title": 'Is Anyone Sick?',
-    "note": 'They brought to Him many who were demon-possessed. And He cast out the spirits with a word, and healed all who were sick, that it might be fulfilled which was spoken by Isaiah the prophet, saying:',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/MAT.25.NKJV?parallel=151">Matthew 25:14–46</a>',
     "dailyVerse": {
       "ref": 'Matthew 8:16–17',

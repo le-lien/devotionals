@@ -1,6 +1,6 @@
   "12-21": {
     "title": 'Transformed by God',
-    "note": 'Behold, I will do a new thing.',
+    "note": '',
     "passage": 'Scripture reading: Titus 3',
     "dailyVerse": {
       "ref": 'Isaiah 43:19',

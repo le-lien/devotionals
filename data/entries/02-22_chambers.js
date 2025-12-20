@@ -1,0 +1,15 @@
+"02-22": {
+  "title": 'THE DISCIPLINE OF SPIRITUAL TENACITY',
+  "note": '',
+  "passage": '',
+  "dailyVerse": {
+    "ref": 'Psalm 46:10',
+    "text": '“Be still, and know that I am God.”'
+  },
+  "body": 'Tenacity is more than endurance, it is endurance combined with the absolute certainty that what we are looking for is going to transpire.\nTenacity is more than hanging on, which may be but the weakness of being too afraid to fall off. Tenacity is the supreme effort of a man refusing to believe that his hero is going to be conquered. The greatest fear a man has is not that he will be damned, but that Jesus Christ will be worsted, that the things He stood for - love and justice and forgiveness and kindness among men - will not win out in the end; the things He stands for look like will-o’-the-wisps. Then comes the call to spiritual tenacity, not to hang on and do nothing, but to work deliberately on the certainty that God is not going to be worsted.\nIf our hopes are being disappointed just now, it means that they are being purified. There is nothing noble the human mind has ever hoped for or dreamed of that will not be fulfilled. One of the greatest\nstrains in life is the strain of waiting for God. “Because thou hast kept the word of my patience.”\nRemain spiritually tenacious.',
+  "dailyPrayer": {
+    "title": '',
+    "text": ''
+  }
+}
+

@@ -1,6 +1,6 @@
   "12-22": {
     "title": 'Our Inheritance',
-    "note": 'His divine power has given to us all things that pertain to life and godliness, through the knowledge of Him who called us by glory and virtue.',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/MAT.21.NKJV?parallel=151">Matthew 21:33–44</a>',
     "dailyVerse": {
       "ref": '2 Peter 1:3',

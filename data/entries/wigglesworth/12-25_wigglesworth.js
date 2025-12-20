@@ -1,6 +1,6 @@
   "12-25": {
     "title": 'God Is Near',
-    "note": '“Behold, the virgin shall be with child, and bear a Son, and they shall call His name Immanuel,” which is translated, “God with us.”',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/MAT.1.NKJV?parallel=151">Matthew 1:18–25; Philippians 2:5–11</a>',
     "dailyVerse": {
       "ref": 'Matthew 1:23',

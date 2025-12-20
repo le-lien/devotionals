@@ -1,6 +1,6 @@
   "12-09": {
     "title": 'Yield to the Holy Spirit',
-    "note": 'Part Two',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/1TH.5.NKJV?parallel=151">I Thessalonians 5:11–24</a>',
     "dailyVerse": {
       "ref": '1 Corinthians 14:39–40',

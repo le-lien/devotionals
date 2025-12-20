@@ -1,6 +1,6 @@
   "11-27": {
     "title": 'Misled by a Voice',
-    "note": 'Part One',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/JDG.6.NKJV?parallel=151">Judges 6:36–7:22</a>',
     "dailyVerse": {
       "ref": '1 John 4:1',

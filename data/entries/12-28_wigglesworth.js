@@ -1,6 +1,6 @@
   "12-28": {
     "title": 'God Is All You Need',
-    "note": 'I take pleasure in infirmities, in reproaches, in needs, in persecutions, in distresses, for Christ‟ sake. For when I am weak, then I am strong.',
+    "note": '',
     "passage": 'Scripture reading: <a href="https://www.bible.com/bible/114/2CO.12.NKJV?parallel=151">2 Corinthians 12:1–10</a>',
     "dailyVerse": {
       "ref": '2 Corinthians 12:10',

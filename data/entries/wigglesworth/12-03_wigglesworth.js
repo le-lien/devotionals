@@ -1,6 +1,6 @@
   "12-03": {
     "title": 'Greater Is He Who Is in You',
-    "note": 'The LORD is my light and my salvation; whom shall I fear? The LORD is the strength of my life; of whom shall I be afraid?',
+    "note": '',
     "passage": 'Scripture reading: Psalm 27',
     "dailyVerse": {
       "ref": 'Psalm 27:1',

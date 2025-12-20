@@ -1,0 +1,15 @@
+"03-07": {
+  "title": 'UNDAUNTED RADIANCE',
+  "note": '',
+  "passage": '',
+  "dailyVerse": {
+    "ref": 'Romans 8:37',
+    "text": '“Nay, in all these things, we are more than conquerors through Him that loved us.”'
+  },
+  "body": 'Paul is speaking of the things that might seem likely to separate or wedge in between the saint and the love of God; but the remarkable thing is that nothing can wedge in between the love of God and the saint. These things can and do come in between the devotional exercises of the soul and God and separate individual life from God; but none of them is able to wedge in between the love of God and the soul of the saint. The bedrock of our Christian faith is the unmerited, fathomless marvel of the love of God exhibited on the Cross of Calvary, a love we never can and never shall merit. Paul says this is the reason we are more than conquerors in all these things, super-victors, with a joy we would not have but for the very\nthings which look as if they are going to overwhelm us.\nThe surf that distresses the ordinary swimmer produces in the surf-rider the super-joy of going clean through it. Apply that to our own circumstances, these very things - tribulation, distress, persecution, produce in us the super-joy; they are not things to fight. We are more than conquerors through Him in all these things, not in spite of them, but in the midst of them. The saint never knows the joy of the Lord in spite of tribulation, but because of it - “I am exceeding joyful in all our tribulation,” says Paul.\nUndaunted radiance is not built on anything passing, but on the love of God that nothing can alter. The experiences of life, terrible or monotonous, are impotent to touch the love of God, which is in Christ Jesus our Lord.',
+  "dailyPrayer": {
+    "title": '',
+    "text": ''
+  }
+}
+

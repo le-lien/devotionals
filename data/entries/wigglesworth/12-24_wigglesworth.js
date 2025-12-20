@@ -1,6 +1,6 @@
   "12-24": {
     "title": 'Abundant Blessings',
-    "note": 'When we were still without strength, in due time Christ died for the ungodly.',
+    "note": '',
     "passage": 'Scripture reading: Romans 5',
     "dailyVerse": {
       "ref": 'Romans 5:6',
