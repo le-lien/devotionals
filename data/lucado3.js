@@ -5365,7 +5365,7 @@
     "passage": '',
     "dailyVerse": {
       "ref": 'Isaiah 9:6 NCV',
-      "text": 'God has given a son to us… . His name will be Wonderful Counselor, Powerful God, … Prince of Peace.'
+      "text": 'God has given a son to us... His name will be Wonderful Counselor, Powerful God,... Prince of Peace.'
     },
     "body": 'Every Christmas I read this reminder from Roy Lessin that came in the mail several years ago:\n“If our greatest need had been information, God would have sent an educator. If our greatest need had been technology, God would have sent us a scientist. If our greatest need had been money, God would have sent us an economist. But since our greatest need was forgiveness, God sent us a Savior.”\nDo Christmas card messages strike you as corny? Maybe they are. Yet their simple phrases can cut through the chaos and capture the reason for the season. God knew what we needed. He became like us so that we could become like him. Angels still sing and the star still signals us to come closer.\nAnd he still loves each one of us like there was only one of us to love. ',
     "dailyPrayer": {
@@ -5380,7 +5380,7 @@
     "passage": '',
     "dailyVerse": {
       "ref": 'Revelation 3:20 NCV',
-      "text": '“Here I am! I stand at the door and knock.”'
+      "text": 'Here I am! I stand at the door and knock.'
     },
     "body": 'Some of the saddest words on earth are: “We don’t have room for you.”\nWhether it’s about a ride to the game or a place on the team, the words hurt.\nJesus knew the sound of those words. He was still in Mary’s womb when the innkeeper said, “We don’t have room for you.” And when he was hung on the cross, wasn’t the message one of utter rejection? “We don’t have room for you in this world.”\nEven today Jesus is given the same treatment. He goes from heart to heart, asking if he might enter. Every so often, he is welcomed. Someone throws open the door of his or her heart and invites him to stay. And to that person Jesus gives this great promise: “In My Father’s house are many rooms” (ESV).\nWhat a delightful promise he makes us! We make room for him in our hearts, and he makes room for us in his house. ',
     "dailyPrayer": {
