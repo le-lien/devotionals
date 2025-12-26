@@ -107,7 +107,8 @@ data_tmp <- str_replace_all(data_tmp,"LUCADO2ENTRIESGOHERE",lucado2_data)
 data_tmp <- str_replace_all(data_tmp,"LUCADO3ENTRIESGOHERE",lucado3_data)
 data_tmp <- str_replace_all(data_tmp,"LUCADO4ENTRIESGOHERE",lucado4_data)
 
-
+data_tmp <- gsub("\n\n","\n",data_tmp,fixed = T)
+data_tmp <- gsub("\n","\n\n",data_tmp,fixed = T)
 data_tmp <- gsub("\n","\\n",data_tmp,fixed = T)
 
 writeLines(stri_flatten(data_tmp),"data.js")
