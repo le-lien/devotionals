@@ -1,5 +1,14 @@
 const DEVOTIONAL_SOURCES = [
   {
+    "id": "lucado1",
+    "name": "Grace For The Moment Vol. 1",
+    "author": "Max Lucado",
+    "description": "Inspirational Thoughts For Each Day of the Year",
+    "entries": {
+    LUCADO1ENTRIESGOHERE
+    }
+  },
+  {
     "id": "tripp",
     "name": "New Morning Mercies",
     "author": "Paul David Tripp",
@@ -36,15 +45,7 @@ const DEVOTIONAL_SOURCES = [
     CHAMBERSENTRIESGOHERE
     }
   },
-  {
-    "id": "lucado1",
-    "name": "Grace For The Moment Vol. 1",
-    "author": "Max Lucado",
-    "description": "Inspirational Thoughts For Each Day of the Year",
-    "entries": {
-    LUCADO1ENTRIESGOHERE
-    }
-  },
+  
   {
     "id": "lucado2",
     "name": "Grace For The Moment Vol. 2",
