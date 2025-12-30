@@ -111,6 +111,7 @@ data_tmp <- gsub("\n\n","\n",data_tmp,fixed = T)
 data_tmp <- gsub("\n","\n\n",data_tmp,fixed = T)
 data_tmp <- gsub("\n","\\n",data_tmp,fixed = T)
 
-writeLines(stri_flatten(data_tmp),"data.js")
-
+writeLines(stri_flatten(data_tmp),"data_tmp.js")
+source("add_link.R")
+add_bible_links_file("data_tmp.js")
 

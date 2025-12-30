@@ -47,7 +47,7 @@ const dictPopupBody = document.getElementById("dictPopupBody");
 
 
 if (yearSpan) {
-  yearSpan.textContent = new Date().getFullYear();
+  yearSpan.innerHTML = new Date().getFullYear();
 }
 
 function setDatePickerFromDate(date) {
@@ -198,7 +198,7 @@ if (contentBody) {
     if (!word) return;
 
     // show popup immediately with loading
-    dictPopupWord.textContent = word;
+    dictPopupWord.innerHTML = word;
     dictPopupBody.innerHTML = "<small>Looking up…</small>";
     dictPopup.hidden = false;
     positionPopupNearSelection();
@@ -436,7 +436,7 @@ function buildSourceTabs() {
     const btn = document.createElement("button");
     btn.type = "button";
     btn.className = "source-tab";
-    btn.textContent = source.name;
+    btn.innerHTML = source.name;
     btn.dataset.sourceId = source.id;
 
     // 🔍 show description on hover
@@ -503,7 +503,7 @@ function renderAnnotationsList(sourceId, dateKey) {
 
     const quoteDiv = document.createElement("div");
     quoteDiv.className = "annotation-quote";
-    quoteDiv.textContent = `“${ann.quote}”`;
+    quoteDiv.innerHTML = `“${ann.quote}”`;
 
     const commentP = document.createElement("p");
     commentP.className = "annotation-comment";
@@ -514,12 +514,12 @@ function renderAnnotationsList(sourceId, dateKey) {
     const dateStr = ann.createdAt
       ? new Date(ann.createdAt).toLocaleString()
       : "";
-    metaP.textContent = dateStr ? `Added on ${dateStr}` : "";
+    metaP.innerHTML = dateStr ? `Added on ${dateStr}` : "";
 
     const removeBtn = document.createElement("button");
     removeBtn.className = "annotation-remove-btn";
     removeBtn.type = "button";
-    removeBtn.textContent = "Remove";
+    removeBtn.innerHTML = "Remove";
     removeBtn.addEventListener("click", () => {
       removeAnnotation(sourceId, dateKey, ann.id);
     });
@@ -541,7 +541,7 @@ if (ann.voiceKey) {
     if (blob) {
       player.setBlob(blob);
     } else {
-      host.textContent = "(voice memo missing)";
+      host.innerHTML = "(voice memo missing)";
     }
   });
 }
@@ -586,10 +586,10 @@ function render() {
   const entry = source ? getEntry(source.id, currentDateKey) : null;
 
   if (!source) {
-    contentTitle.textContent = "Choose a devotional";
-    contentMeta.textContent =
+    contentTitle.innerHTML = "Choose a devotional";
+    contentMeta.innerHTML =
       "Select a devotional source above to start reading.";
-    contentDate.textContent = "";
+    contentDate.innerHTML = "";
     contentBody.innerHTML =
       "<p>Use the tabs at the top to switch between different devotional sources.</p>";
     contentRef.innerHTML = "";
@@ -600,11 +600,11 @@ function render() {
     return;
   }
 
-  contentMeta.textContent = `${source.name} · ${source.author || ""}`.trim();
-  contentDate.textContent = formatDateForDisplay(date);
+  contentMeta.innerHTML = `${source.name} · ${source.author || ""}`.trim();
+  contentDate.innerHTML = formatDateForDisplay(date);
 
   if (!entry) {
-    contentTitle.textContent = "No entry for this date";
+    contentTitle.innerHTML = "No entry for this date";
     contentBody.innerHTML =
       "<p>There is no devotional entry stored for this date.</p>";
     contentRef.innerHTML = "";
@@ -612,8 +612,8 @@ function render() {
     readerSection.classList.remove("is-highlighted");
     annotationsList.innerHTML = "";
   } else {
-    contentTitle.textContent = entry.title || source.name || "Devotional";
-    contentNote.textContent = entry.note || "";
+    contentTitle.innerHTML = entry.title || source.name || "Devotional";
+    contentNote.innerHTML = entry.note || "";
     const bodyHtml = (entry.body || "").replace(/\n/g, "<br>");
     contentBody.innerHTML = bodyHtml;
     contentRef.innerHTML = entry.passage ? `${entry.passage}` : "";
@@ -624,7 +624,7 @@ function render() {
     const highlighted = isHighlighted(source.id, currentDateKey);
     readerSection.classList.toggle("is-highlighted", highlighted);
     highlightToggle.hidden = false;
-    highlightToggle.textContent = highlighted
+    highlightToggle.innerHTML = highlighted
       ? "★ Highlighted reading"
       : "☆ All markings removed";
 
@@ -642,11 +642,11 @@ if (dailyVerseBox && dailyVerseRef && dailyVerseText) {
     dailyVerseBox.hidden = false;
 
    if (typeof verse === "string") {
-      dailyVerseRef.textContent = "Daily Verse";
-      dailyVerseText.textContent = verse;
+      dailyVerseRef.innerHTML = "Daily Verse";
+      dailyVerseText.innerHTML = verse;
     } else {
-      dailyVerseRef.textContent = verse.ref || "";
-      dailyVerseText.textContent = verse.text || "";
+      dailyVerseRef.innerHTML = verse.ref || "";
+      dailyVerseText.innerHTML = verse.text || "";
     }
     
     if (verse.text=="") {dailyVerseBox.hidden = true;}  
@@ -665,10 +665,10 @@ if (dailyPrayerBox && dailyPrayerTitle && dailyPrayerText) {
     dailyPrayerBox.hidden = false;
 
     if (typeof prayer === "string") {
-      dailyPrayerTitle.textContent = "Daily Prayer";
+      dailyPrayerTitle.innerHTML = "Daily Prayer";
       dailyPrayerText.innerHTML = prayer;
     } else {
-      dailyPrayerTitle.textContent = prayer.title || "";
+      dailyPrayerTitle.innerHTML = prayer.title || "";
       dailyPrayerText.innerHTML = prayer.text || "";
     }
     if (prayer.text=="") {dailyPrayerBox.hidden  = true;}
@@ -769,7 +769,7 @@ function createAudioPlayer(container, opts = {}) {
 
   const btn = document.createElement("button");
   btn.type = "button";
-  btn.textContent = "Play";
+  btn.innerHTML = "Play";
   btn.disabled = true;
 
   const range = document.createElement("input");
@@ -782,14 +782,14 @@ function createAudioPlayer(container, opts = {}) {
 
   const time = document.createElement("div");
   time.className = "audio-time";
-  time.textContent = "0:00 / 0:00";
+  time.innerHTML = "0:00 / 0:00";
 
   const speed = document.createElement("select");
   speed.className = "audio-speed";
   ["0.75", "1", "1.25", "1.5", "2"].forEach((v) => {
     const o = document.createElement("option");
     o.value = v;
-    o.textContent = `${v}×`;
+    o.innerHTML = `${v}×`;
     if (v === "1") o.selected = true;
     speed.appendChild(o);
   });
@@ -823,7 +823,7 @@ function createAudioPlayer(container, opts = {}) {
   function updateTimeUI() {
     const dur = audio.duration || 0;
     const cur = audio.currentTime || 0;
-    time.textContent = `${formatTime(cur)} / ${formatTime(dur)}`;
+    time.innerHTML = `${formatTime(cur)} / ${formatTime(dur)}`;
     if (dur > 0) {
       const t = Math.min(1, Math.max(0, cur / dur));
       range.value = String(Math.round(t * 1000));
@@ -843,10 +843,10 @@ function createAudioPlayer(container, opts = {}) {
     }
   });
 
-  audio.addEventListener("play", () => (btn.textContent = "Pause"));
-  audio.addEventListener("pause", () => (btn.textContent = "Play"));
+  audio.addEventListener("play", () => (btn.innerHTML = "Pause"));
+  audio.addEventListener("pause", () => (btn.innerHTML = "Play"));
   audio.addEventListener("ended", () => {
-    btn.textContent = "Play";
+    btn.innerHTML = "Play";
     updateTimeUI();
   });
 
@@ -1134,8 +1134,8 @@ if (startVoiceBtn) {
           voicePreview.hidden = false;
         }
         
-        if (voiceStatus) {voiceStatus.textContent = "Recorded ✓";} else
-        {voiceStatus.textContent = "";}
+        if (voiceStatus) {voiceStatus.innerHTML = "Recorded ✓";} else
+        {voiceStatus.innerHTML = "";}
         
           // ✅ show custom player preview
          if (voicePreviewPlayer) {
@@ -1148,7 +1148,7 @@ if (startVoiceBtn) {
 
       mediaRecorder.start();
 
-      if (voiceStatus) voiceStatus.textContent = "Recording…";
+      if (voiceStatus) voiceStatus.innerHTML = "Recording…";
       startVoiceBtn.disabled = true;
       if (stopVoiceBtn) stopVoiceBtn.disabled = false;
 
@@ -1170,7 +1170,7 @@ if (stopVoiceBtn) {
     }
     stopVoiceBtn.disabled = true;
     if (startVoiceBtn) startVoiceBtn.disabled = false;
-    if (voiceStatus) voiceStatus.textContent = "Stopping…";
+    if (voiceStatus) voiceStatus.innerHTML = "Stopping…";
   });
 }
 
@@ -1270,7 +1270,7 @@ if (addCommentFromSelectionBtn) {
 
     // Show form
     if (annotationForm && annotationSelectedText && annotationCommentInput) {
-      annotationSelectedText.textContent = `“${selectedText}”`;
+      annotationSelectedText.innerHTML = `“${selectedText}”`;
       annotationCommentInput.value = "";
       annotationForm.hidden = false;
       annotationCommentInput.focus();
@@ -1283,7 +1283,7 @@ if (addCommentFromSelectionBtn) {
       voicePreview.hidden = true;
       voicePreview.src = "";
     }
-    if (voiceStatus) voiceStatus.textContent = "";
+    if (voiceStatus) voiceStatus.innerHTML = "";
     if (startVoiceBtn) startVoiceBtn.disabled = false;
     if (stopVoiceBtn) stopVoiceBtn.disabled = true;
   });
