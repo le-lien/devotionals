@@ -36,7 +36,7 @@
       "ref": 'PSALM 37:25',
       "text": 'I was young, and now I am old, but I have never seen good people left helpless or their children begging for food.'
     },
-    "body": 'We worry. We worry about the IRS and the SAT and the FBI… .\nWe worry that we won’t have enough money, and when we have money we worry that we won’t manage it well. We worry that the world will end before the parking meter expires. We worry what the dog thinks if he sees us step out of the shower. We worry that someday we’ll learn that fat-free yogurt was fattening.\nHonestly, now. Did God save you so you would fret? Would he teach you to walk just to watch you fall? Would he be nailed to the cross for your sins and then disregard your prayers? Come on. Is Scripture teasing us when it reads, “He has put his angels in charge of you to watch over you wherever you go”? (Ps. 91:11).\nI don’t think so either. ',
+    "body": 'We worry. We worry about the IRS and the SAT and the FBI...\nWe worry that we won’t have enough money, and when we have money we worry that we won’t manage it well. We worry that the world will end before the parking meter expires. We worry what the dog thinks if he sees us step out of the shower. We worry that someday we’ll learn that fat-free yogurt was fattening.\nHonestly, now. Did God save you so you would fret? Would he teach you to walk just to watch you fall? Would he be nailed to the cross for your sins and then disregard your prayers? Come on. Is Scripture teasing us when it reads, “He has put his angels in charge of you to watch over you wherever you go”? (Ps. 91:11).\nI don’t think so either. ',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -48,10 +48,10 @@
     "note": '',
     "passage": 'Just Like Jesus',
     "dailyVerse": {
-      "ref": 'E PH E S I A N S 1:19',
+      "ref": 'Ephesians 1:19',
       "text": 'You will know that God’s power is very great for us who believe.'
     },
-    "body": 'God loves to decorate. God has  to decorate. Let him live long enough in a heart, and that heart will begin to change. Portraits of hurt will be replaced by landscapes of grace. Walls of anger will be demolished and shaky foundations restored. God can no more leave a life unchanged than a mother can leave her child’s tear untouched… .\nThis might explain some of the discomfort in your life. Remodeling of the heart is not always pleasant. We don’t object when the Carpenter adds a few shelves, but he’s been known to gut the entire west wing. He has such high aspirations for you. God envisions a complete restoration. He won’t stop until he is finished… . He wants you to be just like Jesus. ',
+    "body": 'God loves to decorate. God has  to decorate. Let him live long enough in a heart, and that heart will begin to change. Portraits of hurt will be replaced by landscapes of grace. Walls of anger will be demolished and shaky foundations restored. God can no more leave a life unchanged than a mother can leave her child’s tear untouched...\nThis might explain some of the discomfort in your life. Remodeling of the heart is not always pleasant. We don’t object when the Carpenter adds a few shelves, but he’s been known to gut the entire west wing. He has such high aspirations for you. God envisions a complete restoration. He won’t stop until he is finished... He wants you to be just like Jesus.',
     "dailyPrayer": {
       "title": '',
       "text": ''
