@@ -66,7 +66,7 @@
       "ref": 'GENESIS 18:14',
       "text": 'Is anything too hard for the LORD? No!'
     },
-    "body": 'The God of surprises strikes again. . . . God does that for the faithful. Just when the womb gets too old for babies, Sarai gets pregnant.\nJust when the failure is too great for grace, David is pardoned… .\nThe lesson? Three words. Don’t give up… .\nIs the road long? Don’t stop.\nIs the night black? Don’t quit.\nGod is watching. For all you know right at this moment . . . the check may be in the mail.\nThe apology may be in the making.\nThe job contract may be on the desk.\nDon’t quit. For if you do, you may miss the answer to your prayers. ',
+    "body": 'The God of surprises strikes again... God does that for the faithful. Just when the womb gets too old for babies, Sarai gets pregnant. Just when the failure is too great for grace, David is pardoned... \nThe lesson? Three words. Don’t give up...\nIs the road long? Don’t stop.\nIs the night black? Don’t quit.\nGod is watching. For all you know right at this moment... the check may be in the mail.\nThe apology may be in the making.\nThe job contract may be on the desk.\nDon’t quit. For if you do, you may miss the answer to your prayers.',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -81,7 +81,7 @@
       "ref": 'JOHN 14:23',
       "text": 'If people love me, they will obey my teaching. My father will love them, and we will come to them and make our home with them.'
     },
-    "body": 'God wants to be your dwelling place. He has no interest in being a weekend getaway or a Sunday bungalow or a summer cottage. Don’t consider using God as a vacation cabin or an eventual retirement home. He wants you under his roof now and always. He wants to be your mailing address, your point of reference; he wants to be your home… .\nFor many this is a new thought. We think of God as a deity to discuss, not a place to dwell. We think of God as a mysterious miracle worker, not a house to live in. We think of God as a creator to call on, not a home to reside in. But our Father wants to be much more. He wants to be the one in whom “we live and move and have our being” (Acts 17:28 NIV). ',
+    "body": 'God wants to be your dwelling place. He has no interest in being a weekend getaway or a Sunday bungalow or a summer cottage. Don’t consider using God as a vacation cabin or an eventual retirement home. He wants you under his roof now and always. He wants to be your mailing address, your point of reference; he wants to be your home... .\nFor many this is a new thought. We think of God as a deity to discuss, not a place to dwell. We think of God as a mysterious miracle worker, not a house to live in. We think of God as a creator to call on, not a home to reside in. But our Father wants to be much more. He wants to be the one in whom “we live and move and have our being” (Acts 17:28 NIV).',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -96,7 +96,7 @@
       "ref": 'HEBREWS 8:12 NIV',
       "text": 'I will forgive their wickedness and will remember their sins no more.'
     },
-    "body": '“Therefore, there is now no condemnation for those who are in Christ Jesus” (Romans 8:1 NIV).\n“[God] justifies those who have faith in Jesus” (Romans 3:26 NIV).\nFor those in Christ, these promises are not only a source of joy. They are also the foundations of true courage. You are guaranteed that your sins will be filtered through, hidden in, and screened out by the sacrifice of Jesus.\nWhen God looks at you, he doesn’t see you; he sees the One who surrounds you. That means that failure is not a concern for you. Your victory is secure.\nHow could you not be courageous? ',
+    "body": '“Therefore, there is now no condemnation for those who are in Christ Jesus” (Romans 8:1 NIV).\n“[God] justifies those who have faith in Jesus” (Romans 3:26 NIV).\nFor those in Christ, these promises are not only a source of joy. They are also the foundations of true courage. You are guaranteed that your sins will be filtered through, hidden in, and screened out by the sacrifice of Jesus. When God looks at you, he doesn’t see you; he sees the One who surrounds you. That means that failure is not a concern for you. Your victory is secure. How could you not be courageous? ',
     "dailyPrayer": {
       "title": '',
       "text": ''

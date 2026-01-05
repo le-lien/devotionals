@@ -66,7 +66,7 @@
       "ref": 'ECCLESIASTES 9:10',
       "text": 'Whatever work you do, do your best.'
     },
-    "body": 'Heaven’s calendar has seven Sundays a week. God sanctifies each day.\nHe conducts holy business at all hours and in all places. He uncommons the common by turning kitchen sinks into shrines, cafes into convents, and nine-to-five workdays into spiritual adventures.\nWorkdays?  Yes, workdays. He ordained your work as something good.\nBefore he gave Adam a wife or a child, even before he gave Adam britches, God gave Adam a job. “Then the LORD God took the man and put him into the garden of Eden to cultivate it and keep it” (Gen. 2:15 NASB).\nInnocence, not indolence, characterized the first family… .\nGod unilaterally calls all the physically able to till the gardens he gives.\nGod honors work. So honor God in your work. ',
+    "body": 'Heaven’s calendar has seven Sundays a week. God sanctifies each day.\nHe conducts holy business at all hours and in all places. He uncommons the common by turning kitchen sinks into shrines, cafes into convents, and nine-to-five workdays into spiritual adventures.\n<i>Workdays?</i> Yes, workdays. He ordained your work as something good. Before he gave Adam a wife or a child, even before he gave Adam britches, God gave Adam a job. “Then the LORD God took the man and put him into the garden of Eden to cultivate it and keep it” (Gen. 2:15 NASB). Innocence, not indolence, characterized the first family...\nGod unilaterally calls all the physically able to till the gardens he gives.\nGod honors work. So honor God in your work. ',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -81,7 +81,7 @@
       "ref": 'COLOSSIANS 2:9 TLB',
       "text": 'In Christ there is all of God in a human body.'
     },
-    "body": 'Jesus was not a godlike man, nor a manlike God. He was God-man.\nMidwifed by a carpenter.\nBathed by a peasant girl.\nThe maker of the world with a bellybutton.\nThe author of the Torah being taught the Torah.\nHeaven’s human. And because he was, we are left with scratch-your-head, double-blink, what’s-wrong-with-this-picture? moments like these: A cripple sponsoring the town dance.\nA sack lunch satisfying five thousand tummies.\nWhat do we do with such moments?\nWhat do we do with such a person? We applaud men for doing good things. We enshrine God for doing great things. But when a man does God things?\nOne thing is certain, we can’t ignore him. ',
+    "body": 'Jesus was not a godlike man, nor a manlike God. He was God-man.\nMidwifed by a carpenter.\nBathed by a peasant girl.\nThe maker of the world with a bellybutton.\nThe author of the Torah being taught the Torah.\nHeaven’s human. And because he was, we are left with scratch-your-head, double-blink, what’s-wrong-with-this-picture? moments like these:\nA cripple sponsoring the town dance.\nA sack lunch satisfying five thousand tummies.\nWhat do we do with such moments?\nWhat do we do with such a person? We applaud men for doing good things. We enshrine God for doing great things. But when a man does God things?\nOne thing is certain, we can’t ignore him. ',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -94,9 +94,9 @@
     "passage": 'Traveling Light',
     "dailyVerse": {
       "ref": 'EXODUS 6:2 JB',
-      "text": '“I am Yahweh.”'
+      "text": 'I am Yahweh.'
     },
-    "body": 'The Israelites considered the name Yahweh too holy to be spoken by human lips. Whenever they needed to say Yahweh, they substituted the word Adonai, which means “Lord.” If the name needed to be written, the scribes would take a bath before they wrote it and destroy the pen afterward.\nThe name I AM sounds strikingly close to the Hebrew verb to be—\nhavah. It’s quite possibly a combination of the present tense form (I am) and the causative tense (I cause to be). Yahweh, then, seems to mean “I AM” and “I cause.” God is the “One who is” and the “One who causes.”\nWhy is that important? Because we need a big God. And if God is the\n“One who is,” then he is an unchanging God. ',
+    "body": 'The Israelites considered the name <i>Yahweh</i> too holy to be spoken by human lips. Whenever they needed to say <i>Yahweh</i>, they substituted the word <i>Adonai</i>, which means “Lord.” If the name needed to be written, the scribes would take a bath before they wrote it and destroy the pen afterward.\nThe name I AM sounds strikingly close to the Hebrew verb to <i>behavah</i>. It’s quite possibly a combination of the present tense form (I am) and the causative tense (I cause to be). <i>Yahweh</i>, then, seems to mean “I AM” and “I cause.” God is the “One who is” and the “One who causes.”\nWhy is that important? Because we need a big God. And if God is the “One who is,” then he is an unchanging God.',
     "dailyPrayer": {
       "title": '',
       "text": ''
