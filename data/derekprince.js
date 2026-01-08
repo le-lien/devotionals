@@ -108,10 +108,10 @@
     "note": 'Through the blood of Jesus, I am redeemed out of the hand of the devil.',
     "passage": 'Spiritual Conflict, Vol.3: God’s People Triumphant: Spiritual Weapons—The Blood, The Word, Our Testimony (audio)',
     "dailyVerse": {
-      "ref": '',
-      "text": ''
+      "ref": '(Psalm 107:2, emphasis added)',
+      "text": 'Let the redeemed of the Lord say so, whom He has redeemed from the hand of the enemy.'
     },
-    "body": 'Let the redeemed of the Lord say so, whom He has redeemed from the hand of the enemy.\n(Psalm 107:2, emphasis added)\nThis statement of Scripture is one that concerns what the blood of Jesus does for us as believers. Let us also look at this verse in Ephesians:\nIn Him [Christ]  we have redemption through His blood, the forgiveness of sins, according to the riches of His grace.\n(Ephesians 1:7)\nNotice, first of all, that to receive these benefits, we have to be in Christ. We have to be true believers in Christ. When we are in Christ, the first thing that we gain is redemption through His blood.\nTo redeem means “to buy back,” or “to pay a ransom price.” We were formerly in the hands of the devil and we belonged to him. But Jesus paid the ransom price of His blood on the cross to buy us back. ',
+    "body": 'This statement of Scripture is one that concerns what the blood of Jesus does for us as believers. Let us also look at this verse in Ephesians:<p style="padding-left: 30px;"><i>In Him<i> [Christ]<i> we have redemption through His blood, the forgiveness of sins, according to the riches of His grace.<i> (Ephesians 1:7)</p>Notice, first of all, that to receive these benefits, we have to be in Christ. We have to be true believers in Christ. When we are in Christ, the first thing that we gain is redemption through His blood.\n<i>To redeem</i> means “to buy back,” or “to pay a ransom price.” We were formerly in the hands of the devil and we belonged to him. But Jesus paid the ransom price of His blood on the cross to buy us back. ',
     "dailyPrayer": {
       "title": 'Prayer',
       "text": 'Thank You, Lord, for the blood of Jesus. I proclaim that through His blood, I have been ransomed—bought back—and am a true believer in Christ. Through the blood of Jesus, I am redeemed out of the hand of the devil. Amen.'
@@ -126,7 +126,7 @@
       "ref": '',
       "text": ''
     },
-    "body": 'We were redeemed, or bought back, from our old, evil, ungodly ways of living, from the grip of Satan, from the condemnation of sin, and from being open to the attacks of the devourer and the destroyer. But how  were we bought back?\nKnowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot.\n(1 Peter 1:18–19)\nWe are redeemed by the precious blood of Jesus Christ—without blemish, without original sin; without spot, without personal sin—the sinless Lamb of God who took away the sins of the world. It is only through His blood that we are redeemed. There was no other amount that could pay the price to purchase our redemption. ',
+    "body": 'We were redeemed, or bought back, from our old, evil, ungodly ways of living, from the grip of Satan, from the condemnation of sin, and from being open to the attacks of the devourer and the destroyer. But how  were we bought back?<p style="padding-left: 30px;"><i>Knowing that you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers, but with the precious blood of Christ, as of a lamb without blemish and without spot. </i>(1 Peter 1:18–19)\n</p>We are redeemed by the precious blood of Jesus Christ—without blemish, without original sin; without spot, without personal sin—the sinless Lamb of God who took away the sins of the world. It is only through His blood that we are redeemed. There was no other amount that could pay the price to purchase our redemption. ',
     "dailyPrayer": {
       "title": 'Prayer',
       "text": 'Thank You, Lord, for the blood of Jesus. I proclaim that Jesus, the sinless Lamb of God, has taken away my sins. Through the blood of Jesus, I am redeemed out of the hand of the devil. Amen.'
