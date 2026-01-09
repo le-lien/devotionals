@@ -141,7 +141,7 @@
       "ref": 'JOHN 18:36',
       "text": 'My kingdom does not belong to this world.'
     },
-    "body": 'Unhappiness on earth cultivates a hunger for heaven. By gracing us with a deep dissatisfaction, God holds our attention. The only tragedy, then, is to be satisfied prematurely. To settle for earth. To be content in a strange land… .\nWe are not happy here because we are not at home here. We are not happy here because we are not supposed to be happy here. We are “like foreigners and strangers in this world” (1 Pet. 2:11)… .\nAnd you will never be completely happy on earth simply because you were not made for earth. Oh, you will have your moments of joy. You will catch glimpses of light. You will know moments or even days of peace. But they simply do not compare with the happiness that lies ahead. ',
+    "body": 'Unhappiness on earth cultivates a hunger for heaven. By gracing us with a deep dissatisfaction, God holds our attention. The only tragedy, then, is to be satisfied prematurely. To settle for earth. To be content in a strange land...\nWe are not happy here because we are not at home here. We are not happy here because we are not supposed to be happy here. We are “like foreigners and strangers in this world” (1 Pet. 2:11)...\nAnd you will never be completely happy on earth simply because you were not made for earth. Oh, you will have your moments of joy. You will catch glimpses of light. You will know moments or even days of peace. But they simply do not compare with the happiness that lies ahead.',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -156,7 +156,7 @@
       "ref": 'LUKE 19:10',
       "text": 'The Son of Man came to find lost people and save them.'
     },
-    "body": 'Our God is the God who follows. Have you sensed him following you? He is the one who came to seek and save the lost. Have you sensed him seeking you?\nHave you felt his presence through the kindness of a stranger? Through the majesty of a sunset or the mystery of romance? Through the question of a child or the commitment of a spouse? Through a word well spoken or a touch well timed, have you sensed him? …\nGod gives us himself. Even when we choose our hovel over his house and our trash over his grace, still he follows. Never forcing us. Never leaving us. Patiently persistent. Faithfully present. He uses all his power to convince us that he is who he is and he can be trusted to lead us home. ',
+    "body": 'Our God is the God who follows. Have you sensed him following you? He is the one who came to seek and save the lost. Have you sensed him seeking you?\nHave you felt his presence through the kindness of a stranger? Through the majesty of a sunset or the mystery of romance? Through the question of a child or the commitment of a spouse? Through a word well spoken or a touch well timed, have you sensed him?... \nGod gives us himself. Even when we choose our hovel over his house and our trash over his grace, still he follows. Never forcing us. Never leaving us. Patiently persistent. Faithfully present. He uses all his power to convince us that he is who he is and he can be trusted to lead us home.',
     "dailyPrayer": {
       "title": '',
       "text": ''

@@ -141,7 +141,7 @@
       "ref": 'EPHESIANS 1:4 NKJV',
       "text": 'He chose us in Him before the foundation of the world.'
     },
-    "body": 'Search the faces of the Cap Haitian orphanage for Carinette… . The girl with the long nose and bushy hair and a handful of photos… . The photos bear the images of her future family. She’s been adopted.\nHer adoptive parents are friends of mine. They brought her pictures, a teddy bear, granola bars, and cookies. Carinette shared the goodies and asked the director to guard her bear, but she keeps the pictures. They remind her of her home-to-be. Within a month, two at the most, she’ll be there. She knows the day is coming… . Any day now her father will appear. He came once to claim her. He’ll come again to carry her home. Till then she lives with a heart headed home.\nShouldn’t we all? Our Father paid us a visit too. Have we not been claimed? Adopted? … God searched you out. Before you knew you needed adopting, he’d already filed the papers and selected the wallpaper for your room. ',
+    "body": 'Search the faces of the Cap Haitian orphanage for Carinette... The girl with the long nose and bushy hair and a handful of photos... The photos bear the images of her future family. She’s been adopted.\nHer adoptive parents are friends of mine. They brought her pictures, a teddy bear, granola bars, and cookies. Carinette shared the goodies and asked the director to guard her bear, but she keeps the pictures. They remind her of her home-to-be. Within a month, two at the most, she’ll be there. She knows the day is coming... Any day now her father will appear. He came once to claim her. He’ll come again to carry her home. Till then she lives with a heart headed home.\nShouldn’t we all? Our Father paid us a visit too. Have we not been claimed? Adopted?... God searched you out. Before you knew you needed adopting, he’d already filed the papers and selected the wallpaper for your room.',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -156,7 +156,7 @@
       "ref": 'PSALM 119:30',
       "text": 'I haven chosen the way of truth; I have obeyed your laws.'
     },
-    "body": 'We can choose:\na narrow gate or a wide gate (Matt. 7:13–14) a narrow road or a wide road (Matt. 7:13–14) the big crowd or the small crowd (Matt. 7:13–14) We can choose to:\nbuild on rock or sand (Matt. 7:24–27)\nserve God or riches (Matt. 6:24)\nbe numbered among the sheep or the goats (Matt. 25:32–33) God gives eternal choices, and these choices have eternal consequences.\nOne of God’s greatest gifts? The gift of choice. ',
+    "body": 'We can choose:\na narrow gate or a wide gate (Matt. 7:13–14) a narrow road or a wide road (Matt. 7:13–14) the big crowd or the small crowd (Matt. 7:13–14) We can choose to:\nbuild on rock or sand (Matt. 7:24–27)\nserve God or riches (Matt. 6:24)\nbe numbered among the sheep or the goats (Matt. 25:32–33) \nGod gives eternal choices, and these choices have eternal consequences.\nOne of God’s greatest gifts? The gift of choice. ',
     "dailyPrayer": {
       "title": '',
       "text": ''
