@@ -1206,7 +1206,7 @@
       "ref": '1 TIMOTHY 2:1',
       "text": 'Pray for all people, asking God for what they need and being thankful to him.'
     },
-    "body": 'You wonder if it is a blessing or a curse to have a mind that never rests. But you would rather be a cynic than a hypocrite, so you continue to pray with one eye open and wonder:\nabout starving children\nabout the power of prayer\nabout Christians in cancer wards …\nTough questions. Throw-in-the-towel questions. Questions the disciples must have asked in the storm.\nAll they could see were black skies as they bounced in the battered boat. .\n. .\n[Then] a figure came to them walking on the water. It wasn’t what they expected… . They almost missed seeing the answer to their prayers.\nAnd unless we look and listen closely, we risk making the same mistake.\nGod’s lights in our dark nights are as numerous as the stars, if only we’ll look for them. ',
+    "body": 'You wonder if it is a blessing or a curse to have a mind that never rests. But you would rather be a cynic than a hypocrite, so you continue to pray with one eye open and wonder:\nabout starving children about the power of prayer about Christians in cancer wards …\nTough questions. Throw-in-the-towel questions. Questions the disciples must have asked in the storm.\nAll they could see were black skies as they bounced in the battered boat. .\n. .\n[Then] a figure came to them walking on the water. It wasn’t what they expected… . They almost missed seeing the answer to their prayers.\nAnd unless we look and listen closely, we risk making the same mistake.\nGod’s lights in our dark nights are as numerous as the stars, if only we’ll look for them. ',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -3891,7 +3891,7 @@
       "ref": 'PROVERBS 18:10 NKJV',
       "text": 'The name of the Lord is a strong tower; the righteous run to it and are safe.'
     },
-    "body": 'When you are confused about the future, go to your Jehovah-raah, your caring shepherd. When you are anxious about provision, talk to Jehovah-jireh,  the Lord who provides. Are your challenges too great? Seek the help of Jehovah-shalom,  the Lord is peace. Is your body sick? Are your emotions weak? Jehovah-rophe,  the Lord who heals you, will see you now.\nDo you feel like a soldier stranded behind enemy lines? Take refuge in Jehovah-nissi,  the Lord my banner.\nMeditating on the names of God reminds you of the character of God.\nTake these names and bury them in your heart.\nGod is\nthe shepherd who guides,\nthe Lord who provides,\nthe voice who brings peace in the storm,\nthe physician who heals the sick, and\nthe banner that guides the soldier. ',
+    "body": 'When you are confused about the future, go to your Jehovah-raah, your caring shepherd. When you are anxious about provision, talk to Jehovah-jireh,  the Lord who provides. Are your challenges too great? Seek the help of Jehovah-shalom,  the Lord is peace. Is your body sick? Are your emotions weak? Jehovah-rophe,  the Lord who heals you, will see you now.\nDo you feel like a soldier stranded behind enemy lines? Take refuge in Jehovah-nissi,  the Lord my banner.\nMeditating on the names of God reminds you of the character of God.\nTake these names and bury them in your heart.\nGod is the shepherd who guides,\nthe Lord who provides,\nthe voice who brings peace in the storm,\nthe physician who heals the sick, and the banner that guides the soldier. ',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -4761,7 +4761,7 @@
       "ref": 'HEBREWS 10:35',
       "text": 'Do not lose the courage you had in the past, which has a great reward.'
     },
-    "body": 'Is there anything more frail than a bruised reed? Look at the bruised reed at the water’s edge. A once slender and tall stalk of sturdy river grass, it is now bowed and bent.\nAre you a bruised reed? Was it so long ago that you stood so tall, so proud? …\nThen something happened. You were bruised …\nby harsh words\nby a friend’s anger\nby a spouse’s betrayal… .\nThe bruised reed… . Society knows what to do with you… . The world will break you off; the world will snuff you out.\nBut the artists of Scripture proclaim that God won’t. Painted on canvas after canvas is the tender touch of a Creator who has a special place for the bruised and weary of the world. A God who is the friend of the wounded heart. ',
+    "body": 'Is there anything more frail than a bruised reed? Look at the bruised reed at the water’s edge. A once slender and tall stalk of sturdy river grass, it is now bowed and bent.\nAre you a bruised reed? Was it so long ago that you stood so tall, so proud? …\nThen something happened. You were bruised …\nby harsh words by a friend’s anger by a spouse’s betrayal… .\nThe bruised reed… . Society knows what to do with you… . The world will break you off; the world will snuff you out.\nBut the artists of Scripture proclaim that God won’t. Painted on canvas after canvas is the tender touch of a Creator who has a special place for the bruised and weary of the world. A God who is the friend of the wounded heart. ',
     "dailyPrayer": {
       "title": '',
       "text": ''

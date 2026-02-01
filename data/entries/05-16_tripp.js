@@ -6,7 +6,7 @@
       "ref": '',
       "text": 'We are guilty. The cross purchased our forgiveness. We are unable. The Spirit gives us power. We are foolish. God’s Word provides wisdom.'
     },
-    "body": 'What did I bring to your salvation table?\nI had\nno righteousness to offer, no strength to give, no wisdom to present.\nThere was\nnothing\nthat I could deliver that would commend me to you.\nI crawled broken to your table, weighed down and crippled by my sin, my guilt,\nmy weakness,\nmy foolishness, my pride,\nmy shame.\nI had no right to be with you, but you picked me up and placed me there.\nYou fed me\nthe life-giving nutrients of grace\nwith your\nnail-scarred hands.\nAnd I haven’t left your table of mercy since.',
+    "body": 'What did I bring to your salvation table?\nI had no righteousness to offer, no strength to give, no wisdom to present.\nThere was nothing that I could deliver that would commend me to you.\nI crawled broken to your table, weighed down and crippled by my sin, my guilt,\nmy weakness,\nmy foolishness, my pride,\nmy shame.\nI had no right to be with you, but you picked me up and placed me there.\nYou fed me the life-giving nutrients of grace with your nail-scarred hands.\nAnd I haven’t left your table of mercy since.',
     "dailyPrayer": {
       "title": '',
       "text": ''
