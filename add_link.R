@@ -9,7 +9,7 @@ book_map <- c(
   "1 Chronicles"="1CH","2 Chronicles"="2CH",
   "Ezra"="EZR","Nehemiah"="NEH","Esther"="EST",
   "Job"="JOB","Psalm"="PSA","Psalms"="PSA","Proverbs"="PRO","Ecclesiastes"="ECC","Song of Songs"="SNG",
-  "Isaiah"="ISA","Jeremiah"="JER","Lamentations"="LAM","Ezekiel"="EZK","Daniel"="DAN",
+  "Isaiah"="ISA","Isa=ISA","Jeremiah"="JER","Lamentations"="LAM","Ezekiel"="EZK","Daniel"="DAN",
   "Hosea"="HOS","Joel"="JOL","Amos"="AMO","Obadiah"="OBA","Jonah"="JON",
   "Micah"="MIC","Nahum"="NAM","Habakkuk"="HAB","Zephaniah"="ZEP","Haggai"="HAG","Zechariah"="ZEC","Malachi"="MAL",
   "Matthew"="MAT","Matt"="MAT","Mark"="MRK","Luke"="LUK","John"="JHN","Acts"="ACT",
