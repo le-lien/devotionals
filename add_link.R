@@ -14,10 +14,10 @@ book_map <- c(
   "Micah"="MIC","Nahum"="NAM","Habakkuk"="HAB","Zephaniah"="ZEP","Haggai"="HAG","Zechariah"="ZEC","Malachi"="MAL",
   "Matthew"="MAT","Matt"="MAT","Mark"="MRK","Luke"="LUK","John"="JHN","Acts"="ACT",
   "Romans"="ROM","Rom"="ROM","1 Cor"="1CO","2 Cor"="2CO","1 Corinthians"="1CO","2 Corinthians"="2CO",
-  "Galatians"="GAL","Ephesians"="EPH","Philippians"="PHP","Colossians"="COL",
+  "Galatians"="GAL","Gal"="GAL","Ephesians"="EPH","Philippians"="PHP","Phil"="PHP","Colossians"="COL",
   "1 Thessalonians"="1TH", "1 Thess"="1TH","2 Thessalonians"="2TH",
   "1 Timothy"="1TI","2 Timothy"="2TI","Titus"="TIT","Philemon"="PHM","HEBREWS"="HEB",
-  "Hebrews"="HEB","Heb."="HEB","James"="JAS","1 Peter"="1PE","2 Peter"="2PE",
+  "Hebrews"="HEB","Heb"="HEB","James"="JAS","1 Peter"="1PE","2 Peter"="2PE",
   "1 John"="1JN","2 John"="2JN","3 John"="3JN","Jude"="JUD","Revelation"="REV"
 )
 

@@ -786,7 +786,7 @@
       "ref": '1 CORINTHIANS 2:16 TLB',
       "text": 'We Christians actually do have within us a portion of the very thoughts and mind of Christ.'
     },
-    "body": 'The distance between our hearts and [Jesus’ heart] seems so immense. How could we ever hope to have the heart of Jesus?\nReady for a surprise? You already do. . . . If you are in Christ, you already have the heart of Christ. One of the supreme yet unrealized promises of God is simply this: if you have given your life to Jesus, Jesus has given himself to you. He has made your heart his home. It would be hard to say it more succinctly than Paul does: “Christ lives in me” (Gal.\n2:20 MSG)… .\nHe has moved in and unpacked his bags and is ready to change you “into his likeness from one degree of glory to another” (2 Cor. 3:18 RSV). ',
+    "body": 'The distance between our hearts and [Jesus’ heart] seems so immense. How could we ever hope to have the heart of Jesus?\nReady for a surprise? You already do... If you are in Christ, you already have the heart of Christ. One of the supreme yet unrealized promises of God is simply this: if you have given your life to Jesus, Jesus has given himself to you. He has made your heart his home. It would be hard to say it more succinctly than Paul does: “Christ lives in me” (Gal.2:20 MSG)...\nHe has moved in and unpacked his bags and is ready to change you “into his likeness from one degree of glory to another” (2 Cor. 3:18 RSV). ',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -801,7 +801,7 @@
       "ref": 'HEBREWS 11:1',
       "text": 'Faith means being sure of the things we hope for and knowing that something is real even if we do not see it.'
     },
-    "body": 'Faith is the belief that God is real and that God is good… . It is a choice to believe that the one who made it all hasn’t left it all and that he still sends light into the shadows and responds to gestures of faith… .\nFaith is the belief that God will do what is right.\nGod says that the more hopeless your circumstances, the more likely your salvation. The greater your cares, the more genuine your prayers. The darker the room, the greater the need for light.\nGod’s help is near and always available, but it is only given to those who seek it. ',
+    "body": 'Faith is the belief that God is real and that God is good... It is a choice to believe that the one who made it all hasn’t left it all and that he still sends light into the shadows and responds to gestures of faith...\nFaith is the belief that God will do what is right.\nGod says that the more hopeless your circumstances, the more likely your salvation. The greater your cares, the more genuine your prayers. The darker the room, the greater the need for light.\nGod’s help is near and always available, but it is only given to those who seek it.',
     "dailyPrayer": {
       "title": '',
       "text": ''
