@@ -861,7 +861,7 @@
       "ref": 'PSALM 56:3 NLT',
       "text": 'When I am afraid, I put my trust in you.'
     },
-    "body": 'How did Jesus endure the terror of the crucifixion? He went first to the Father with his fears. He modeled the words of Psalm 56:3: “When I am afraid, I put my trust in you.”\nDo the same with yours. Don’t avoid life’s Gardens of Gethsemane.\nEnter them. Just don’t enter them alone. And while there, be honest.\nPounding the ground is permitted. Tears are allowed. And if you sweat blood, you won’t be the first. Do what Jesus did; open your heart.\nAnd be specific. Jesus was. “Take this cup,” he prayed. Give God the number of the flight. Tell him the length of the speech. Share the details of the job transfer. He has plenty of time. He also has plenty of compassion.\nHe doesn’t think your fears are foolish or silly. He won’t tell you to\n“buck up” or “get tough.” He’s been where you are. He knows how you feel.\nAnd he knows what you need. ',
+    "body": 'How did Jesus endure the terror of the crucifixion? He went first to the Father with his fears. He modeled the words of Psalm 56:3: “When I am afraid, I put my trust in you.”\nDo the same with yours. Don’t avoid life’s Gardens of Gethsemane.\nEnter them. Just don’t enter them alone. And while there, be honest.\nPounding the ground is permitted. Tears are allowed. And if you sweat blood, you won’t be the first. Do what Jesus did; open your heart.\nAnd be specific. Jesus was. “Take this cup,” he prayed. Give God the number of the flight. Tell him the length of the speech. Share the details of the job transfer. He has plenty of time. He also has plenty of compassion.\nHe doesn’t think your fears are foolish or silly. He won’t tell you to “buck up” or “get tough.” He’s been where you are. He knows how you feel.\nAnd he knows what you need. ',
     "dailyPrayer": {
       "title": '',
       "text": ''
@@ -871,12 +871,12 @@
   "02-28": {
     "title": 'The Love of God',
     "note": '',
-    "passage": '—HOSEA 11:9',
+    "passage": 'A Love Worth Giving',
     "dailyVerse": {
       "ref": 'ROMANS 9:25 MSG',
       "text": 'I’ll call the unloved and make them beloved.'
     },
-    "body": 'Our love depends on the receiver of the love. Let a thousand people pass before us, and we will not feel the same about each. Our love will be regulated by their appearance, by their personalities. Even when we find a few people we like, our feelings will fluctuate. How they treat us will affect how we love them. The receiver regulates our love.\nNot so with the love of God. We have no thermostatic impact on his love for us. The love of God is born from within him, not from what he finds in us. His love is uncaused and spontaneous… .\nDoes he love us because of our goodness? Because of our kindness?\nBecause of our great faith? No, he loves us because of his goodness, kindness, and great faith.\nA Love Worth Giving\nMarch\n“I am the Holy One,\nand I am among you.” ',
+    "body": 'Our love depends on the receiver of the love. Let a thousand people pass before us, and we will not feel the same about each. Our love will be regulated by their appearance, by their personalities. Even when we find a few people we like, our feelings will fluctuate. How they treat us will affect how we love them. The receiver regulates our love.\nNot so with the love of God. We have no thermostatic impact on his love for us. The love of God is born from within him, not from what he finds in us. His love is uncaused and spontaneous… .\nDoes he love us because of our goodness? Because of our kindness?\nBecause of our great faith? No, he loves us because of his goodness, kindness, and great faith.',
     "dailyPrayer": {
       "title": '',
       "text": ''
