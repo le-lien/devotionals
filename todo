@@ -7,6 +7,18 @@ https://github.com/le-lien/devotionals
 … . ---> ...
 … ---> ...
 
+NOTES:
+Final single entries are saved under /data/entries. These files will be used to compile the data file.
+
+
+CORRECTION/ADDING FILES-------------------------------------------------------------------
+Set working directory
+Make correction of files in data/entries.
+If one entry is missing, create it, save it in 2 folders, data/entries and data/entries/tripp
+source("D:/devotional_site_annotations/devotionals/convert_to_js.R")
+In Github open: D:/devotional_site_annotations/devotionals/
+Commit and Push to https://github.com/le-lien/devotionals
+
 TO-DO -----------------------------------------------------------------
 - database to merge data on all devices?
 - verse of the month (derek prince, lucado 1,2,3,4?) with image?
